@@ -1,0 +1,1001 @@
+﻿patient_id,age,age_group,gender,city,province,diagnosis,enrolment_date,enrolment_month,insurance_type,age_original,age_flag,province_source,source_row
+PT0001,62,60-79,Male,Faisalabad,Punjab,Neovascular AMD,2024-01-02,2024-01-01,Employer panel,62,Valid,Recorded,2
+PT0002,57,40-59,Female,Lahore,Punjab,Multiple Sclerosis,2024-01-02,2024-01-01,Sehat Card,57,Valid,Recorded,3
+PT0003,,Unknown,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-01-03,2024-01-01,Self-pay,,Missing,Recorded,4
+PT0004,79,60-79,Female,Karachi,Sindh,Neovascular AMD,2024-01-04,2024-01-01,Self-pay,79,Valid,Recorded,5
+PT0005,48,40-59,Female,Multan,Punjab,Multiple Sclerosis,2024-01-05,2024-01-01,Self-pay,48,Valid,Recorded,6
+PT0006,26,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-01-05,2024-01-01,Private insurance,26,Valid,Recorded,7
+PT0007,38,18-39,Male,Karachi,Sindh,Rheumatoid Arthritis,2024-01-06,2024-01-01,Self-pay,38,Valid,Recorded,8
+PT0008,35,18-39,Male,Faisalabad,Punjab,Multiple Sclerosis,2024-01-08,2024-01-01,Self-pay,35,Valid,Recorded,9
+PT0009,75,60-79,Female,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-01-09,2024-01-01,Private insurance,75,Valid,Recorded,10
+PT0010,36,18-39,Male,Quetta,Balochistan,Multiple Sclerosis,2024-01-11,2024-01-01,Private insurance,36,Valid,Recorded,11
+PT0011,56,40-59,Male,Lahore,Punjab,HER2+ Breast Cancer,2024-01-12,2024-01-01,Private insurance,56,Valid,Recorded,12
+PT0012,53,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-01-12,2024-01-01,Employer panel,53,Valid,Recorded,13
+PT0013,63,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-01-14,2024-01-01,Sehat Card,63,Valid,Recorded,14
+PT0014,60,60-79,Not recorded,Karachi,Sindh,Neovascular AMD,2024-01-15,2024-01-01,Employer panel,60,Valid,Recorded,15
+PT0015,48,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-01-16,2024-01-01,Self-pay,48,Valid,Recorded,16
+PT0016,44,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-01-17,2024-01-01,Sehat Card,44,Valid,Recorded,17
+PT0017,69,60-79,Female,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2024-01-18,2024-01-01,Employer panel,69,Valid,Recorded,18
+PT0018,37,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-01-18,2024-01-01,Sehat Card,37,Valid,Derived from city,19
+PT0019,52,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-01-19,2024-01-01,Private insurance,52,Valid,Recorded,20
+PT0020,21,18-39,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2024-01-19,2024-01-01,Self-pay,21,Valid,Recorded,21
+PT0021,,Unknown,Female,Multan,Punjab,HER2+ Breast Cancer,2024-01-21,2024-01-01,Private insurance,199,Implausible (excluded),Recorded,22
+PT0022,72,60-79,Male,Lahore,Punjab,Neovascular AMD,2024-01-21,2024-01-01,Private insurance,72,Valid,Recorded,23
+PT0023,81,80+,Male,Karachi,Sindh,Neovascular AMD,2024-01-22,2024-01-01,Self-pay,81,Valid,Recorded,24
+PT0024,32,18-39,Male,Rawalpindi,Punjab,Multiple Sclerosis,2024-01-22,2024-01-01,Sehat Card,32,Valid,Recorded,25
+PT0025,84,80+,Female,Karachi,Sindh,Neovascular AMD,2024-01-23,2024-01-01,Sehat Card,84,Valid,Recorded,26
+PT0026,44,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2024-01-23,2024-01-01,Employer panel,44,Valid,Recorded,27
+PT0027,47,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-01-24,2024-01-01,Self-pay,47,Valid,Recorded,28
+PT0028,36,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-01-24,2024-01-01,Self-pay,36,Valid,Recorded,29
+PT0029,72,60-79,Female,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2024-01-28,2024-01-01,Private insurance,72,Valid,Recorded,30
+PT0030,42,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-01-29,2024-01-01,Sehat Card,42,Valid,Recorded,31
+PT0031,42,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-01-29,2024-01-01,Self-pay,42,Valid,Recorded,32
+PT0032,51,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-01-29,2024-01-01,Self-pay,51,Valid,Recorded,33
+PT0033,35,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-01-30,2024-01-01,Sehat Card,35,Valid,Recorded,34
+PT0034,50,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-02-04,2024-02-01,Self-pay,50,Valid,Recorded,35
+PT0035,29,18-39,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-02-04,2024-02-01,Employer panel,29,Valid,Recorded,36
+PT0036,73,60-79,Male,Karachi,Sindh,Neovascular AMD,2024-02-04,2024-02-01,Private insurance,73,Valid,Recorded,37
+PT0037,46,40-59,Female,Multan,Punjab,HER2+ Breast Cancer,2024-02-05,2024-02-01,Self-pay,46,Valid,Recorded,38
+PT0038,60,60-79,Female,Quetta,Balochistan,Neovascular AMD,2024-02-05,2024-02-01,Private insurance,60,Valid,Recorded,39
+PT0039,36,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-02-08,2024-02-01,Self-pay,36,Valid,Recorded,40
+PT0040,64,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-02-08,2024-02-01,Private insurance,64,Valid,Recorded,41
+PT0041,46,40-59,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-02-09,2024-02-01,Private insurance,46,Valid,Recorded,42
+PT0042,61,60-79,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-02-09,2024-02-01,Sehat Card,61,Valid,Recorded,43
+PT0043,38,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-02-09,2024-02-01,Self-pay,38,Valid,Recorded,44
+PT0044,61,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-02-10,2024-02-01,Sehat Card,61,Valid,Recorded,45
+PT0045,33,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2024-02-11,2024-02-01,Sehat Card,33,Valid,Recorded,46
+PT0046,48,40-59,Male,Lahore,Punjab,Multiple Sclerosis,2024-02-12,2024-02-01,Employer panel,48,Valid,Recorded,47
+PT0047,46,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2024-02-12,2024-02-01,Sehat Card,46,Valid,Recorded,48
+PT0048,63,60-79,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-02-12,2024-02-01,Private insurance,63,Valid,Recorded,49
+PT0049,54,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-02-15,2024-02-01,Private insurance,54,Valid,Recorded,50
+PT0050,48,40-59,Female,Multan,Punjab,Rheumatoid Arthritis,2024-02-16,2024-02-01,Private insurance,48,Valid,Recorded,51
+PT0051,56,40-59,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-02-16,2024-02-01,Self-pay,56,Valid,Recorded,52
+PT0052,46,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-02-16,2024-02-01,Employer panel,46,Valid,Recorded,53
+PT0053,42,40-59,Male,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-02-16,2024-02-01,Private insurance,42,Valid,Recorded,54
+PT0054,41,40-59,Female,Multan,Punjab,Rheumatoid Arthritis,2024-02-17,2024-02-01,Employer panel,41,Valid,Recorded,55
+PT0055,57,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-02-18,2024-02-01,Not recorded,57,Valid,Recorded,56
+PT0056,60,60-79,Not recorded,Faisalabad,Punjab,Rheumatoid Arthritis,2024-02-18,2024-02-01,Private insurance,60,Valid,Recorded,57
+PT0057,48,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-02-19,2024-02-01,Self-pay,48,Valid,Recorded,58
+PT0058,59,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-02-19,2024-02-01,Employer panel,59,Valid,Recorded,59
+PT0059,50,40-59,Male,Karachi,Sindh,Rheumatoid Arthritis,2024-02-20,2024-02-01,Sehat Card,50,Valid,Recorded,60
+PT0060,68,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-02-21,2024-02-01,Self-pay,68,Valid,Recorded,61
+PT0061,33,18-39,Male,Karachi,Sindh,Rheumatoid Arthritis,2024-02-22,2024-02-01,Sehat Card,33,Valid,Recorded,62
+PT0319,36,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-10-05,2024-10-01,Employer panel,36,Valid,Recorded,63
+PT0062,50,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-02-22,2024-02-01,Employer panel,50,Valid,Recorded,64
+PT0063,59,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-02-24,2024-02-01,Private insurance,59,Valid,Recorded,65
+PT0064,66,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-02-25,2024-02-01,Self-pay,66,Valid,Recorded,66
+PT0065,76,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-02-27,2024-02-01,Employer panel,76,Valid,Recorded,67
+PT0066,64,60-79,Female,Multan,Punjab,HER2+ Breast Cancer,2024-02-28,2024-02-01,Employer panel,64,Valid,Recorded,68
+PT0067,57,40-59,Female,Multan,Punjab,Neovascular AMD,2024-03-02,2024-03-01,Private insurance,57,Valid,Recorded,69
+PT0068,49,40-59,Male,Faisalabad,Punjab,Rheumatoid Arthritis,2024-03-03,2024-03-01,Private insurance,49,Valid,Recorded,70
+PT0069,44,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-03-04,2024-03-01,Self-pay,44,Valid,Recorded,71
+PT0070,,Unknown,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-03-08,2024-03-01,Sehat Card,,Missing,Recorded,72
+PT0071,56,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2024-03-08,2024-03-01,Self-pay,56,Valid,Recorded,73
+PT0072,52,40-59,Male,Karachi,Sindh,Rheumatoid Arthritis,2024-03-13,2024-03-01,Self-pay,52,Valid,Recorded,74
+PT0073,47,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2024-03-14,2024-03-01,Employer panel,47,Valid,Recorded,75
+PT0074,45,40-59,Female,Multan,Punjab,Rheumatoid Arthritis,2024-03-17,2024-03-01,Sehat Card,45,Valid,Recorded,76
+PT0075,80,80+,Female,Karachi,Sindh,Neovascular AMD,2024-03-18,2024-03-01,Self-pay,80,Valid,Recorded,77
+PT0076,57,40-59,Female,Multan,Punjab,Rheumatoid Arthritis,2024-03-18,2024-03-01,Private insurance,57,Valid,Recorded,78
+PT0077,66,60-79,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-03-18,2024-03-01,Private insurance,66,Valid,Recorded,79
+PT0078,58,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-03-18,2024-03-01,Self-pay,58,Valid,Recorded,80
+PT0079,35,18-39,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-03-18,2024-03-01,Private insurance,35,Valid,Recorded,81
+PT0080,60,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-03-21,2024-03-01,Self-pay,60,Valid,Recorded,82
+PT0081,63,60-79,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-03-21,2024-03-01,Employer panel,63,Valid,Recorded,83
+PT0082,42,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-03-23,2024-03-01,Employer panel,42,Valid,Recorded,84
+PT0083,41,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-03-23,2024-03-01,Employer panel,41,Valid,Recorded,85
+PT0084,67,60-79,Not recorded,Faisalabad,Punjab,Rheumatoid Arthritis,2024-03-24,2024-03-01,Employer panel,67,Valid,Recorded,86
+PT0085,51,40-59,Male,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-03-24,2024-03-01,Sehat Card,51,Valid,Recorded,87
+PT0086,28,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-03-26,2024-03-01,Self-pay,28,Valid,Derived from city,88
+PT0087,18,18-39,Male,Lahore,Punjab,Rheumatoid Arthritis,2024-03-26,2024-03-01,Self-pay,18,Valid,Recorded,89
+PT0088,66,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-03-27,2024-03-01,Private insurance,66,Valid,Recorded,90
+PT0089,72,60-79,Male,Karachi,Sindh,Neovascular AMD,2024-03-27,2024-03-01,Private insurance,72,Valid,Recorded,91
+PT0090,49,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-03-28,2024-03-01,Self-pay,49,Valid,Recorded,92
+PT0091,33,18-39,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-03-29,2024-03-01,Employer panel,33,Valid,Recorded,93
+PT0092,41,40-59,Female,Multan,Punjab,Multiple Sclerosis,2024-03-30,2024-03-01,Self-pay,41,Valid,Recorded,94
+PT0093,49,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-03-30,2024-03-01,Self-pay,49,Valid,Recorded,95
+PT0094,52,40-59,Female,Karachi,Sindh,Multiple Sclerosis,2024-03-31,2024-03-01,Private insurance,52,Valid,Recorded,96
+PT0095,32,18-39,Female,Multan,Punjab,HER2+ Breast Cancer,2024-03-31,2024-03-01,Employer panel,32,Valid,Recorded,97
+PT0096,42,40-59,Male,Quetta,Balochistan,Rheumatoid Arthritis,2024-04-01,2024-04-01,Sehat Card,42,Valid,Recorded,98
+PT0097,68,60-79,Male,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-04-02,2024-04-01,Self-pay,68,Valid,Recorded,99
+PT0098,30,18-39,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-04-03,2024-04-01,Sehat Card,30,Valid,Recorded,100
+PT0099,32,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-04-03,2024-04-01,Employer panel,32,Valid,Recorded,101
+PT0100,62,60-79,Not recorded,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2024-04-04,2024-04-01,Self-pay,62,Valid,Recorded,102
+PT0101,44,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-04-04,2024-04-01,Self-pay,44,Valid,Recorded,103
+PT0102,52,40-59,Not recorded,Karachi,Sindh,Rheumatoid Arthritis,2024-04-04,2024-04-01,Self-pay,52,Valid,Recorded,104
+PT0103,67,60-79,Male,Faisalabad,Punjab,Neovascular AMD,2024-04-05,2024-04-01,Self-pay,67,Valid,Recorded,105
+PT0104,60,60-79,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-04-05,2024-04-01,Self-pay,60,Valid,Recorded,106
+PT0105,24,18-39,Female,Lahore,Punjab,Multiple Sclerosis,2024-04-06,2024-04-01,Not recorded,24,Valid,Recorded,107
+PT0106,59,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-04-07,2024-04-01,Employer panel,59,Valid,Recorded,108
+PT0107,34,18-39,Male,Karachi,Sindh,Multiple Sclerosis,2024-04-08,2024-04-01,Not recorded,34,Valid,Recorded,109
+PT0108,19,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-04-08,2024-04-01,Private insurance,19,Valid,Recorded,110
+PT0109,64,60-79,Female,Faisalabad,Punjab,Neovascular AMD,2024-04-09,2024-04-01,Private insurance,64,Valid,Recorded,111
+PT0110,42,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-04-09,2024-04-01,Employer panel,42,Valid,Recorded,112
+PT0111,37,18-39,Male,Lahore,Punjab,Rheumatoid Arthritis,2024-04-09,2024-04-01,Private insurance,37,Valid,Recorded,113
+PT0112,82,80+,Male,Faisalabad,Punjab,Neovascular AMD,2024-04-10,2024-04-01,Self-pay,82,Valid,Recorded,114
+PT0113,28,18-39,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-04-10,2024-04-01,Self-pay,28,Valid,Recorded,115
+PT0114,33,18-39,Male,Lahore,Punjab,Multiple Sclerosis,2024-04-12,2024-04-01,Self-pay,33,Valid,Recorded,116
+PT0115,52,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-04-13,2024-04-01,Self-pay,52,Valid,Derived from city,117
+PT0116,72,60-79,Female,Karachi,Sindh,Neovascular AMD,2024-04-13,2024-04-01,Sehat Card,72,Valid,Recorded,118
+PT0117,45,40-59,Male,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2024-04-14,2024-04-01,Employer panel,45,Valid,Recorded,119
+PT0118,55,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-04-15,2024-04-01,Sehat Card,55,Valid,Recorded,120
+PT0119,34,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2024-04-15,2024-04-01,Sehat Card,34,Valid,Recorded,121
+PT0120,,Unknown,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2024-04-16,2024-04-01,Employer panel,250,Implausible (excluded),Recorded,122
+PT0121,30,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2024-04-16,2024-04-01,Private insurance,30,Valid,Recorded,123
+PT0122,60,60-79,Female,Multan,Punjab,Rheumatoid Arthritis,2024-04-16,2024-04-01,Employer panel,60,Valid,Recorded,124
+PT0123,57,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-04-16,2024-04-01,Self-pay,57,Valid,Recorded,125
+PT0124,19,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2024-04-17,2024-04-01,Employer panel,19,Valid,Recorded,126
+PT0125,44,40-59,Female,Quetta,Balochistan,Rheumatoid Arthritis,2024-04-18,2024-04-01,Self-pay,44,Valid,Recorded,127
+PT0126,46,40-59,Female,Multan,Punjab,Rheumatoid Arthritis,2024-04-18,2024-04-01,Private insurance,46,Valid,Recorded,128
+PT0127,71,60-79,Female,Multan,Punjab,Neovascular AMD,2024-04-19,2024-04-01,Self-pay,71,Valid,Recorded,129
+PT0128,50,40-59,Male,Karachi,Sindh,Rheumatoid Arthritis,2024-04-20,2024-04-01,Self-pay,50,Valid,Recorded,130
+PT0129,30,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2024-04-20,2024-04-01,Self-pay,30,Valid,Recorded,131
+PT0130,71,60-79,Female,Quetta,Balochistan,Neovascular AMD,2024-04-20,2024-04-01,Self-pay,71,Valid,Recorded,132
+PT0131,33,18-39,Male,Faisalabad,Punjab,Multiple Sclerosis,2024-04-21,2024-04-01,Employer panel,33,Valid,Recorded,133
+PT0132,56,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-04-21,2024-04-01,Self-pay,56,Valid,Recorded,134
+PT0133,40,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2024-04-21,2024-04-01,Sehat Card,40,Valid,Recorded,135
+PT0134,68,60-79,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-04-22,2024-04-01,Not recorded,68,Valid,Recorded,136
+PT0135,65,60-79,Female,Rawalpindi,Punjab,Neovascular AMD,2024-04-24,2024-04-01,Self-pay,65,Valid,Recorded,137
+PT0136,71,60-79,Male,Lahore,Punjab,Neovascular AMD,2024-04-24,2024-04-01,Self-pay,71,Valid,Recorded,138
+PT0137,62,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-04-26,2024-04-01,Employer panel,62,Valid,Recorded,139
+PT0138,52,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2024-04-26,2024-04-01,Employer panel,52,Valid,Recorded,140
+PT0139,44,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-04-26,2024-04-01,Sehat Card,44,Valid,Recorded,141
+PT0140,56,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-04-26,2024-04-01,Employer panel,56,Valid,Recorded,142
+PT0141,,Unknown,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-04-26,2024-04-01,Self-pay,250,Implausible (excluded),Recorded,143
+PT0142,28,18-39,Female,Multan,Punjab,Multiple Sclerosis,2024-04-28,2024-04-01,Self-pay,28,Valid,Recorded,144
+PT0143,44,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-04-28,2024-04-01,Sehat Card,44,Valid,Recorded,145
+PT0144,58,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2024-04-28,2024-04-01,Sehat Card,58,Valid,Recorded,146
+PT0145,40,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-04-30,2024-04-01,Self-pay,40,Valid,Recorded,147
+PT0146,44,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-05-01,2024-05-01,Private insurance,44,Valid,Recorded,148
+PT0147,30,18-39,Male,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2024-05-01,2024-05-01,Private insurance,30,Valid,Recorded,149
+PT0148,49,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-05-01,2024-05-01,Sehat Card,49,Valid,Recorded,150
+PT0149,42,40-59,Female,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2024-05-02,2024-05-01,Employer panel,42,Valid,Recorded,151
+PT0150,60,60-79,Male,Lahore,Punjab,Rheumatoid Arthritis,2024-05-03,2024-05-01,Self-pay,60,Valid,Recorded,152
+PT0151,35,18-39,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-05-03,2024-05-01,Employer panel,35,Valid,Recorded,153
+PT0152,32,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2024-05-03,2024-05-01,Employer panel,32,Valid,Recorded,154
+PT0153,51,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2024-05-04,2024-05-01,Private insurance,51,Valid,Recorded,155
+PT0154,18,18-39,Male,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2024-05-05,2024-05-01,Employer panel,18,Valid,Recorded,156
+PT0155,54,40-59,Female,Lahore,Punjab,Neovascular AMD,2024-05-06,2024-05-01,Self-pay,54,Valid,Recorded,157
+PT0156,47,40-59,Male,Quetta,Balochistan,HER2+ Breast Cancer,2024-05-06,2024-05-01,Private insurance,47,Valid,Recorded,158
+PT0157,20,18-39,Male,Karachi,Sindh,Rheumatoid Arthritis,2024-05-06,2024-05-01,Private insurance,20,Valid,Recorded,159
+PT0158,75,60-79,Female,Quetta,Balochistan,Neovascular AMD,2024-05-06,2024-05-01,Employer panel,75,Valid,Recorded,160
+PT0159,75,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-05-07,2024-05-01,Private insurance,75,Valid,Recorded,161
+PT0160,47,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-05-08,2024-05-01,Sehat Card,47,Valid,Recorded,162
+PT0161,46,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-05-09,2024-05-01,Not recorded,46,Valid,Recorded,163
+PT0162,21,18-39,Male,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-05-10,2024-05-01,Self-pay,21,Valid,Recorded,164
+PT0199,40,40-59,Male,Karachi,Sindh,Rheumatoid Arthritis,2024-06-05,2024-06-01,Self-pay,40,Valid,Recorded,165
+PT0163,45,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-05-10,2024-05-01,Self-pay,45,Valid,Recorded,166
+PT0164,45,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-05-11,2024-05-01,Self-pay,45,Valid,Recorded,167
+PT0165,53,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-05-11,2024-05-01,Employer panel,53,Valid,Recorded,168
+PT0166,71,60-79,Female,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2024-05-13,2024-05-01,Private insurance,71,Valid,Recorded,169
+PT0167,60,60-79,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-05-13,2024-05-01,Sehat Card,60,Valid,Recorded,170
+PT0168,55,40-59,Female,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-05-13,2024-05-01,Private insurance,55,Valid,Derived from city,171
+PT0169,59,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-05-14,2024-05-01,Self-pay,59,Valid,Recorded,172
+PT0170,49,40-59,Female,Multan,Punjab,Rheumatoid Arthritis,2024-05-14,2024-05-01,Employer panel,49,Valid,Recorded,173
+PT0171,44,40-59,Female,Rawalpindi,Punjab,Multiple Sclerosis,2024-05-14,2024-05-01,Self-pay,44,Valid,Recorded,174
+PT0172,46,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-05-15,2024-05-01,Self-pay,46,Valid,Recorded,175
+PT0173,65,60-79,Female,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2024-05-15,2024-05-01,Self-pay,65,Valid,Derived from city,176
+PT0174,60,60-79,Female,Multan,Punjab,Neovascular AMD,2024-05-17,2024-05-01,Employer panel,60,Valid,Recorded,177
+PT0175,63,60-79,Male,Karachi,Sindh,Neovascular AMD,2024-05-19,2024-05-01,Employer panel,63,Valid,Recorded,178
+PT0176,18,18-39,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-05-20,2024-05-01,Self-pay,18,Valid,Recorded,179
+PT0177,25,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2024-05-20,2024-05-01,Private insurance,25,Valid,Recorded,180
+PT0178,31,18-39,Male,Faisalabad,Punjab,Rheumatoid Arthritis,2024-05-21,2024-05-01,Private insurance,31,Valid,Recorded,181
+PT0179,34,18-39,Female,Quetta,Balochistan,HER2+ Breast Cancer,2024-05-21,2024-05-01,Not recorded,34,Valid,Recorded,182
+PT0180,68,60-79,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-05-22,2024-05-01,Self-pay,68,Valid,Recorded,183
+PT0181,30,18-39,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2024-05-22,2024-05-01,Employer panel,30,Valid,Recorded,184
+PT0182,33,18-39,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-05-23,2024-05-01,Self-pay,33,Valid,Recorded,185
+PT0468,34,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-01-07,2025-01-01,Employer panel,34,Valid,Recorded,186
+PT0183,46,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-05-23,2024-05-01,Employer panel,46,Valid,Recorded,187
+PT0184,33,18-39,Female,Quetta,Balochistan,Rheumatoid Arthritis,2024-05-23,2024-05-01,Sehat Card,33,Valid,Recorded,188
+PT0185,53,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-05-23,2024-05-01,Self-pay,53,Valid,Recorded,189
+PT0186,39,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2024-05-24,2024-05-01,Private insurance,39,Valid,Recorded,190
+PT0187,43,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-05-25,2024-05-01,Sehat Card,43,Valid,Derived from city,191
+PT0188,55,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-05-27,2024-05-01,Self-pay,55,Valid,Recorded,192
+PT0755,28,18-39,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-08-24,2025-08-01,Private insurance,28,Valid,Recorded,193
+PT0189,48,40-59,Male,Lahore,Punjab,Rheumatoid Arthritis,2024-05-28,2024-05-01,Private insurance,48,Valid,Recorded,194
+PT0190,42,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-05-29,2024-05-01,Private insurance,42,Valid,Recorded,195
+PT0191,55,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-05-29,2024-05-01,Sehat Card,55,Valid,Recorded,196
+PT0192,38,18-39,Male,Rawalpindi,Punjab,Multiple Sclerosis,2024-05-29,2024-05-01,Employer panel,38,Valid,Recorded,197
+PT0193,66,60-79,Female,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-05-31,2024-05-01,Self-pay,66,Valid,Recorded,198
+PT0233,52,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-07-31,2024-07-01,Private insurance,52,Valid,Recorded,199
+PT0194,63,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-06-02,2024-06-01,Employer panel,63,Valid,Derived from city,200
+PT0195,39,18-39,Male,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-06-02,2024-06-01,Self-pay,39,Valid,Recorded,201
+PT0196,67,60-79,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-06-03,2024-06-01,Self-pay,67,Valid,Recorded,202
+PT0197,51,40-59,Female,Quetta,Balochistan,Rheumatoid Arthritis,2024-06-04,2024-06-01,Self-pay,51,Valid,Recorded,203
+PT0198,29,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-06-05,2024-06-01,Employer panel,29,Valid,Recorded,204
+PT0200,53,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-06-07,2024-06-01,Self-pay,53,Valid,Recorded,206
+PT0201,37,18-39,Female,Lahore,Punjab,Multiple Sclerosis,2024-06-07,2024-06-01,Sehat Card,37,Valid,Recorded,207
+PT0202,29,18-39,Male,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-06-10,2024-06-01,Self-pay,29,Valid,Recorded,208
+PT0203,61,60-79,Female,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-06-11,2024-06-01,Self-pay,61,Valid,Recorded,209
+PT0204,55,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-06-12,2024-06-01,Sehat Card,55,Valid,Recorded,210
+PT0205,25,18-39,Male,Lahore,Punjab,Multiple Sclerosis,2024-06-14,2024-06-01,Self-pay,25,Valid,Recorded,211
+PT0206,42,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-06-14,2024-06-01,Self-pay,42,Valid,Recorded,212
+PT0207,68,60-79,Female,Karachi,Sindh,Neovascular AMD,2024-06-15,2024-06-01,Self-pay,68,Valid,Recorded,213
+PT0208,52,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-06-19,2024-06-01,Private insurance,52,Valid,Recorded,214
+PT0209,42,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-06-20,2024-06-01,Self-pay,42,Valid,Recorded,215
+PT0210,44,40-59,Male,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2024-06-24,2024-06-01,Private insurance,44,Valid,Recorded,216
+PT0211,56,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-06-24,2024-06-01,Employer panel,56,Valid,Recorded,217
+PT0212,47,40-59,Male,Lahore,Punjab,Rheumatoid Arthritis,2024-06-26,2024-06-01,Employer panel,47,Valid,Recorded,218
+PT0213,67,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-06-26,2024-06-01,Sehat Card,67,Valid,Recorded,219
+PT0214,49,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2024-06-28,2024-06-01,Employer panel,49,Valid,Recorded,220
+PT0215,54,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-06-28,2024-06-01,Private insurance,54,Valid,Recorded,221
+PT0216,56,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-06-30,2024-06-01,Self-pay,56,Valid,Recorded,222
+PT0217,76,60-79,Female,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-06-30,2024-06-01,Private insurance,76,Valid,Derived from city,223
+PT0218,51,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-07-01,2024-07-01,Sehat Card,51,Valid,Recorded,224
+PT0219,58,40-59,Female,Quetta,Balochistan,Rheumatoid Arthritis,2024-07-01,2024-07-01,Employer panel,58,Valid,Recorded,225
+PT0220,63,60-79,Female,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-07-01,2024-07-01,Self-pay,63,Valid,Recorded,226
+PT0221,80,80+,Female,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2024-07-01,2024-07-01,Self-pay,80,Valid,Recorded,227
+PT0222,37,18-39,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-07-03,2024-07-01,Employer panel,37,Valid,Recorded,228
+PT0223,53,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-07-06,2024-07-01,Self-pay,53,Valid,Recorded,229
+PT0224,71,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-07-06,2024-07-01,Sehat Card,71,Valid,Recorded,230
+PT0225,28,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2024-07-07,2024-07-01,Employer panel,28,Valid,Recorded,231
+PT0226,61,60-79,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-07-08,2024-07-01,Self-pay,61,Valid,Recorded,232
+PT0227,34,18-39,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-07-12,2024-07-01,Private insurance,34,Valid,Recorded,233
+PT0228,42,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-07-12,2024-07-01,Self-pay,42,Valid,Recorded,234
+PT0229,39,18-39,Not recorded,Rawalpindi,Punjab,Multiple Sclerosis,2024-07-17,2024-07-01,Self-pay,39,Valid,Recorded,235
+PT0230,18,18-39,Male,Faisalabad,Punjab,Multiple Sclerosis,2024-07-18,2024-07-01,Employer panel,18,Valid,Recorded,236
+PT0231,47,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-07-27,2024-07-01,Self-pay,47,Valid,Recorded,237
+PT0232,42,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-07-30,2024-07-01,Self-pay,42,Valid,Recorded,238
+PT0234,35,18-39,Female,Quetta,Balochistan,Multiple Sclerosis,2024-08-01,2024-08-01,Private insurance,35,Valid,Recorded,240
+PT0235,73,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-08-02,2024-08-01,Sehat Card,73,Valid,Recorded,241
+PT0236,80,80+,Female,Rawalpindi,Punjab,Neovascular AMD,2024-08-03,2024-08-01,Self-pay,80,Valid,Recorded,242
+PT0237,34,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2024-08-03,2024-08-01,Sehat Card,34,Valid,Recorded,243
+PT0238,47,40-59,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-08-03,2024-08-01,Self-pay,47,Valid,Recorded,244
+PT0239,52,40-59,Male,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-08-05,2024-08-01,Private insurance,52,Valid,Recorded,245
+PT0240,39,18-39,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-08-06,2024-08-01,Self-pay,39,Valid,Recorded,246
+PT0241,69,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-08-07,2024-08-01,Employer panel,69,Valid,Recorded,247
+PT0242,22,18-39,Female,Lahore,Punjab,Multiple Sclerosis,2024-08-07,2024-08-01,Self-pay,22,Valid,Recorded,248
+PT0243,28,18-39,Female,Faisalabad,Punjab,Multiple Sclerosis,2024-08-08,2024-08-01,Employer panel,28,Valid,Recorded,249
+PT0385,52,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-11-13,2024-11-01,Employer panel,52,Valid,Derived from city,250
+PT0244,41,40-59,Female,Lahore,Punjab,Multiple Sclerosis,2024-08-09,2024-08-01,Self-pay,41,Valid,Recorded,251
+PT0245,48,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-08-11,2024-08-01,Employer panel,48,Valid,Recorded,252
+PT0246,53,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-08-11,2024-08-01,Self-pay,53,Valid,Recorded,253
+PT0247,49,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-08-12,2024-08-01,Self-pay,49,Valid,Recorded,254
+PT0248,58,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-08-12,2024-08-01,Employer panel,58,Valid,Recorded,255
+PT0249,70,60-79,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-08-13,2024-08-01,Sehat Card,70,Valid,Recorded,256
+PT0250,59,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-08-14,2024-08-01,Sehat Card,59,Valid,Recorded,257
+PT0251,88,80+,Male,Karachi,Sindh,Neovascular AMD,2024-08-14,2024-08-01,Self-pay,88,Valid,Recorded,258
+PT0252,64,60-79,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-08-14,2024-08-01,Self-pay,64,Valid,Recorded,259
+PT0253,63,60-79,Female,Karachi,Sindh,Neovascular AMD,2024-08-15,2024-08-01,Self-pay,63,Valid,Recorded,260
+PT0254,47,40-59,Male,Lahore,Punjab,Neovascular AMD,2024-08-15,2024-08-01,Employer panel,47,Valid,Recorded,261
+PT0255,46,40-59,Not recorded,Karachi,Sindh,Rheumatoid Arthritis,2024-08-16,2024-08-01,Employer panel,46,Valid,Recorded,262
+PT0256,65,60-79,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-08-17,2024-08-01,Sehat Card,65,Valid,Recorded,263
+PT0257,56,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-08-18,2024-08-01,Private insurance,56,Valid,Recorded,264
+PT0258,63,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-08-18,2024-08-01,Self-pay,63,Valid,Recorded,265
+PT0259,81,80+,Female,Faisalabad,Punjab,Neovascular AMD,2024-08-19,2024-08-01,Employer panel,81,Valid,Recorded,266
+PT0260,54,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-08-22,2024-08-01,Employer panel,54,Valid,Recorded,267
+PT0261,76,60-79,Male,Karachi,Sindh,Neovascular AMD,2024-08-23,2024-08-01,Sehat Card,76,Valid,Recorded,268
+PT0262,18,18-39,Female,Rawalpindi,Punjab,Multiple Sclerosis,2024-08-23,2024-08-01,Employer panel,18,Valid,Recorded,269
+PT0742,33,18-39,Female,Lahore,Punjab,Multiple Sclerosis,2025-08-11,2025-08-01,Sehat Card,33,Valid,Recorded,270
+PT0263,45,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-08-23,2024-08-01,Sehat Card,45,Valid,Recorded,271
+PT0264,34,18-39,Not recorded,Multan,Punjab,Multiple Sclerosis,2024-08-23,2024-08-01,Self-pay,34,Valid,Recorded,272
+PT0265,49,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-08-24,2024-08-01,Sehat Card,49,Valid,Recorded,273
+PT0266,67,60-79,Male,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-08-25,2024-08-01,Self-pay,67,Valid,Recorded,275
+PT0267,48,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-08-26,2024-08-01,Self-pay,48,Valid,Recorded,276
+PT0268,50,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-08-29,2024-08-01,Sehat Card,50,Valid,Recorded,277
+PT0269,45,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-08-30,2024-08-01,Employer panel,45,Valid,Recorded,278
+PT0270,21,18-39,Female,Faisalabad,Punjab,Multiple Sclerosis,2024-09-01,2024-09-01,Employer panel,21,Valid,Recorded,279
+PT0271,54,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2024-09-02,2024-09-01,Employer panel,54,Valid,Recorded,280
+PT0272,35,18-39,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-09-03,2024-09-01,Sehat Card,35,Valid,Recorded,281
+PT0273,50,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2024-09-04,2024-09-01,Sehat Card,50,Valid,Recorded,282
+PT0274,37,18-39,Male,Rawalpindi,Punjab,Multiple Sclerosis,2024-09-04,2024-09-01,Private insurance,37,Valid,Recorded,283
+PT0275,26,18-39,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-09-06,2024-09-01,Employer panel,26,Valid,Recorded,284
+PT0276,26,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2024-09-07,2024-09-01,Sehat Card,26,Valid,Recorded,285
+PT0277,80,80+,Male,Lahore,Punjab,Neovascular AMD,2024-09-08,2024-09-01,Private insurance,80,Valid,Derived from city,286
+PT0278,55,40-59,Male,Lahore,Punjab,Neovascular AMD,2024-09-08,2024-09-01,Self-pay,55,Valid,Recorded,287
+PT0279,63,60-79,Female,Quetta,Balochistan,HER2+ Breast Cancer,2024-09-09,2024-09-01,Private insurance,63,Valid,Derived from city,288
+PT0280,36,18-39,Female,Multan,Punjab,HER2+ Breast Cancer,2024-09-10,2024-09-01,Private insurance,36,Valid,Recorded,289
+PT0281,26,18-39,Female,Rawalpindi,Punjab,Multiple Sclerosis,2024-09-12,2024-09-01,Employer panel,26,Valid,Recorded,290
+PT0282,57,40-59,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-09-12,2024-09-01,Not recorded,57,Valid,Recorded,291
+PT0283,54,40-59,Male,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-09-12,2024-09-01,Self-pay,54,Valid,Recorded,292
+PT0284,,Unknown,Male,Lahore,Punjab,Multiple Sclerosis,2024-09-13,2024-09-01,Self-pay,,Missing,Recorded,293
+PT0285,63,60-79,Male,Rawalpindi,Punjab,Neovascular AMD,2024-09-14,2024-09-01,Private insurance,63,Valid,Recorded,294
+PT0286,23,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-09-14,2024-09-01,Employer panel,23,Valid,Recorded,295
+PT0287,40,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-09-15,2024-09-01,Self-pay,40,Valid,Recorded,296
+PT0596,55,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-04-12,2025-04-01,Self-pay,55,Valid,Recorded,297
+PT0288,53,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-09-15,2024-09-01,Self-pay,53,Valid,Recorded,298
+PT0289,,Unknown,Male,Rawalpindi,Punjab,Neovascular AMD,2024-09-16,2024-09-01,Sehat Card,,Missing,Recorded,299
+PT0290,55,40-59,Female,Quetta,Balochistan,Rheumatoid Arthritis,2024-09-16,2024-09-01,Sehat Card,55,Valid,Recorded,300
+PT0291,34,18-39,Female,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2024-09-16,2024-09-01,Private insurance,34,Valid,Recorded,301
+PT0292,62,60-79,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-09-17,2024-09-01,Private insurance,62,Valid,Recorded,302
+PT0293,64,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-09-19,2024-09-01,Private insurance,64,Valid,Recorded,303
+PT0294,44,40-59,Male,Lahore,Punjab,Rheumatoid Arthritis,2024-09-19,2024-09-01,Sehat Card,44,Valid,Recorded,304
+PT0295,54,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-09-20,2024-09-01,Sehat Card,54,Valid,Recorded,305
+PT0296,48,40-59,Female,Rawalpindi,Punjab,Multiple Sclerosis,2024-09-21,2024-09-01,Private insurance,48,Valid,Recorded,306
+PT0297,69,60-79,Female,Quetta,Balochistan,HER2+ Breast Cancer,2024-09-23,2024-09-01,Self-pay,69,Valid,Recorded,307
+PT0298,46,40-59,Male,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-09-23,2024-09-01,Sehat Card,46,Valid,Recorded,308
+PT0299,51,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2024-09-24,2024-09-01,Self-pay,51,Valid,Recorded,309
+PT0300,85,80+,Female,Karachi,Sindh,Neovascular AMD,2024-09-24,2024-09-01,Private insurance,85,Valid,Recorded,310
+PT0301,46,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-09-24,2024-09-01,Employer panel,46,Valid,Recorded,311
+PT0302,68,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-09-25,2024-09-01,Employer panel,68,Valid,Recorded,312
+PT0303,58,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2024-09-26,2024-09-01,Private insurance,58,Valid,Recorded,313
+PT0304,42,40-59,Male,Karachi,Sindh,Multiple Sclerosis,2024-09-26,2024-09-01,Self-pay,42,Valid,Recorded,314
+PT0305,25,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-09-27,2024-09-01,Employer panel,25,Valid,Recorded,315
+PT0306,,Unknown,Male,Lahore,Punjab,Neovascular AMD,2024-09-28,2024-09-01,Private insurance,,Missing,Recorded,316
+PT0307,66,60-79,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-09-28,2024-09-01,Employer panel,66,Valid,Recorded,317
+PT0308,83,80+,Male,Rawalpindi,Punjab,Neovascular AMD,2024-09-28,2024-09-01,Private insurance,83,Valid,Recorded,318
+PT0309,24,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-09-28,2024-09-01,Self-pay,24,Valid,Recorded,319
+PT0310,48,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-09-28,2024-09-01,Private insurance,48,Valid,Recorded,320
+PT0311,61,60-79,Male,Karachi,Sindh,Rheumatoid Arthritis,2024-09-30,2024-09-01,Sehat Card,61,Valid,Recorded,321
+PT0312,38,18-39,Male,Lahore,Punjab,Multiple Sclerosis,2024-09-30,2024-09-01,Employer panel,38,Valid,Recorded,322
+PT0313,37,18-39,Female,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2024-10-01,2024-10-01,Employer panel,37,Valid,Recorded,323
+PT0314,54,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-10-02,2024-10-01,Employer panel,54,Valid,Recorded,324
+PT0315,23,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-10-03,2024-10-01,Employer panel,23,Valid,Recorded,325
+PT0316,48,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-10-03,2024-10-01,Employer panel,48,Valid,Recorded,326
+PT0317,76,60-79,Male,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-10-04,2024-10-01,Sehat Card,76,Valid,Recorded,327
+PT0318,41,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-10-05,2024-10-01,Private insurance,41,Valid,Recorded,328
+PT0320,71,60-79,Male,Lahore,Punjab,Neovascular AMD,2024-10-06,2024-10-01,Sehat Card,71,Valid,Recorded,330
+PT0321,43,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-10-06,2024-10-01,Employer panel,43,Valid,Recorded,331
+PT0322,46,40-59,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-10-07,2024-10-01,Self-pay,46,Valid,Recorded,332
+PT0323,67,60-79,Female,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2024-10-07,2024-10-01,Sehat Card,67,Valid,Recorded,333
+PT0324,44,40-59,Male,Faisalabad,Punjab,Rheumatoid Arthritis,2024-10-07,2024-10-01,Private insurance,44,Valid,Recorded,334
+PT0325,83,80+,Female,Rawalpindi,Punjab,Neovascular AMD,2024-10-07,2024-10-01,Employer panel,83,Valid,Recorded,335
+PT0326,33,18-39,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-10-07,2024-10-01,Not recorded,33,Valid,Recorded,336
+PT0327,72,60-79,Male,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-10-08,2024-10-01,Employer panel,72,Valid,Recorded,337
+PT0328,37,18-39,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2024-10-08,2024-10-01,Employer panel,37,Valid,Recorded,338
+PT0329,48,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-10-08,2024-10-01,Self-pay,48,Valid,Recorded,339
+PT0330,63,60-79,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-10-08,2024-10-01,Not recorded,63,Valid,Recorded,340
+PT0331,64,60-79,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-10-08,2024-10-01,Employer panel,64,Valid,Recorded,341
+PT0332,49,40-59,Female,Multan,Punjab,HER2+ Breast Cancer,2024-10-09,2024-10-01,Self-pay,49,Valid,Recorded,342
+PT0333,34,18-39,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-10-10,2024-10-01,Sehat Card,34,Valid,Recorded,343
+PT0334,61,60-79,Male,Multan,Punjab,Neovascular AMD,2024-10-10,2024-10-01,Employer panel,61,Valid,Recorded,344
+PT0335,39,18-39,Female,Rawalpindi,Punjab,Multiple Sclerosis,2024-10-10,2024-10-01,Employer panel,39,Valid,Recorded,345
+PT0336,40,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2024-10-10,2024-10-01,Private insurance,40,Valid,Recorded,346
+PT0337,38,18-39,Male,Karachi,Sindh,Multiple Sclerosis,2024-10-12,2024-10-01,Employer panel,38,Valid,Recorded,347
+PT0338,75,60-79,Male,Lahore,Punjab,Neovascular AMD,2024-10-13,2024-10-01,Sehat Card,75,Valid,Recorded,348
+PT0339,47,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-10-13,2024-10-01,Self-pay,47,Valid,Recorded,349
+PT0340,61,60-79,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2024-10-14,2024-10-01,Not recorded,61,Valid,Recorded,350
+PT0341,35,18-39,Female,Multan,Punjab,Rheumatoid Arthritis,2024-10-15,2024-10-01,Self-pay,35,Valid,Recorded,351
+PT0342,,Unknown,Male,Rawalpindi,Punjab,Multiple Sclerosis,2024-10-15,2024-10-01,Sehat Card,,Missing,Recorded,352
+PT0343,34,18-39,Male,Quetta,Balochistan,Rheumatoid Arthritis,2024-10-16,2024-10-01,Private insurance,34,Valid,Recorded,353
+PT0344,58,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-10-16,2024-10-01,Self-pay,58,Valid,Recorded,354
+PT0345,44,40-59,Female,Karachi,Sindh,Multiple Sclerosis,2024-10-17,2024-10-01,Employer panel,44,Valid,Recorded,355
+PT0346,38,18-39,Female,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2024-10-17,2024-10-01,Self-pay,38,Valid,Recorded,356
+PT0347,31,18-39,Male,Lahore,Punjab,Rheumatoid Arthritis,2024-10-17,2024-10-01,Sehat Card,31,Valid,Recorded,357
+PT0348,45,40-59,Male,Faisalabad,Punjab,HER2+ Breast Cancer,2024-10-20,2024-10-01,Not recorded,45,Valid,Recorded,358
+PT0349,45,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-10-20,2024-10-01,Private insurance,45,Valid,Recorded,359
+PT0837,30,18-39,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-10-13,2025-10-01,Self-pay,30,Valid,Derived from city,360
+PT0350,57,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-10-20,2024-10-01,Sehat Card,57,Valid,Recorded,361
+PT0351,78,60-79,Female,Multan,Punjab,HER2+ Breast Cancer,2024-10-20,2024-10-01,Private insurance,78,Valid,Recorded,362
+PT0352,64,60-79,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-10-21,2024-10-01,Self-pay,64,Valid,Recorded,363
+PT0353,,Unknown,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-10-21,2024-10-01,Private insurance,,Missing,Recorded,364
+PT0354,81,80+,Male,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2024-10-22,2024-10-01,Sehat Card,81,Valid,Recorded,365
+PT0355,54,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-10-22,2024-10-01,Self-pay,54,Valid,Recorded,366
+PT0356,49,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-10-22,2024-10-01,Sehat Card,49,Valid,Recorded,367
+PT0357,,Unknown,Male,Lahore,Punjab,Neovascular AMD,2024-10-22,2024-10-01,Self-pay,,Missing,Recorded,368
+PT0358,46,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-10-22,2024-10-01,Private insurance,46,Valid,Recorded,369
+PT0359,46,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-10-24,2024-10-01,Private insurance,46,Valid,Recorded,370
+PT0360,60,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-10-24,2024-10-01,Employer panel,60,Valid,Recorded,371
+PT0361,52,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2024-10-24,2024-10-01,Sehat Card,52,Valid,Recorded,372
+PT0362,75,60-79,Female,Quetta,Balochistan,Rheumatoid Arthritis,2024-10-25,2024-10-01,Self-pay,75,Valid,Recorded,373
+PT0363,51,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-11-01,2024-11-01,Self-pay,51,Valid,Recorded,374
+PT0364,70,60-79,Male,Quetta,Balochistan,Neovascular AMD,2024-11-02,2024-11-01,Self-pay,70,Valid,Recorded,375
+PT0365,64,60-79,Male,Karachi,Sindh,Neovascular AMD,2024-11-02,2024-11-01,Private insurance,64,Valid,Recorded,376
+PT0366,43,40-59,Female,Lahore,Punjab,Multiple Sclerosis,2024-11-03,2024-11-01,Employer panel,43,Valid,Recorded,377
+PT0367,43,40-59,Male,Karachi,Sindh,HER2+ Breast Cancer,2024-11-04,2024-11-01,Self-pay,43,Valid,Recorded,378
+PT0368,26,18-39,Female,Faisalabad,Punjab,Multiple Sclerosis,2024-11-04,2024-11-01,Sehat Card,26,Valid,Recorded,379
+PT0369,32,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-11-04,2024-11-01,Sehat Card,32,Valid,Recorded,380
+PT0370,74,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-11-05,2024-11-01,Self-pay,74,Valid,Recorded,381
+PT0371,,Unknown,Male,Karachi,Sindh,HER2+ Breast Cancer,2024-11-05,2024-11-01,Employer panel,,Missing,Recorded,382
+PT0372,55,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-11-05,2024-11-01,Employer panel,55,Valid,Recorded,383
+PT0373,69,60-79,Female,Multan,Punjab,Neovascular AMD,2024-11-07,2024-11-01,Self-pay,69,Valid,Recorded,384
+PT0374,67,60-79,Female,Karachi,Sindh,Neovascular AMD,2024-11-07,2024-11-01,Self-pay,67,Valid,Recorded,385
+PT0375,45,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2024-11-08,2024-11-01,Self-pay,45,Valid,Derived from city,386
+PT0376,46,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-11-08,2024-11-01,Self-pay,46,Valid,Recorded,387
+PT0377,58,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-11-09,2024-11-01,Self-pay,58,Valid,Recorded,388
+PT0378,70,60-79,Male,Rawalpindi,Punjab,Neovascular AMD,2024-11-09,2024-11-01,Sehat Card,70,Valid,Recorded,389
+PT0379,34,18-39,Female,Lahore,Punjab,Multiple Sclerosis,2024-11-09,2024-11-01,Self-pay,34,Valid,Recorded,391
+PT0380,67,60-79,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-11-10,2024-11-01,Private insurance,67,Valid,Recorded,392
+PT0381,39,18-39,Female,Multan,Punjab,HER2+ Breast Cancer,2024-11-11,2024-11-01,Self-pay,39,Valid,Recorded,393
+PT0382,49,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-11-11,2024-11-01,Self-pay,49,Valid,Recorded,394
+PT0383,79,60-79,Male,Rawalpindi,Punjab,Neovascular AMD,2024-11-12,2024-11-01,Self-pay,79,Valid,Recorded,395
+PT0384,47,40-59,Male,Rawalpindi,Punjab,Multiple Sclerosis,2024-11-12,2024-11-01,Self-pay,47,Valid,Recorded,396
+PT0386,38,18-39,Male,Quetta,Balochistan,Multiple Sclerosis,2024-11-14,2024-11-01,Self-pay,38,Valid,Recorded,398
+PT0387,49,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-11-15,2024-11-01,Sehat Card,49,Valid,Recorded,399
+PT0388,53,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-11-15,2024-11-01,Sehat Card,53,Valid,Recorded,400
+PT0389,49,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-11-17,2024-11-01,Self-pay,49,Valid,Recorded,401
+PT0390,64,60-79,Male,Karachi,Sindh,Neovascular AMD,2024-11-19,2024-11-01,Self-pay,64,Valid,Recorded,402
+PT0391,45,40-59,Not recorded,Multan,Punjab,Rheumatoid Arthritis,2024-11-19,2024-11-01,Private insurance,45,Valid,Recorded,403
+PT0392,22,18-39,Female,Rawalpindi,Punjab,Multiple Sclerosis,2024-11-20,2024-11-01,Employer panel,22,Valid,Recorded,404
+PT0393,51,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2024-11-20,2024-11-01,Employer panel,51,Valid,Recorded,405
+PT0394,40,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-11-20,2024-11-01,Self-pay,40,Valid,Recorded,406
+PT0395,53,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-11-20,2024-11-01,Private insurance,53,Valid,Recorded,407
+PT0396,36,18-39,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2024-11-21,2024-11-01,Private insurance,36,Valid,Recorded,408
+PT0397,64,60-79,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-11-21,2024-11-01,Employer panel,64,Valid,Recorded,409
+PT0398,66,60-79,Male,Rawalpindi,Punjab,Neovascular AMD,2024-11-21,2024-11-01,Self-pay,66,Valid,Recorded,410
+PT0399,75,60-79,Female,Multan,Punjab,HER2+ Breast Cancer,2024-11-22,2024-11-01,Employer panel,75,Valid,Recorded,411
+PT0400,46,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-11-22,2024-11-01,Employer panel,46,Valid,Recorded,412
+PT0401,65,60-79,Male,Quetta,Balochistan,Neovascular AMD,2024-11-23,2024-11-01,Private insurance,65,Valid,Recorded,413
+PT0402,44,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-11-23,2024-11-01,Self-pay,44,Valid,Recorded,414
+PT0403,59,40-59,Male,Multan,Punjab,Neovascular AMD,2024-11-24,2024-11-01,Not recorded,59,Valid,Recorded,415
+PT0404,23,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2024-11-24,2024-11-01,Employer panel,23,Valid,Recorded,416
+PT0405,51,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2024-11-24,2024-11-01,Private insurance,51,Valid,Recorded,417
+PT0406,35,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2024-11-25,2024-11-01,Self-pay,35,Valid,Recorded,418
+PT0407,57,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-11-26,2024-11-01,Self-pay,57,Valid,Recorded,419
+PT0408,42,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-11-26,2024-11-01,Employer panel,42,Valid,Recorded,420
+PT0409,40,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-11-28,2024-11-01,Sehat Card,40,Valid,Recorded,421
+PT0410,57,40-59,Female,Multan,Punjab,Multiple Sclerosis,2024-11-28,2024-11-01,Private insurance,57,Valid,Recorded,422
+PT0411,56,40-59,Male,Karachi,Sindh,HER2+ Breast Cancer,2024-11-28,2024-11-01,Employer panel,56,Valid,Recorded,423
+PT0412,27,18-39,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-11-29,2024-11-01,Self-pay,27,Valid,Recorded,424
+PT0413,34,18-39,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-11-29,2024-11-01,Self-pay,34,Valid,Recorded,425
+PT0414,54,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2024-11-30,2024-11-01,Self-pay,54,Valid,Recorded,426
+PT0932,56,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-11-23,2025-11-01,Private insurance,56,Valid,Recorded,427
+PT0415,62,60-79,Female,Faisalabad,Punjab,Neovascular AMD,2024-11-30,2024-11-01,Sehat Card,62,Valid,Recorded,428
+PT0416,43,40-59,Female,Karachi,Sindh,Multiple Sclerosis,2024-12-01,2024-12-01,Sehat Card,43,Valid,Recorded,429
+PT0417,64,60-79,Male,Quetta,Balochistan,Neovascular AMD,2024-12-01,2024-12-01,Sehat Card,64,Valid,Recorded,430
+PT0418,59,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-12-02,2024-12-01,Private insurance,59,Valid,Recorded,431
+PT0419,71,60-79,Female,Karachi,Sindh,Neovascular AMD,2024-12-03,2024-12-01,Not recorded,71,Valid,Recorded,432
+PT0420,68,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-12-03,2024-12-01,Self-pay,68,Valid,Recorded,433
+PT0421,50,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-12-03,2024-12-01,Sehat Card,50,Valid,Recorded,434
+PT0422,54,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-12-04,2024-12-01,Employer panel,54,Valid,Recorded,435
+PT0423,38,18-39,Male,Rawalpindi,Punjab,Multiple Sclerosis,2024-12-05,2024-12-01,Employer panel,38,Valid,Recorded,436
+PT0424,46,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-12-05,2024-12-01,Self-pay,46,Valid,Recorded,437
+PT0425,58,40-59,Male,Rawalpindi,Punjab,Rheumatoid Arthritis,2024-12-05,2024-12-01,Self-pay,58,Valid,Recorded,438
+PT0426,27,18-39,Female,Lahore,Punjab,Multiple Sclerosis,2024-12-05,2024-12-01,Self-pay,27,Valid,Recorded,439
+PT0427,60,60-79,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2024-12-05,2024-12-01,Self-pay,60,Valid,Recorded,440
+PT0428,62,60-79,Female,Rawalpindi,Punjab,Neovascular AMD,2024-12-06,2024-12-01,Private insurance,62,Valid,Recorded,441
+PT0429,78,60-79,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-12-10,2024-12-01,Self-pay,78,Valid,Recorded,442
+PT0430,57,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-12-11,2024-12-01,Self-pay,57,Valid,Recorded,443
+PT0431,62,60-79,Male,Lahore,Punjab,Neovascular AMD,2024-12-13,2024-12-01,Self-pay,62,Valid,Recorded,444
+PT0432,54,40-59,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2024-12-13,2024-12-01,Private insurance,54,Valid,Recorded,445
+PT0433,76,60-79,Female,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-12-14,2024-12-01,Self-pay,76,Valid,Recorded,446
+PT0434,58,40-59,Female,Rawalpindi,Punjab,Neovascular AMD,2024-12-14,2024-12-01,Self-pay,58,Valid,Recorded,447
+PT0435,42,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-12-15,2024-12-01,Self-pay,42,Valid,Recorded,448
+PT0436,43,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2024-12-15,2024-12-01,Self-pay,43,Valid,Recorded,449
+PT0437,59,40-59,Male,Faisalabad,Punjab,Neovascular AMD,2024-12-16,2024-12-01,Sehat Card,59,Valid,Derived from city,450
+PT0438,79,60-79,Male,Lahore,Punjab,Neovascular AMD,2024-12-18,2024-12-01,Self-pay,79,Valid,Recorded,451
+PT0439,39,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2024-12-18,2024-12-01,Self-pay,39,Valid,Recorded,452
+PT0440,45,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2024-12-18,2024-12-01,Private insurance,45,Valid,Recorded,453
+PT0441,30,18-39,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2024-12-18,2024-12-01,Not recorded,30,Valid,Recorded,454
+PT0442,70,60-79,Female,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-12-19,2024-12-01,Self-pay,70,Valid,Recorded,455
+PT0443,62,60-79,Female,Quetta,Balochistan,Neovascular AMD,2024-12-19,2024-12-01,Sehat Card,62,Valid,Recorded,456
+PT0444,37,18-39,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2024-12-20,2024-12-01,Self-pay,37,Valid,Recorded,457
+PT0445,66,60-79,Male,Rawalpindi,Punjab,Neovascular AMD,2024-12-22,2024-12-01,Self-pay,66,Valid,Recorded,458
+PT0446,40,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-12-23,2024-12-01,Self-pay,40,Valid,Recorded,459
+PT0447,56,40-59,Female,Multan,Punjab,HER2+ Breast Cancer,2024-12-24,2024-12-01,Sehat Card,56,Valid,Recorded,460
+PT0448,71,60-79,Male,Islamabad,Islamabad Capital Territory,Neovascular AMD,2024-12-24,2024-12-01,Self-pay,71,Valid,Recorded,461
+PT0449,67,60-79,Female,Lahore,Punjab,Neovascular AMD,2024-12-25,2024-12-01,Private insurance,67,Valid,Recorded,462
+PT0450,41,40-59,Male,Lahore,Punjab,Rheumatoid Arthritis,2024-12-25,2024-12-01,Private insurance,41,Valid,Recorded,463
+PT0451,47,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-12-25,2024-12-01,Private insurance,47,Valid,Recorded,464
+PT0452,27,18-39,Female,Multan,Punjab,Multiple Sclerosis,2024-12-28,2024-12-01,Private insurance,27,Valid,Derived from city,465
+PT0453,32,18-39,Female,Lahore,Punjab,HER2+ Breast Cancer,2024-12-28,2024-12-01,Private insurance,32,Valid,Recorded,466
+PT0454,41,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2024-12-28,2024-12-01,Sehat Card,41,Valid,Recorded,467
+PT0455,44,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2024-12-28,2024-12-01,Self-pay,44,Valid,Recorded,468
+PT0456,41,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2024-12-29,2024-12-01,Private insurance,41,Valid,Recorded,469
+PT0457,65,60-79,Male,Karachi,Sindh,Neovascular AMD,2024-12-29,2024-12-01,Private insurance,65,Valid,Recorded,470
+PT0458,47,40-59,Male,Lahore,Punjab,Rheumatoid Arthritis,2024-12-31,2024-12-01,Employer panel,47,Valid,Recorded,471
+PT0459,82,80+,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2024-12-31,2024-12-01,Self-pay,82,Valid,Recorded,472
+PT0460,31,18-39,Male,Lahore,Punjab,Multiple Sclerosis,2024-12-31,2024-12-01,Not recorded,31,Valid,Recorded,473
+PT0461,62,60-79,Male,Karachi,Sindh,HER2+ Breast Cancer,2025-01-02,2025-01-01,Sehat Card,62,Valid,Recorded,474
+PT0462,76,60-79,Female,Faisalabad,Punjab,Neovascular AMD,2025-01-02,2025-01-01,Sehat Card,76,Valid,Recorded,475
+PT0463,61,60-79,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-01-03,2025-01-01,Employer panel,61,Valid,Recorded,476
+PT0464,67,60-79,Female,Islamabad,Islamabad Capital Territory,Neovascular AMD,2025-01-03,2025-01-01,Self-pay,67,Valid,Recorded,477
+PT0465,35,18-39,Not recorded,Karachi,Sindh,Multiple Sclerosis,2025-01-05,2025-01-01,Self-pay,35,Valid,Recorded,478
+PT0466,35,18-39,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-01-05,2025-01-01,Not recorded,35,Valid,Recorded,479
+PT0467,58,40-59,Male,Lahore,Punjab,Neovascular AMD,2025-01-06,2025-01-01,Self-pay,58,Valid,Recorded,480
+PT0469,41,40-59,Male,Lahore,Punjab,Rheumatoid Arthritis,2025-01-07,2025-01-01,Self-pay,41,Valid,Recorded,482
+PT0470,33,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-01-08,2025-01-01,Sehat Card,33,Valid,Recorded,483
+PT0471,42,40-59,Not recorded,Lahore,Punjab,HER2+ Breast Cancer,2025-01-08,2025-01-01,Employer panel,42,Valid,Recorded,484
+PT0472,55,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-01-09,2025-01-01,Employer panel,55,Valid,Recorded,485
+PT0473,29,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2025-01-09,2025-01-01,Employer panel,29,Valid,Recorded,486
+PT0474,26,18-39,Male,Karachi,Sindh,Multiple Sclerosis,2025-01-11,2025-01-01,Employer panel,26,Valid,Recorded,487
+PT0475,37,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-01-12,2025-01-01,Employer panel,37,Valid,Recorded,488
+PT0476,21,18-39,Female,Lahore,Punjab,Multiple Sclerosis,2025-01-12,2025-01-01,Employer panel,21,Valid,Recorded,489
+PT0477,33,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-01-13,2025-01-01,Sehat Card,33,Valid,Recorded,490
+PT0478,23,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-01-14,2025-01-01,Sehat Card,23,Valid,Recorded,491
+PT0479,58,40-59,Male,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-01-15,2025-01-01,Sehat Card,58,Valid,Recorded,492
+PT0480,31,18-39,Male,Karachi,Sindh,Multiple Sclerosis,2025-01-15,2025-01-01,Private insurance,31,Valid,Recorded,493
+PT0481,45,40-59,Male,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-01-17,2025-01-01,Self-pay,45,Valid,Recorded,494
+PT0662,37,18-39,Male,Lahore,Punjab,Rheumatoid Arthritis,2025-05-25,2025-05-01,Employer panel,37,Valid,Recorded,495
+PT0482,61,60-79,Male,Lahore,Punjab,Neovascular AMD,2025-01-17,2025-01-01,Employer panel,61,Valid,Recorded,496
+PT0483,60,60-79,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-01-18,2025-01-01,Sehat Card,60,Valid,Recorded,497
+PT0484,79,60-79,Not recorded,Faisalabad,Punjab,Rheumatoid Arthritis,2025-01-18,2025-01-01,Self-pay,79,Valid,Recorded,498
+PT0485,76,60-79,Male,Quetta,Balochistan,Neovascular AMD,2025-01-19,2025-01-01,Employer panel,76,Valid,Recorded,499
+PT0486,23,18-39,Female,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2025-01-19,2025-01-01,Employer panel,23,Valid,Recorded,500
+PT0487,69,60-79,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-01-19,2025-01-01,Private insurance,69,Valid,Recorded,501
+PT0488,59,40-59,Female,Multan,Punjab,Rheumatoid Arthritis,2025-01-22,2025-01-01,Private insurance,59,Valid,Recorded,502
+PT0489,51,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-01-24,2025-01-01,Not recorded,51,Valid,Recorded,503
+PT0490,48,40-59,Female,Karachi,Sindh,Multiple Sclerosis,2025-01-25,2025-01-01,Self-pay,48,Valid,Recorded,504
+PT0491,76,60-79,Male,Karachi,Sindh,Neovascular AMD,2025-01-25,2025-01-01,Self-pay,76,Valid,Recorded,505
+PT0492,51,40-59,Not recorded,Karachi,Sindh,Rheumatoid Arthritis,2025-01-25,2025-01-01,Employer panel,51,Valid,Recorded,506
+PT0493,77,60-79,Female,Islamabad,Islamabad Capital Territory,Neovascular AMD,2025-01-25,2025-01-01,Self-pay,77,Valid,Recorded,507
+PT0494,23,18-39,Male,Rawalpindi,Punjab,Multiple Sclerosis,2025-01-26,2025-01-01,Not recorded,23,Valid,Recorded,508
+PT0495,35,18-39,Male,Karachi,Sindh,Multiple Sclerosis,2025-01-26,2025-01-01,Employer panel,35,Valid,Recorded,509
+PT0496,76,60-79,Female,Multan,Punjab,Neovascular AMD,2025-01-27,2025-01-01,Self-pay,76,Valid,Recorded,510
+PT0497,32,18-39,Female,Lahore,Punjab,Multiple Sclerosis,2025-01-28,2025-01-01,Self-pay,32,Valid,Recorded,511
+PT0498,63,60-79,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-01-28,2025-01-01,Self-pay,63,Valid,Recorded,512
+PT0499,40,40-59,Female,Faisalabad,Punjab,Multiple Sclerosis,2025-01-28,2025-01-01,Employer panel,40,Valid,Recorded,513
+PT0500,71,60-79,Female,Multan,Punjab,Neovascular AMD,2025-01-29,2025-01-01,Self-pay,71,Valid,Recorded,514
+PT0501,61,60-79,Male,Karachi,Sindh,Neovascular AMD,2025-01-31,2025-01-01,Self-pay,61,Valid,Recorded,515
+PT0502,72,60-79,Female,Lahore,Punjab,Neovascular AMD,2025-02-01,2025-02-01,Not recorded,72,Valid,Recorded,516
+PT0503,53,40-59,Male,Karachi,Sindh,Rheumatoid Arthritis,2025-02-03,2025-02-01,Self-pay,53,Valid,Recorded,517
+PT0504,42,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-02-03,2025-02-01,Self-pay,42,Valid,Recorded,518
+PT0505,44,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-02-05,2025-02-01,Private insurance,44,Valid,Recorded,519
+PT0506,56,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-02-06,2025-02-01,Self-pay,56,Valid,Recorded,520
+PT0507,36,18-39,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-02-06,2025-02-01,Employer panel,36,Valid,Recorded,521
+PT0508,32,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2025-02-06,2025-02-01,Employer panel,32,Valid,Recorded,522
+PT0509,52,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-02-07,2025-02-01,Employer panel,52,Valid,Recorded,523
+PT0510,61,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-02-08,2025-02-01,Self-pay,61,Valid,Recorded,524
+PT0511,63,60-79,Female,Faisalabad,Punjab,Neovascular AMD,2025-02-08,2025-02-01,Private insurance,63,Valid,Recorded,525
+PT0512,62,60-79,Male,Lahore,Punjab,Rheumatoid Arthritis,2025-02-09,2025-02-01,Self-pay,62,Valid,Recorded,526
+PT0513,60,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-02-09,2025-02-01,Self-pay,60,Valid,Recorded,527
+PT0514,45,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-02-12,2025-02-01,Employer panel,45,Valid,Recorded,528
+PT0515,74,60-79,Female,Lahore,Punjab,Neovascular AMD,2025-02-12,2025-02-01,Self-pay,74,Valid,Recorded,529
+PT0516,51,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-02-13,2025-02-01,Sehat Card,51,Valid,Recorded,530
+PT0517,,Unknown,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-02-14,2025-02-01,Self-pay,,Missing,Recorded,531
+PT0518,51,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-02-14,2025-02-01,Self-pay,51,Valid,Recorded,532
+PT0519,24,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-02-14,2025-02-01,Self-pay,24,Valid,Recorded,533
+PT0520,81,80+,Female,Karachi,Sindh,Neovascular AMD,2025-02-15,2025-02-01,Sehat Card,81,Valid,Recorded,534
+PT0521,59,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-02-15,2025-02-01,Self-pay,59,Valid,Recorded,535
+PT0522,47,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-02-16,2025-02-01,Self-pay,47,Valid,Recorded,536
+PT0523,60,60-79,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-02-17,2025-02-01,Self-pay,60,Valid,Recorded,537
+PT0524,29,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2025-02-18,2025-02-01,Employer panel,29,Valid,Recorded,538
+PT0525,70,60-79,Male,Multan,Punjab,Neovascular AMD,2025-02-18,2025-02-01,Sehat Card,70,Valid,Recorded,539
+PT0526,79,60-79,Female,Rawalpindi,Punjab,Neovascular AMD,2025-02-18,2025-02-01,Private insurance,79,Valid,Recorded,540
+PT0527,67,60-79,Male,Multan,Punjab,Neovascular AMD,2025-02-19,2025-02-01,Employer panel,67,Valid,Recorded,541
+PT0938,65,60-79,Female,Karachi,Sindh,Neovascular AMD,2025-11-26,2025-11-01,Employer panel,65,Valid,Recorded,542
+PT0528,68,60-79,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-02-20,2025-02-01,Employer panel,68,Valid,Recorded,543
+PT0529,63,60-79,Female,Quetta,Balochistan,Rheumatoid Arthritis,2025-02-21,2025-02-01,Self-pay,63,Valid,Recorded,544
+PT0530,37,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2025-02-22,2025-02-01,Self-pay,37,Valid,Recorded,545
+PT0531,68,60-79,Female,Faisalabad,Punjab,Neovascular AMD,2025-02-25,2025-02-01,Self-pay,68,Valid,Recorded,546
+PT0532,73,60-79,Female,Karachi,Sindh,Neovascular AMD,2025-02-25,2025-02-01,Private insurance,73,Valid,Recorded,547
+PT0533,46,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-02-26,2025-02-01,Self-pay,46,Valid,Recorded,548
+PT0534,57,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2025-02-26,2025-02-01,Self-pay,57,Valid,Recorded,549
+PT0535,41,40-59,Female,Multan,Punjab,HER2+ Breast Cancer,2025-02-27,2025-02-01,Private insurance,41,Valid,Recorded,550
+PT0536,57,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-02-27,2025-02-01,Employer panel,57,Valid,Recorded,551
+PT0537,24,18-39,Male,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2025-02-27,2025-02-01,Sehat Card,24,Valid,Recorded,552
+PT0538,51,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-02-28,2025-02-01,Employer panel,51,Valid,Derived from city,553
+PT0539,64,60-79,Male,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2025-03-02,2025-03-01,Employer panel,64,Valid,Recorded,554
+PT0540,43,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-03-02,2025-03-01,Self-pay,43,Valid,Recorded,555
+PT0541,50,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-03-02,2025-03-01,Sehat Card,50,Valid,Recorded,556
+PT0542,41,40-59,Female,Karachi,Sindh,Multiple Sclerosis,2025-03-03,2025-03-01,Self-pay,41,Valid,Recorded,557
+PT0543,59,40-59,Not recorded,Karachi,Sindh,HER2+ Breast Cancer,2025-03-05,2025-03-01,Sehat Card,59,Valid,Recorded,558
+PT0544,54,40-59,Male,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-03-06,2025-03-01,Self-pay,54,Valid,Recorded,559
+PT0545,48,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-03-06,2025-03-01,Private insurance,48,Valid,Recorded,560
+PT0546,59,40-59,Female,Multan,Punjab,HER2+ Breast Cancer,2025-03-07,2025-03-01,Sehat Card,59,Valid,Recorded,561
+PT0547,40,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-03-08,2025-03-01,Self-pay,40,Valid,Recorded,562
+PT0548,44,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-03-11,2025-03-01,Sehat Card,44,Valid,Recorded,563
+PT0549,,Unknown,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-03-14,2025-03-01,Sehat Card,,Missing,Recorded,564
+PT0550,45,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2025-03-14,2025-03-01,Sehat Card,45,Valid,Recorded,565
+PT0551,33,18-39,Male,Faisalabad,Punjab,Multiple Sclerosis,2025-03-14,2025-03-01,Self-pay,33,Valid,Recorded,566
+PT0552,,Unknown,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-03-14,2025-03-01,Private insurance,,Missing,Recorded,567
+PT0553,57,40-59,Male,Lahore,Punjab,Rheumatoid Arthritis,2025-03-15,2025-03-01,Sehat Card,57,Valid,Recorded,568
+PT0554,38,18-39,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2025-03-15,2025-03-01,Self-pay,38,Valid,Recorded,569
+PT0555,62,60-79,Male,Lahore,Punjab,Neovascular AMD,2025-03-15,2025-03-01,Sehat Card,62,Valid,Recorded,570
+PT0556,23,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-03-16,2025-03-01,Self-pay,23,Valid,Recorded,571
+PT0796,46,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-09-17,2025-09-01,Self-pay,46,Valid,Recorded,572
+PT0557,67,60-79,Female,Quetta,Balochistan,Neovascular AMD,2025-03-16,2025-03-01,Self-pay,67,Valid,Recorded,573
+PT0558,64,60-79,Male,Faisalabad,Punjab,Rheumatoid Arthritis,2025-03-16,2025-03-01,Private insurance,64,Valid,Recorded,574
+PT0559,74,60-79,Male,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2025-03-20,2025-03-01,Employer panel,74,Valid,Recorded,575
+PT0560,48,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-03-20,2025-03-01,Private insurance,48,Valid,Recorded,576
+PT0561,48,40-59,Female,Lahore,Punjab,Neovascular AMD,2025-03-20,2025-03-01,Self-pay,48,Valid,Recorded,577
+PT0562,54,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2025-03-22,2025-03-01,Private insurance,54,Valid,Recorded,578
+PT0563,40,40-59,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-03-23,2025-03-01,Not recorded,40,Valid,Recorded,579
+PT0564,67,60-79,Female,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2025-03-24,2025-03-01,Private insurance,67,Valid,Recorded,580
+PT0565,42,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-03-25,2025-03-01,Sehat Card,42,Valid,Recorded,581
+PT0566,32,18-39,Male,Lahore,Punjab,Rheumatoid Arthritis,2025-03-26,2025-03-01,Employer panel,32,Valid,Recorded,582
+PT0567,66,60-79,Female,Multan,Punjab,HER2+ Breast Cancer,2025-03-27,2025-03-01,Self-pay,66,Valid,Recorded,583
+PT0568,68,60-79,Male,Islamabad,Islamabad Capital Territory,Neovascular AMD,2025-03-27,2025-03-01,Self-pay,68,Valid,Recorded,584
+PT0569,47,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-03-28,2025-03-01,Private insurance,47,Valid,Recorded,585
+PT0570,43,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-03-28,2025-03-01,Sehat Card,43,Valid,Recorded,586
+PT0571,52,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-03-28,2025-03-01,Employer panel,52,Valid,Recorded,587
+PT0572,55,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2025-03-29,2025-03-01,Sehat Card,55,Valid,Recorded,588
+PT0573,34,18-39,Not recorded,Quetta,Balochistan,HER2+ Breast Cancer,2025-03-31,2025-03-01,Self-pay,34,Valid,Recorded,589
+PT0574,52,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-04-01,2025-04-01,Self-pay,52,Valid,Recorded,590
+PT0575,39,18-39,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-04-03,2025-04-01,Private insurance,39,Valid,Recorded,591
+PT0576,38,18-39,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-04-03,2025-04-01,Self-pay,38,Valid,Recorded,592
+PT0577,64,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-04-03,2025-04-01,Private insurance,64,Valid,Recorded,593
+PT0578,32,18-39,Female,Rawalpindi,Punjab,Multiple Sclerosis,2025-04-05,2025-04-01,Not recorded,32,Valid,Recorded,594
+PT0579,33,18-39,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-04-05,2025-04-01,Employer panel,33,Valid,Recorded,595
+PT0580,64,60-79,Female,Karachi,Sindh,Neovascular AMD,2025-04-05,2025-04-01,Self-pay,64,Valid,Recorded,596
+PT0581,49,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-04-06,2025-04-01,Self-pay,49,Valid,Derived from city,597
+PT0582,41,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-04-07,2025-04-01,Self-pay,41,Valid,Recorded,598
+PT0583,,Unknown,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-04-07,2025-04-01,Self-pay,,Missing,Recorded,599
+PT0584,48,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-04-08,2025-04-01,Self-pay,48,Valid,Recorded,600
+PT0585,53,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-04-08,2025-04-01,Self-pay,53,Valid,Recorded,601
+PT0586,22,18-39,Female,Lahore,Punjab,Multiple Sclerosis,2025-04-09,2025-04-01,Employer panel,22,Valid,Recorded,602
+PT0587,44,40-59,Female,Faisalabad,Punjab,Multiple Sclerosis,2025-04-09,2025-04-01,Private insurance,44,Valid,Recorded,603
+PT0588,70,60-79,Female,Rawalpindi,Punjab,Neovascular AMD,2025-04-09,2025-04-01,Private insurance,70,Valid,Recorded,604
+PT0589,53,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-04-09,2025-04-01,Private insurance,53,Valid,Recorded,605
+PT0590,54,40-59,Male,Karachi,Sindh,Neovascular AMD,2025-04-09,2025-04-01,Employer panel,54,Valid,Recorded,606
+PT0591,45,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-04-10,2025-04-01,Private insurance,45,Valid,Recorded,607
+PT0592,28,18-39,Female,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2025-04-11,2025-04-01,Not recorded,28,Valid,Recorded,608
+PT0593,80,80+,Female,Quetta,Balochistan,Neovascular AMD,2025-04-11,2025-04-01,Private insurance,80,Valid,Recorded,609
+PT0594,62,60-79,Male,Karachi,Sindh,Neovascular AMD,2025-04-12,2025-04-01,Sehat Card,62,Valid,Recorded,610
+PT0595,54,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2025-04-12,2025-04-01,Employer panel,54,Valid,Recorded,611
+PT0597,49,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-04-13,2025-04-01,Not recorded,49,Valid,Recorded,613
+PT0598,32,18-39,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-04-13,2025-04-01,Self-pay,32,Valid,Recorded,614
+PT0599,33,18-39,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-04-15,2025-04-01,Self-pay,33,Valid,Recorded,615
+PT0600,62,60-79,Female,Multan,Punjab,HER2+ Breast Cancer,2025-04-15,2025-04-01,Self-pay,62,Valid,Recorded,616
+PT0601,60,60-79,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-04-15,2025-04-01,Sehat Card,60,Valid,Recorded,617
+PT0602,67,60-79,Male,Islamabad,Islamabad Capital Territory,Neovascular AMD,2025-04-15,2025-04-01,Self-pay,67,Valid,Recorded,618
+PT0603,72,60-79,Male,Faisalabad,Punjab,Neovascular AMD,2025-04-16,2025-04-01,Employer panel,72,Valid,Derived from city,619
+PT0604,64,60-79,Male,Multan,Punjab,Rheumatoid Arthritis,2025-04-16,2025-04-01,Private insurance,64,Valid,Recorded,620
+PT0605,38,18-39,Female,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2025-04-17,2025-04-01,Self-pay,38,Valid,Recorded,621
+PT0606,38,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-04-18,2025-04-01,Private insurance,38,Valid,Recorded,622
+PT0607,66,60-79,Male,Islamabad,Islamabad Capital Territory,Neovascular AMD,2025-04-18,2025-04-01,Employer panel,66,Valid,Recorded,623
+PT0608,87,80+,Male,Lahore,Punjab,Neovascular AMD,2025-04-20,2025-04-01,Private insurance,87,Valid,Recorded,624
+PT0609,44,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-04-20,2025-04-01,Sehat Card,44,Valid,Recorded,626
+PT0610,33,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2025-04-21,2025-04-01,Private insurance,33,Valid,Recorded,627
+PT0611,44,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-04-22,2025-04-01,Private insurance,44,Valid,Recorded,628
+PT0612,56,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-04-23,2025-04-01,Self-pay,56,Valid,Recorded,629
+PT0613,78,60-79,Female,Karachi,Sindh,Neovascular AMD,2025-04-23,2025-04-01,Private insurance,78,Valid,Recorded,630
+PT0614,43,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-04-23,2025-04-01,Self-pay,43,Valid,Recorded,631
+PT0615,50,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-04-23,2025-04-01,Employer panel,50,Valid,Recorded,632
+PT0616,18,18-39,Female,Multan,Punjab,Multiple Sclerosis,2025-04-24,2025-04-01,Sehat Card,18,Valid,Recorded,633
+PT0617,56,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-04-26,2025-04-01,Sehat Card,56,Valid,Recorded,634
+PT0618,43,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-04-27,2025-04-01,Employer panel,43,Valid,Recorded,635
+PT0619,52,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-04-27,2025-04-01,Self-pay,52,Valid,Recorded,636
+PT0620,39,18-39,Male,Lahore,Punjab,Multiple Sclerosis,2025-04-27,2025-04-01,Private insurance,39,Valid,Recorded,637
+PT0621,53,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-04-29,2025-04-01,Self-pay,53,Valid,Recorded,638
+PT0622,50,40-59,Male,Faisalabad,Punjab,Neovascular AMD,2025-04-30,2025-04-01,Employer panel,50,Valid,Recorded,639
+PT0623,57,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-04-30,2025-04-01,Sehat Card,57,Valid,Recorded,640
+PT0624,59,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-05-01,2025-05-01,Self-pay,59,Valid,Recorded,641
+PT0625,41,40-59,Male,Faisalabad,Punjab,Multiple Sclerosis,2025-05-01,2025-05-01,Self-pay,41,Valid,Recorded,642
+PT0626,62,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-05-01,2025-05-01,Employer panel,62,Valid,Recorded,643
+PT0627,36,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-05-03,2025-05-01,Employer panel,36,Valid,Recorded,644
+PT0628,65,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-05-04,2025-05-01,Self-pay,65,Valid,Recorded,645
+PT0629,87,80+,Female,Multan,Punjab,Rheumatoid Arthritis,2025-05-04,2025-05-01,Employer panel,87,Valid,Recorded,646
+PT0630,47,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-05-06,2025-05-01,Employer panel,47,Valid,Recorded,647
+PT0631,66,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-05-06,2025-05-01,Self-pay,66,Valid,Recorded,648
+PT0632,55,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-05-07,2025-05-01,Self-pay,55,Valid,Recorded,649
+PT0633,30,18-39,Female,Quetta,Balochistan,Rheumatoid Arthritis,2025-05-08,2025-05-01,Employer panel,30,Valid,Recorded,650
+PT0634,40,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-05-08,2025-05-01,Private insurance,40,Valid,Recorded,651
+PT0635,74,60-79,Male,Quetta,Balochistan,Neovascular AMD,2025-05-08,2025-05-01,Private insurance,74,Valid,Recorded,652
+PT0636,61,60-79,Female,Karachi,Sindh,Neovascular AMD,2025-05-09,2025-05-01,Private insurance,61,Valid,Recorded,653
+PT0637,63,60-79,Male,Karachi,Sindh,Neovascular AMD,2025-05-09,2025-05-01,Private insurance,63,Valid,Recorded,654
+PT0638,45,40-59,Male,Karachi,Sindh,Rheumatoid Arthritis,2025-05-09,2025-05-01,Employer panel,45,Valid,Recorded,655
+PT0639,73,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-05-09,2025-05-01,Self-pay,73,Valid,Recorded,656
+PT0640,64,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-05-11,2025-05-01,Private insurance,64,Valid,Recorded,657
+PT0641,49,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-05-11,2025-05-01,Sehat Card,49,Valid,Recorded,658
+PT0642,81,80+,Female,Karachi,Sindh,Neovascular AMD,2025-05-11,2025-05-01,Sehat Card,81,Valid,Recorded,659
+PT0643,48,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-05-12,2025-05-01,Employer panel,48,Valid,Recorded,660
+PT0644,50,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-05-13,2025-05-01,Employer panel,50,Valid,Recorded,661
+PT0645,66,60-79,Male,Islamabad,Islamabad Capital Territory,Neovascular AMD,2025-05-14,2025-05-01,Sehat Card,66,Valid,Recorded,662
+PT0646,45,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-05-15,2025-05-01,Sehat Card,45,Valid,Recorded,663
+PT0647,77,60-79,Female,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2025-05-18,2025-05-01,Self-pay,77,Valid,Recorded,664
+PT0648,60,60-79,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-05-18,2025-05-01,Self-pay,60,Valid,Recorded,665
+PT0649,53,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-05-19,2025-05-01,Sehat Card,53,Valid,Recorded,666
+PT0650,41,40-59,Female,Multan,Punjab,HER2+ Breast Cancer,2025-05-19,2025-05-01,Employer panel,41,Valid,Recorded,667
+PT0651,52,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-05-20,2025-05-01,Sehat Card,52,Valid,Derived from city,668
+PT0652,56,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2025-05-20,2025-05-01,Self-pay,56,Valid,Recorded,669
+PT0653,59,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-05-21,2025-05-01,Sehat Card,59,Valid,Recorded,670
+PT0654,66,60-79,Female,Rawalpindi,Punjab,Neovascular AMD,2025-05-22,2025-05-01,Self-pay,66,Valid,Recorded,671
+PT0655,50,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-05-22,2025-05-01,Not recorded,50,Valid,Recorded,672
+PT0656,50,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-05-22,2025-05-01,Employer panel,50,Valid,Recorded,673
+PT0657,,Unknown,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-05-22,2025-05-01,Private insurance,,Missing,Recorded,674
+PT0658,76,60-79,Female,Karachi,Sindh,Neovascular AMD,2025-05-22,2025-05-01,Sehat Card,76,Valid,Recorded,675
+PT0659,37,18-39,Male,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-05-23,2025-05-01,Sehat Card,37,Valid,Recorded,676
+PT0660,35,18-39,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-05-24,2025-05-01,Self-pay,35,Valid,Recorded,677
+PT0661,29,18-39,Male,Karachi,Sindh,Multiple Sclerosis,2025-05-24,2025-05-01,Self-pay,29,Valid,Recorded,678
+PT0663,72,60-79,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2025-05-26,2025-05-01,Self-pay,72,Valid,Recorded,680
+PT0664,52,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-05-27,2025-05-01,Not recorded,52,Valid,Recorded,681
+PT0665,46,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-05-27,2025-05-01,Sehat Card,46,Valid,Recorded,682
+PT0666,28,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-05-28,2025-05-01,Self-pay,28,Valid,Recorded,683
+PT0667,56,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-05-29,2025-05-01,Sehat Card,56,Valid,Recorded,684
+PT0668,64,60-79,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-05-29,2025-05-01,Self-pay,64,Valid,Recorded,685
+PT0669,47,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-05-29,2025-05-01,Not recorded,47,Valid,Recorded,686
+PT0670,45,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-05-30,2025-05-01,Self-pay,45,Valid,Derived from city,687
+PT0671,51,40-59,Male,Faisalabad,Punjab,Neovascular AMD,2025-06-01,2025-06-01,Private insurance,51,Valid,Recorded,688
+PT0672,52,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-06-01,2025-06-01,Employer panel,52,Valid,Recorded,689
+PT0673,41,40-59,Female,Quetta,Balochistan,Rheumatoid Arthritis,2025-06-03,2025-06-01,Self-pay,41,Valid,Recorded,690
+PT0674,48,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2025-06-04,2025-06-01,Self-pay,48,Valid,Recorded,691
+PT0675,68,60-79,Male,Karachi,Sindh,Neovascular AMD,2025-06-05,2025-06-01,Private insurance,68,Valid,Recorded,692
+PT0676,24,18-39,Female,Multan,Punjab,Multiple Sclerosis,2025-06-05,2025-06-01,Employer panel,24,Valid,Derived from city,693
+PT0677,44,40-59,Male,Lahore,Punjab,Rheumatoid Arthritis,2025-06-08,2025-06-01,Employer panel,44,Valid,Recorded,694
+PT0678,56,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-06-08,2025-06-01,Private insurance,56,Valid,Recorded,695
+PT0679,53,40-59,Male,Karachi,Sindh,Rheumatoid Arthritis,2025-06-08,2025-06-01,Self-pay,53,Valid,Recorded,696
+PT0680,33,18-39,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-06-10,2025-06-01,Employer panel,33,Valid,Recorded,697
+PT0681,47,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-06-11,2025-06-01,Self-pay,47,Valid,Recorded,698
+PT0682,37,18-39,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-06-11,2025-06-01,Self-pay,37,Valid,Recorded,699
+PT0683,48,40-59,Male,Karachi,Sindh,Rheumatoid Arthritis,2025-06-11,2025-06-01,Self-pay,48,Valid,Recorded,700
+PT0684,59,40-59,Female,Multan,Punjab,HER2+ Breast Cancer,2025-06-14,2025-06-01,Self-pay,59,Valid,Recorded,701
+PT0685,55,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-06-15,2025-06-01,Sehat Card,55,Valid,Recorded,702
+PT0686,28,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-06-16,2025-06-01,Sehat Card,28,Valid,Recorded,703
+PT0687,22,18-39,Female,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2025-06-17,2025-06-01,Private insurance,22,Valid,Recorded,704
+PT0688,57,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-06-18,2025-06-01,Private insurance,57,Valid,Recorded,705
+PT0689,47,40-59,Male,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-06-18,2025-06-01,Private insurance,47,Valid,Recorded,706
+PT0690,30,18-39,Not recorded,Faisalabad,Punjab,HER2+ Breast Cancer,2025-06-19,2025-06-01,Self-pay,30,Valid,Recorded,707
+PT0691,56,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2025-06-20,2025-06-01,Self-pay,56,Valid,Recorded,708
+PT0692,32,18-39,Male,Karachi,Sindh,Multiple Sclerosis,2025-06-25,2025-06-01,Sehat Card,32,Valid,Recorded,709
+PT0693,65,60-79,Female,Multan,Punjab,Neovascular AMD,2025-06-26,2025-06-01,Self-pay,65,Valid,Recorded,710
+PT0694,34,18-39,Female,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2025-06-27,2025-06-01,Sehat Card,34,Valid,Recorded,711
+PT0695,51,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-06-28,2025-06-01,Employer panel,51,Valid,Recorded,712
+PT0696,44,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-06-30,2025-06-01,Self-pay,44,Valid,Recorded,713
+PT0697,37,18-39,Male,Quetta,Balochistan,Multiple Sclerosis,2025-06-30,2025-06-01,Sehat Card,37,Valid,Recorded,714
+PT0698,34,18-39,Male,Rawalpindi,Punjab,Multiple Sclerosis,2025-07-02,2025-07-01,Employer panel,34,Valid,Recorded,715
+PT0699,68,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-07-02,2025-07-01,Self-pay,68,Valid,Recorded,716
+PT0700,62,60-79,Female,Lahore,Punjab,Neovascular AMD,2025-07-03,2025-07-01,Private insurance,62,Valid,Recorded,717
+PT0701,40,40-59,Male,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-07-03,2025-07-01,Sehat Card,40,Valid,Recorded,718
+PT0702,62,60-79,Not recorded,Karachi,Sindh,HER2+ Breast Cancer,2025-07-04,2025-07-01,Employer panel,62,Valid,Recorded,719
+PT0703,75,60-79,Male,Islamabad,Islamabad Capital Territory,Neovascular AMD,2025-07-05,2025-07-01,Self-pay,75,Valid,Recorded,720
+PT0704,50,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-07-07,2025-07-01,Private insurance,50,Valid,Recorded,721
+PT0705,60,60-79,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-07-10,2025-07-01,Self-pay,60,Valid,Recorded,722
+PT0706,55,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-07-11,2025-07-01,Self-pay,55,Valid,Recorded,723
+PT0707,62,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-07-11,2025-07-01,Sehat Card,62,Valid,Recorded,724
+PT0708,66,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-07-12,2025-07-01,Self-pay,66,Valid,Recorded,725
+PT0709,51,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-07-13,2025-07-01,Self-pay,51,Valid,Recorded,726
+PT0710,75,60-79,Female,Lahore,Punjab,Neovascular AMD,2025-07-15,2025-07-01,Private insurance,75,Valid,Recorded,727
+PT0711,74,60-79,Female,Karachi,Sindh,Neovascular AMD,2025-07-17,2025-07-01,Private insurance,74,Valid,Recorded,728
+PT0712,71,60-79,Female,Rawalpindi,Punjab,Neovascular AMD,2025-07-18,2025-07-01,Self-pay,71,Valid,Recorded,729
+PT0713,38,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2025-07-19,2025-07-01,Sehat Card,38,Valid,Recorded,730
+PT0714,55,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-07-19,2025-07-01,Self-pay,55,Valid,Recorded,731
+PT0715,44,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-07-20,2025-07-01,Sehat Card,44,Valid,Recorded,732
+PT0716,21,18-39,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-07-20,2025-07-01,Employer panel,21,Valid,Recorded,733
+PT0717,73,60-79,Male,Faisalabad,Punjab,Neovascular AMD,2025-07-21,2025-07-01,Employer panel,73,Valid,Recorded,734
+PT0718,55,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-07-22,2025-07-01,Sehat Card,55,Valid,Recorded,735
+PT0719,18,18-39,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-07-23,2025-07-01,Not recorded,18,Valid,Recorded,736
+PT0720,36,18-39,Female,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2025-07-26,2025-07-01,Employer panel,36,Valid,Recorded,737
+PT0721,82,80+,Female,Lahore,Punjab,Neovascular AMD,2025-07-26,2025-07-01,Self-pay,82,Valid,Recorded,738
+PT0722,67,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-07-26,2025-07-01,Self-pay,67,Valid,Recorded,739
+PT0723,41,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2025-07-27,2025-07-01,Sehat Card,41,Valid,Recorded,741
+PT0724,70,60-79,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-07-28,2025-07-01,Self-pay,70,Valid,Recorded,742
+PT0725,44,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-07-30,2025-07-01,Self-pay,44,Valid,Recorded,743
+PT0726,47,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-07-31,2025-07-01,Private insurance,47,Valid,Recorded,744
+PT0727,46,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-08-01,2025-08-01,Employer panel,46,Valid,Recorded,745
+PT0728,40,40-59,Female,Karachi,Sindh,Multiple Sclerosis,2025-08-02,2025-08-01,Sehat Card,40,Valid,Recorded,746
+PT0729,70,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-08-03,2025-08-01,Self-pay,70,Valid,Recorded,747
+PT0730,41,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-08-03,2025-08-01,Self-pay,41,Valid,Recorded,748
+PT0731,55,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-08-04,2025-08-01,Employer panel,55,Valid,Recorded,749
+PT0732,38,18-39,Male,Karachi,Sindh,Rheumatoid Arthritis,2025-08-04,2025-08-01,Employer panel,38,Valid,Recorded,750
+PT0733,,Unknown,Male,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-08-05,2025-08-01,Not recorded,,Missing,Recorded,751
+PT0734,49,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-08-06,2025-08-01,Sehat Card,49,Valid,Recorded,752
+PT0735,47,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-08-07,2025-08-01,Self-pay,47,Valid,Recorded,753
+PT0736,42,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-08-07,2025-08-01,Sehat Card,42,Valid,Recorded,754
+PT0737,77,60-79,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-08-07,2025-08-01,Employer panel,77,Valid,Recorded,755
+PT0738,63,60-79,Male,Karachi,Sindh,Neovascular AMD,2025-08-09,2025-08-01,Sehat Card,63,Valid,Recorded,756
+PT0739,47,40-59,Female,Quetta,Balochistan,Rheumatoid Arthritis,2025-08-09,2025-08-01,Self-pay,47,Valid,Recorded,757
+PT0740,42,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-08-10,2025-08-01,Employer panel,42,Valid,Derived from city,758
+PT0741,38,18-39,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-08-10,2025-08-01,Employer panel,38,Valid,Recorded,759
+PT0743,37,18-39,Female,Quetta,Balochistan,Rheumatoid Arthritis,2025-08-12,2025-08-01,Private insurance,37,Valid,Derived from city,761
+PT0744,62,60-79,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-08-13,2025-08-01,Sehat Card,62,Valid,Recorded,762
+PT0745,37,18-39,Female,Faisalabad,Punjab,Multiple Sclerosis,2025-08-13,2025-08-01,Private insurance,37,Valid,Recorded,763
+PT0746,36,18-39,Female,Multan,Punjab,Rheumatoid Arthritis,2025-08-15,2025-08-01,Employer panel,36,Valid,Recorded,764
+PT0747,35,18-39,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-08-16,2025-08-01,Self-pay,35,Valid,Recorded,765
+PT0748,72,60-79,Female,Karachi,Sindh,Neovascular AMD,2025-08-16,2025-08-01,Self-pay,72,Valid,Recorded,766
+PT0749,67,60-79,Female,Lahore,Punjab,Neovascular AMD,2025-08-17,2025-08-01,Private insurance,67,Valid,Recorded,767
+PT0750,55,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-08-18,2025-08-01,Employer panel,55,Valid,Recorded,768
+PT0751,29,18-39,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-08-19,2025-08-01,Self-pay,29,Valid,Recorded,769
+PT0752,76,60-79,Male,Karachi,Sindh,Neovascular AMD,2025-08-20,2025-08-01,Self-pay,76,Valid,Recorded,770
+PT0753,45,40-59,Female,Multan,Punjab,Rheumatoid Arthritis,2025-08-23,2025-08-01,Sehat Card,45,Valid,Recorded,771
+PT0754,41,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-08-23,2025-08-01,Sehat Card,41,Valid,Recorded,772
+PT0756,34,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-08-25,2025-08-01,Not recorded,34,Valid,Recorded,774
+PT0757,68,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-08-26,2025-08-01,Employer panel,68,Valid,Recorded,775
+PT0758,58,40-59,Male,Lahore,Punjab,Neovascular AMD,2025-08-26,2025-08-01,Employer panel,58,Valid,Recorded,776
+PT0759,48,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-08-27,2025-08-01,Sehat Card,48,Valid,Recorded,777
+PT0760,30,18-39,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-08-28,2025-08-01,Employer panel,30,Valid,Recorded,778
+PT0761,35,18-39,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-08-31,2025-08-01,Sehat Card,35,Valid,Recorded,779
+PT0762,46,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-08-31,2025-08-01,Self-pay,46,Valid,Recorded,780
+PT0763,59,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2025-09-02,2025-09-01,Self-pay,59,Valid,Recorded,781
+PT0764,76,60-79,Male,Lahore,Punjab,Neovascular AMD,2025-09-02,2025-09-01,Private insurance,76,Valid,Recorded,782
+PT0765,57,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-09-02,2025-09-01,Self-pay,57,Valid,Recorded,783
+PT0766,71,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-09-02,2025-09-01,Employer panel,71,Valid,Recorded,784
+PT0767,41,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-09-03,2025-09-01,Self-pay,41,Valid,Recorded,785
+PT0768,68,60-79,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-09-03,2025-09-01,Not recorded,68,Valid,Recorded,786
+PT0769,45,40-59,Male,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-09-04,2025-09-01,Employer panel,45,Valid,Recorded,787
+PT0770,40,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-09-05,2025-09-01,Self-pay,40,Valid,Recorded,788
+PT0771,18,18-39,Male,Karachi,Sindh,Multiple Sclerosis,2025-09-05,2025-09-01,Self-pay,18,Valid,Recorded,789
+PT0772,53,40-59,Female,Faisalabad,Punjab,Neovascular AMD,2025-09-05,2025-09-01,Self-pay,53,Valid,Recorded,790
+PT0773,41,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-09-05,2025-09-01,Self-pay,41,Valid,Recorded,791
+PT0774,56,40-59,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-09-06,2025-09-01,Sehat Card,56,Valid,Recorded,792
+PT0775,49,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-09-06,2025-09-01,Private insurance,49,Valid,Recorded,793
+PT0776,28,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-09-06,2025-09-01,Employer panel,28,Valid,Recorded,794
+PT0777,,Unknown,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-09-07,2025-09-01,Self-pay,,Missing,Recorded,795
+PT0778,35,18-39,Male,Karachi,Sindh,Rheumatoid Arthritis,2025-09-07,2025-09-01,Self-pay,35,Valid,Recorded,796
+PT0779,71,60-79,Female,Rawalpindi,Punjab,Neovascular AMD,2025-09-07,2025-09-01,Self-pay,71,Valid,Recorded,797
+PT0780,61,60-79,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-09-08,2025-09-01,Self-pay,61,Valid,Recorded,798
+PT0781,37,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2025-09-08,2025-09-01,Private insurance,37,Valid,Recorded,799
+PT0782,37,18-39,Male,Lahore,Punjab,Multiple Sclerosis,2025-09-08,2025-09-01,Self-pay,37,Valid,Recorded,800
+PT0783,28,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-09-09,2025-09-01,Self-pay,28,Valid,Recorded,801
+PT0784,53,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-09-09,2025-09-01,Employer panel,53,Valid,Recorded,802
+PT0785,70,60-79,Male,Rawalpindi,Punjab,Neovascular AMD,2025-09-09,2025-09-01,Sehat Card,70,Valid,Recorded,803
+PT0786,55,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-09-09,2025-09-01,Self-pay,55,Valid,Recorded,805
+PT0787,74,60-79,Male,Rawalpindi,Punjab,Neovascular AMD,2025-09-10,2025-09-01,Self-pay,74,Valid,Recorded,806
+PT0788,56,40-59,Male,Multan,Punjab,Neovascular AMD,2025-09-11,2025-09-01,Self-pay,56,Valid,Recorded,807
+PT0789,60,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-09-11,2025-09-01,Employer panel,60,Valid,Recorded,808
+PT0790,63,60-79,Female,Quetta,Balochistan,HER2+ Breast Cancer,2025-09-14,2025-09-01,Self-pay,63,Valid,Recorded,809
+PT0791,35,18-39,Female,Multan,Punjab,Rheumatoid Arthritis,2025-09-15,2025-09-01,Self-pay,35,Valid,Recorded,810
+PT0792,49,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-09-15,2025-09-01,Self-pay,49,Valid,Derived from city,811
+PT0793,46,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-09-15,2025-09-01,Private insurance,46,Valid,Recorded,812
+PT0794,62,60-79,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-09-16,2025-09-01,Self-pay,62,Valid,Recorded,813
+PT0795,43,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2025-09-16,2025-09-01,Self-pay,43,Valid,Recorded,814
+PT0797,53,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-09-18,2025-09-01,Private insurance,53,Valid,Recorded,816
+PT0798,31,18-39,Not recorded,Lahore,Punjab,Multiple Sclerosis,2025-09-18,2025-09-01,Private insurance,31,Valid,Derived from city,817
+PT0799,22,18-39,Female,Quetta,Balochistan,Multiple Sclerosis,2025-09-18,2025-09-01,Sehat Card,22,Valid,Recorded,818
+PT0800,36,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2025-09-19,2025-09-01,Not recorded,36,Valid,Recorded,819
+PT0801,53,40-59,Female,Multan,Punjab,HER2+ Breast Cancer,2025-09-19,2025-09-01,Private insurance,53,Valid,Recorded,820
+PT0802,55,40-59,Female,Multan,Punjab,HER2+ Breast Cancer,2025-09-19,2025-09-01,Self-pay,55,Valid,Recorded,821
+PT0803,45,40-59,Male,Karachi,Sindh,Rheumatoid Arthritis,2025-09-19,2025-09-01,Employer panel,45,Valid,Derived from city,822
+PT0804,41,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-09-20,2025-09-01,Sehat Card,41,Valid,Recorded,823
+PT0805,49,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-09-20,2025-09-01,Self-pay,49,Valid,Recorded,824
+PT0806,26,18-39,Male,Quetta,Balochistan,Rheumatoid Arthritis,2025-09-20,2025-09-01,Self-pay,26,Valid,Recorded,825
+PT0807,,Unknown,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-09-21,2025-09-01,Private insurance,,Missing,Recorded,826
+PT0808,47,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-09-21,2025-09-01,Sehat Card,47,Valid,Derived from city,827
+PT0809,36,18-39,Male,Lahore,Punjab,Rheumatoid Arthritis,2025-09-21,2025-09-01,Employer panel,36,Valid,Recorded,828
+PT0810,49,40-59,Male,Lahore,Punjab,Neovascular AMD,2025-09-23,2025-09-01,Sehat Card,49,Valid,Recorded,829
+PT0811,63,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-09-24,2025-09-01,Self-pay,63,Valid,Recorded,830
+PT0812,37,18-39,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-09-26,2025-09-01,Employer panel,37,Valid,Recorded,831
+PT0813,70,60-79,Female,Rawalpindi,Punjab,Neovascular AMD,2025-09-27,2025-09-01,Sehat Card,70,Valid,Recorded,832
+PT0814,62,60-79,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-09-27,2025-09-01,Sehat Card,62,Valid,Recorded,833
+PT0815,58,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-09-28,2025-09-01,Self-pay,58,Valid,Recorded,834
+PT0816,52,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-09-29,2025-09-01,Sehat Card,52,Valid,Recorded,835
+PT0817,46,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-10-02,2025-10-01,Employer panel,46,Valid,Derived from city,836
+PT0818,49,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-10-03,2025-10-01,Sehat Card,49,Valid,Recorded,837
+PT0819,45,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2025-10-03,2025-10-01,Employer panel,45,Valid,Recorded,838
+PT0820,60,60-79,Male,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-10-03,2025-10-01,Self-pay,60,Valid,Recorded,839
+PT0821,45,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-10-04,2025-10-01,Self-pay,45,Valid,Recorded,840
+PT0822,59,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-10-05,2025-10-01,Private insurance,59,Valid,Recorded,841
+PT0823,72,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-10-05,2025-10-01,Private insurance,72,Valid,Recorded,842
+PT0824,52,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-10-06,2025-10-01,Self-pay,52,Valid,Recorded,843
+PT0825,33,18-39,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-10-07,2025-10-01,Private insurance,33,Valid,Recorded,844
+PT0826,52,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-10-08,2025-10-01,Employer panel,52,Valid,Recorded,845
+PT0827,74,60-79,Female,Faisalabad,Punjab,Neovascular AMD,2025-10-08,2025-10-01,Sehat Card,74,Valid,Recorded,846
+PT0828,68,60-79,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-10-09,2025-10-01,Self-pay,68,Valid,Recorded,847
+PT0829,58,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-10-09,2025-10-01,Not recorded,58,Valid,Recorded,848
+PT0830,39,18-39,Female,Multan,Punjab,Rheumatoid Arthritis,2025-10-09,2025-10-01,Private insurance,39,Valid,Recorded,849
+PT0831,52,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2025-10-10,2025-10-01,Employer panel,52,Valid,Recorded,850
+PT0832,39,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-10-11,2025-10-01,Sehat Card,39,Valid,Recorded,851
+PT0833,51,40-59,Male,Lahore,Punjab,Rheumatoid Arthritis,2025-10-11,2025-10-01,Self-pay,51,Valid,Recorded,852
+PT0834,35,18-39,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-10-12,2025-10-01,Employer panel,35,Valid,Recorded,853
+PT0835,59,40-59,Male,Lahore,Punjab,Neovascular AMD,2025-10-12,2025-10-01,Not recorded,59,Valid,Recorded,854
+PT0836,53,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-10-12,2025-10-01,Employer panel,53,Valid,Recorded,855
+PT0838,26,18-39,Female,Rawalpindi,Punjab,Multiple Sclerosis,2025-10-13,2025-10-01,Self-pay,26,Valid,Recorded,857
+PT0839,72,60-79,Female,Multan,Punjab,Rheumatoid Arthritis,2025-10-13,2025-10-01,Sehat Card,72,Valid,Recorded,858
+PT0840,86,80+,Female,Karachi,Sindh,Neovascular AMD,2025-10-14,2025-10-01,Sehat Card,86,Valid,Recorded,859
+PT0841,,Unknown,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-10-15,2025-10-01,Sehat Card,,Missing,Recorded,860
+PT0842,73,60-79,Female,Lahore,Punjab,Neovascular AMD,2025-10-15,2025-10-01,Private insurance,73,Valid,Recorded,861
+PT0843,59,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-10-15,2025-10-01,Private insurance,59,Valid,Recorded,862
+PT0844,55,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-10-15,2025-10-01,Self-pay,55,Valid,Recorded,863
+PT0845,31,18-39,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-10-16,2025-10-01,Self-pay,31,Valid,Recorded,864
+PT0846,,Unknown,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-10-16,2025-10-01,Employer panel,,Missing,Recorded,865
+PT0847,25,18-39,Female,Lahore,Punjab,Multiple Sclerosis,2025-10-16,2025-10-01,Employer panel,25,Valid,Recorded,866
+PT0848,30,18-39,Not recorded,Lahore,Punjab,Multiple Sclerosis,2025-10-16,2025-10-01,Self-pay,30,Valid,Recorded,867
+PT0849,63,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-10-16,2025-10-01,Self-pay,63,Valid,Recorded,868
+PT0850,47,40-59,Female,Karachi,Sindh,Multiple Sclerosis,2025-10-17,2025-10-01,Employer panel,47,Valid,Recorded,869
+PT0851,32,18-39,Female,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2025-10-17,2025-10-01,Employer panel,32,Valid,Recorded,870
+PT0852,39,18-39,Female,Multan,Punjab,Rheumatoid Arthritis,2025-10-17,2025-10-01,Sehat Card,39,Valid,Recorded,871
+PT0853,55,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-10-17,2025-10-01,Employer panel,55,Valid,Recorded,872
+PT0854,55,40-59,Male,Lahore,Punjab,Rheumatoid Arthritis,2025-10-18,2025-10-01,Self-pay,55,Valid,Recorded,873
+PT0855,68,60-79,Male,Rawalpindi,Punjab,Neovascular AMD,2025-10-18,2025-10-01,Sehat Card,68,Valid,Recorded,874
+PT0856,66,60-79,Female,Multan,Punjab,HER2+ Breast Cancer,2025-10-18,2025-10-01,Self-pay,66,Valid,Recorded,875
+PT0857,39,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2025-10-19,2025-10-01,Employer panel,39,Valid,Recorded,876
+PT0858,61,60-79,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-10-19,2025-10-01,Sehat Card,61,Valid,Recorded,877
+PT0859,27,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-10-20,2025-10-01,Private insurance,27,Valid,Recorded,878
+PT0860,63,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-10-20,2025-10-01,Not recorded,63,Valid,Recorded,879
+PT0861,53,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-10-20,2025-10-01,Sehat Card,53,Valid,Recorded,880
+PT0862,50,40-59,Female,Multan,Punjab,Rheumatoid Arthritis,2025-10-21,2025-10-01,Self-pay,50,Valid,Recorded,881
+PT0863,26,18-39,Female,Faisalabad,Punjab,Multiple Sclerosis,2025-10-23,2025-10-01,Private insurance,26,Valid,Recorded,882
+PT0864,43,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-10-23,2025-10-01,Private insurance,43,Valid,Recorded,883
+PT0865,37,18-39,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-10-23,2025-10-01,Sehat Card,37,Valid,Recorded,884
+PT0866,63,60-79,Male,Rawalpindi,Punjab,Neovascular AMD,2025-10-24,2025-10-01,Private insurance,63,Valid,Recorded,885
+PT0867,47,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-10-24,2025-10-01,Self-pay,47,Valid,Recorded,886
+PT0868,61,60-79,Male,Karachi,Sindh,Neovascular AMD,2025-10-27,2025-10-01,Self-pay,61,Valid,Recorded,887
+PT0869,76,60-79,Male,Quetta,Balochistan,Neovascular AMD,2025-10-27,2025-10-01,Self-pay,76,Valid,Recorded,888
+PT0870,57,40-59,Male,Lahore,Punjab,Neovascular AMD,2025-10-27,2025-10-01,Self-pay,57,Valid,Recorded,889
+PT0871,70,60-79,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-10-27,2025-10-01,Private insurance,70,Valid,Recorded,890
+PT0872,55,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-10-27,2025-10-01,Sehat Card,55,Valid,Recorded,891
+PT0873,59,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-10-27,2025-10-01,Employer panel,59,Valid,Recorded,892
+PT0874,36,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2025-10-28,2025-10-01,Sehat Card,36,Valid,Recorded,893
+PT0875,40,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2025-10-29,2025-10-01,Self-pay,40,Valid,Recorded,894
+PT0876,54,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2025-10-29,2025-10-01,Self-pay,54,Valid,Recorded,895
+PT0877,60,60-79,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-10-30,2025-10-01,Employer panel,60,Valid,Recorded,896
+PT0878,65,60-79,Female,Faisalabad,Punjab,Neovascular AMD,2025-10-30,2025-10-01,Not recorded,65,Valid,Recorded,897
+PT0879,52,40-59,Not recorded,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2025-11-01,2025-11-01,Self-pay,52,Valid,Recorded,898
+PT0880,76,60-79,Female,Lahore,Punjab,Neovascular AMD,2025-11-02,2025-11-01,Self-pay,76,Valid,Recorded,899
+PT0881,56,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-11-02,2025-11-01,Private insurance,56,Valid,Recorded,900
+PT0882,49,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-11-03,2025-11-01,Self-pay,49,Valid,Recorded,901
+PT0883,50,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-11-03,2025-11-01,Employer panel,50,Valid,Recorded,902
+PT0884,42,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-11-04,2025-11-01,Private insurance,42,Valid,Recorded,903
+PT0885,45,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-11-04,2025-11-01,Employer panel,45,Valid,Recorded,904
+PT0886,63,60-79,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-11-04,2025-11-01,Private insurance,63,Valid,Recorded,905
+PT0887,38,18-39,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-11-05,2025-11-01,Sehat Card,38,Valid,Recorded,906
+PT0888,46,40-59,Male,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-11-05,2025-11-01,Sehat Card,46,Valid,Recorded,907
+PT0889,39,18-39,Female,Quetta,Balochistan,Rheumatoid Arthritis,2025-11-05,2025-11-01,Sehat Card,39,Valid,Recorded,908
+PT0890,43,40-59,Female,Karachi,Sindh,Multiple Sclerosis,2025-11-06,2025-11-01,Private insurance,43,Valid,Recorded,909
+PT0891,50,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-11-07,2025-11-01,Self-pay,50,Valid,Recorded,910
+PT0892,35,18-39,Male,Lahore,Punjab,Multiple Sclerosis,2025-11-07,2025-11-01,Self-pay,35,Valid,Recorded,911
+PT0893,41,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2025-11-07,2025-11-01,Self-pay,41,Valid,Recorded,912
+PT0894,51,40-59,Not recorded,Karachi,Sindh,HER2+ Breast Cancer,2025-11-07,2025-11-01,Private insurance,51,Valid,Recorded,913
+PT0895,75,60-79,Female,Quetta,Balochistan,Neovascular AMD,2025-11-07,2025-11-01,Sehat Card,75,Valid,Recorded,914
+PT0896,69,60-79,Male,Lahore,Punjab,Neovascular AMD,2025-11-08,2025-11-01,Self-pay,69,Valid,Recorded,915
+PT0897,50,40-59,Male,Rawalpindi,Punjab,Multiple Sclerosis,2025-11-09,2025-11-01,Self-pay,50,Valid,Recorded,916
+PT0898,61,60-79,Female,Multan,Punjab,Rheumatoid Arthritis,2025-11-10,2025-11-01,Sehat Card,61,Valid,Recorded,917
+PT0899,41,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-11-10,2025-11-01,Private insurance,41,Valid,Derived from city,918
+PT0900,63,60-79,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-11-10,2025-11-01,Employer panel,63,Valid,Recorded,919
+PT0901,73,60-79,Male,Karachi,Sindh,Neovascular AMD,2025-11-10,2025-11-01,Sehat Card,73,Valid,Recorded,920
+PT0902,53,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-11-11,2025-11-01,Self-pay,53,Valid,Recorded,921
+PT0903,35,18-39,Female,Lahore,Punjab,Multiple Sclerosis,2025-11-12,2025-11-01,Employer panel,35,Valid,Recorded,922
+PT0904,37,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-11-12,2025-11-01,Sehat Card,37,Valid,Recorded,923
+PT0905,43,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-11-13,2025-11-01,Employer panel,43,Valid,Recorded,924
+PT0906,57,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-11-13,2025-11-01,Private insurance,57,Valid,Recorded,925
+PT0907,41,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-11-13,2025-11-01,Sehat Card,41,Valid,Recorded,926
+PT0908,39,18-39,Female,Multan,Punjab,HER2+ Breast Cancer,2025-11-14,2025-11-01,Employer panel,39,Valid,Recorded,927
+PT0909,27,18-39,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-11-14,2025-11-01,Self-pay,27,Valid,Recorded,928
+PT0910,81,80+,Male,Lahore,Punjab,Neovascular AMD,2025-11-15,2025-11-01,Self-pay,81,Valid,Recorded,929
+PT0911,43,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-11-15,2025-11-01,Sehat Card,43,Valid,Recorded,930
+PT0912,48,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-11-16,2025-11-01,Self-pay,48,Valid,Recorded,931
+PT0913,34,18-39,Male,Rawalpindi,Punjab,Multiple Sclerosis,2025-11-16,2025-11-01,Employer panel,34,Valid,Recorded,932
+PT0914,19,18-39,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-11-17,2025-11-01,Private insurance,19,Valid,Recorded,933
+PT0915,74,60-79,Male,Faisalabad,Punjab,Neovascular AMD,2025-11-17,2025-11-01,Private insurance,74,Valid,Recorded,935
+PT0916,77,60-79,Female,Rawalpindi,Punjab,Neovascular AMD,2025-11-17,2025-11-01,Private insurance,77,Valid,Recorded,936
+PT0917,57,40-59,Female,Multan,Punjab,HER2+ Breast Cancer,2025-11-18,2025-11-01,Employer panel,57,Valid,Recorded,937
+PT0918,51,40-59,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-11-18,2025-11-01,Sehat Card,51,Valid,Recorded,938
+PT0919,76,60-79,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-11-18,2025-11-01,Self-pay,76,Valid,Recorded,939
+PT0920,80,80+,Female,Faisalabad,Punjab,Neovascular AMD,2025-11-19,2025-11-01,Private insurance,80,Valid,Recorded,940
+PT0921,41,40-59,Male,Karachi,Sindh,Rheumatoid Arthritis,2025-11-19,2025-11-01,Sehat Card,41,Valid,Recorded,941
+PT0922,38,18-39,Male,Faisalabad,Punjab,Multiple Sclerosis,2025-11-19,2025-11-01,Self-pay,38,Valid,Recorded,942
+PT0923,56,40-59,Male,Karachi,Sindh,HER2+ Breast Cancer,2025-11-19,2025-11-01,Self-pay,56,Valid,Recorded,943
+PT0924,29,18-39,Female,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2025-11-20,2025-11-01,Employer panel,29,Valid,Recorded,944
+PT0925,71,60-79,Female,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2025-11-21,2025-11-01,Self-pay,71,Valid,Recorded,945
+PT0926,50,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-11-21,2025-11-01,Self-pay,50,Valid,Recorded,946
+PT0927,80,80+,Male,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2025-11-21,2025-11-01,Private insurance,80,Valid,Recorded,947
+PT0928,33,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Multiple Sclerosis,2025-11-21,2025-11-01,Sehat Card,33,Valid,Recorded,948
+PT0929,45,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2025-11-22,2025-11-01,Employer panel,45,Valid,Recorded,949
+PT0930,50,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2025-11-22,2025-11-01,Self-pay,50,Valid,Recorded,950
+PT0931,48,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-11-22,2025-11-01,Self-pay,48,Valid,Recorded,951
+PT0933,69,60-79,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-11-24,2025-11-01,Sehat Card,69,Valid,Recorded,953
+PT0934,69,60-79,Female,Islamabad,Islamabad Capital Territory,Neovascular AMD,2025-11-25,2025-11-01,Self-pay,69,Valid,Recorded,954
+PT0935,57,40-59,Female,Faisalabad,Punjab,HER2+ Breast Cancer,2025-11-26,2025-11-01,Self-pay,57,Valid,Recorded,955
+PT0936,79,60-79,Female,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2025-11-26,2025-11-01,Self-pay,79,Valid,Recorded,956
+PT0937,35,18-39,Male,Multan,Punjab,Multiple Sclerosis,2025-11-26,2025-11-01,Private insurance,35,Valid,Recorded,957
+PT0939,48,40-59,Male,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-11-26,2025-11-01,Private insurance,48,Valid,Recorded,959
+PT0940,58,40-59,Male,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-11-26,2025-11-01,Private insurance,58,Valid,Recorded,960
+PT0941,39,18-39,Male,Karachi,Sindh,Multiple Sclerosis,2025-11-26,2025-11-01,Employer panel,39,Valid,Recorded,961
+PT0942,42,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-11-27,2025-11-01,Not recorded,42,Valid,Recorded,962
+PT0943,42,40-59,Female,Lahore,Punjab,Multiple Sclerosis,2025-11-28,2025-11-01,Private insurance,42,Valid,Recorded,963
+PT0944,26,18-39,Male,Karachi,Sindh,Multiple Sclerosis,2025-11-28,2025-11-01,Private insurance,26,Valid,Recorded,964
+PT0945,43,40-59,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-11-29,2025-11-01,Employer panel,43,Valid,Recorded,965
+PT0946,40,40-59,Female,Rawalpindi,Punjab,Multiple Sclerosis,2025-12-01,2025-12-01,Private insurance,40,Valid,Recorded,966
+PT0947,,Unknown,Female,Islamabad,Islamabad Capital Territory,HER2+ Breast Cancer,2025-12-01,2025-12-01,Self-pay,,Missing,Recorded,967
+PT0948,34,18-39,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-12-02,2025-12-01,Private insurance,34,Valid,Recorded,968
+PT0949,63,60-79,Female,Karachi,Sindh,Neovascular AMD,2025-12-03,2025-12-01,Employer panel,63,Valid,Recorded,969
+PT0950,57,40-59,Female,Lahore,Punjab,Neovascular AMD,2025-12-03,2025-12-01,Self-pay,57,Valid,Recorded,970
+PT0951,73,60-79,Male,Islamabad,Islamabad Capital Territory,Neovascular AMD,2025-12-04,2025-12-01,Self-pay,73,Valid,Recorded,971
+PT0952,47,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-12-04,2025-12-01,Sehat Card,47,Valid,Recorded,972
+PT0953,38,18-39,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-12-05,2025-12-01,Self-pay,38,Valid,Recorded,973
+PT0954,41,40-59,Female,Karachi,Sindh,Rheumatoid Arthritis,2025-12-05,2025-12-01,Self-pay,41,Valid,Recorded,974
+PT0955,59,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-12-05,2025-12-01,Self-pay,59,Valid,Recorded,975
+PT0956,57,40-59,Female,Quetta,Balochistan,HER2+ Breast Cancer,2025-12-05,2025-12-01,Private insurance,57,Valid,Recorded,976
+PT0957,50,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-12-06,2025-12-01,Self-pay,50,Valid,Recorded,977
+PT0958,63,60-79,Male,Peshawar,Khyber Pakhtunkhwa,Neovascular AMD,2025-12-06,2025-12-01,Self-pay,63,Valid,Recorded,978
+PT0959,18,18-39,Male,Islamabad,Islamabad Capital Territory,Multiple Sclerosis,2025-12-06,2025-12-01,Self-pay,18,Valid,Recorded,979
+PT0960,67,60-79,Female,Multan,Punjab,Neovascular AMD,2025-12-08,2025-12-01,Private insurance,67,Valid,Recorded,980
+PT0961,71,60-79,Male,Lahore,Punjab,Neovascular AMD,2025-12-08,2025-12-01,Self-pay,71,Valid,Recorded,981
+PT0962,90,80+,Male,Lahore,Punjab,Neovascular AMD,2025-12-08,2025-12-01,Self-pay,90,Valid,Recorded,983
+PT0963,38,18-39,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-12-08,2025-12-01,Not recorded,38,Valid,Recorded,984
+PT0964,45,40-59,Female,Lahore,Punjab,Rheumatoid Arthritis,2025-12-09,2025-12-01,Sehat Card,45,Valid,Recorded,985
+PT0965,65,60-79,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-12-09,2025-12-01,Self-pay,65,Valid,Recorded,986
+PT0966,62,60-79,Female,Lahore,Punjab,Neovascular AMD,2025-12-10,2025-12-01,Self-pay,62,Valid,Recorded,987
+PT0967,36,18-39,Female,Rawalpindi,Punjab,Rheumatoid Arthritis,2025-12-10,2025-12-01,Employer panel,36,Valid,Recorded,988
+PT0968,45,40-59,Female,Multan,Punjab,Multiple Sclerosis,2025-12-11,2025-12-01,Self-pay,45,Valid,Recorded,989
+PT0969,46,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-12-12,2025-12-01,Sehat Card,46,Valid,Recorded,990
+PT0970,60,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-12-14,2025-12-01,Private insurance,60,Valid,Recorded,991
+PT0971,51,40-59,Female,Faisalabad,Punjab,Rheumatoid Arthritis,2025-12-14,2025-12-01,Self-pay,51,Valid,Recorded,992
+PT0972,49,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-12-16,2025-12-01,Sehat Card,49,Valid,Recorded,993
+PT0973,48,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-12-18,2025-12-01,Employer panel,48,Valid,Recorded,994
+PT0974,36,18-39,Female,Quetta,Balochistan,Rheumatoid Arthritis,2025-12-19,2025-12-01,Employer panel,36,Valid,Recorded,995
+PT0975,51,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-12-20,2025-12-01,Sehat Card,51,Valid,Recorded,996
+PT0976,51,40-59,Male,Lahore,Punjab,Rheumatoid Arthritis,2025-12-20,2025-12-01,Sehat Card,51,Valid,Recorded,997
+PT0977,,Unknown,Female,Quetta,Balochistan,Rheumatoid Arthritis,2025-12-20,2025-12-01,Private insurance,,Missing,Recorded,998
+PT0978,37,18-39,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-12-20,2025-12-01,Sehat Card,37,Valid,Recorded,999
+PT0979,59,40-59,Male,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-12-21,2025-12-01,Employer panel,59,Valid,Recorded,1000
+PT0980,51,40-59,Female,Islamabad,Islamabad Capital Territory,Rheumatoid Arthritis,2025-12-22,2025-12-01,Sehat Card,51,Valid,Recorded,1001
+PT0981,73,60-79,Male,Multan,Punjab,Neovascular AMD,2025-12-22,2025-12-01,Sehat Card,73,Valid,Recorded,1002
+PT0982,52,40-59,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-12-23,2025-12-01,Self-pay,52,Valid,Recorded,1003
+PT0983,80,80+,Not recorded,Quetta,Balochistan,Neovascular AMD,2025-12-23,2025-12-01,Employer panel,80,Valid,Recorded,1004
+PT0984,51,40-59,Female,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-12-23,2025-12-01,Self-pay,51,Valid,Recorded,1005
+PT0985,60,60-79,Not recorded,Lahore,Punjab,HER2+ Breast Cancer,2025-12-23,2025-12-01,Private insurance,60,Valid,Recorded,1006
+PT0986,49,40-59,Male,Peshawar,Khyber Pakhtunkhwa,HER2+ Breast Cancer,2025-12-24,2025-12-01,Employer panel,49,Valid,Recorded,1007
+PT0987,68,60-79,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-12-25,2025-12-01,Self-pay,68,Valid,Recorded,1008
+PT0988,33,18-39,Female,Karachi,Sindh,Multiple Sclerosis,2025-12-25,2025-12-01,Self-pay,33,Valid,Recorded,1009
+PT0989,35,18-39,Female,Peshawar,Khyber Pakhtunkhwa,Rheumatoid Arthritis,2025-12-26,2025-12-01,Self-pay,35,Valid,Recorded,1010
+PT0990,57,40-59,Female,Rawalpindi,Punjab,HER2+ Breast Cancer,2025-12-27,2025-12-01,Employer panel,57,Valid,Recorded,1011
+PT0991,71,60-79,Female,Karachi,Sindh,Neovascular AMD,2025-12-27,2025-12-01,Private insurance,71,Valid,Recorded,1012
+PT0992,79,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-12-27,2025-12-01,Self-pay,79,Valid,Recorded,1013
+PT0993,60,60-79,Female,Karachi,Sindh,HER2+ Breast Cancer,2025-12-28,2025-12-01,Self-pay,60,Valid,Recorded,1014
+PT0994,68,60-79,Male,Lahore,Punjab,Neovascular AMD,2025-12-28,2025-12-01,Self-pay,68,Valid,Recorded,1015
+PT0995,76,60-79,Female,Rawalpindi,Punjab,Neovascular AMD,2025-12-29,2025-12-01,Self-pay,76,Valid,Recorded,1016
+PT0996,58,40-59,Female,Lahore,Punjab,HER2+ Breast Cancer,2025-12-29,2025-12-01,Self-pay,58,Valid,Recorded,1017
+PT0997,27,18-39,Female,Rawalpindi,Punjab,Multiple Sclerosis,2025-12-30,2025-12-01,Sehat Card,27,Valid,Recorded,1018
+PT0998,55,40-59,Male,Rawalpindi,Punjab,Neovascular AMD,2025-12-30,2025-12-01,Self-pay,55,Valid,Recorded,1019
+PT0999,55,40-59,Male,Multan,Punjab,Rheumatoid Arthritis,2025-12-31,2025-12-01,Private insurance,55,Valid,Recorded,1020
+PT1000,82,80+,Female,Lahore,Punjab,Neovascular AMD,2025-12-31,2025-12-01,Sehat Card,82,Valid,Recorded,1021

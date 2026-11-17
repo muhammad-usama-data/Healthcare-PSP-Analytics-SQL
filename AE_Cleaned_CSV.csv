@@ -1,0 +1,151 @@
+﻿ae_id,patient_id,date_reported,event_description,severity,causality,outcome,reported_to_PV,review_flag,source_row
+AE0001,PT0034,2024-04-11,Headache,Severe,Possible,Recovered,N,"Severe, not reported to PV",2
+AE0002,PT0085,2024-04-16,Serious infection,Severe,Probable,Recovered,Y,,3
+AE0003,PT0069,2024-04-18,Serious infection,Severe,Possible,Recovered,Y,,4
+AE0004,PT0120,2024-05-01,Injection site reaction,Moderate,Probable,Not recorded,Y,Outcome not recorded,5
+AE0005,PT0068,2024-05-16,Neutropenia,Mild,Possible,Recovering,N,,6
+AE0006,PT0028,2024-05-26,Elevated liver enzymes,Mild,Unlikely,Recovered,N,,7
+AE0007,PT0049,2024-06-03,Diarrhoea,Mild,Possible,Recovering,Y,,8
+AE0008,PT0047,2024-06-04,Serious infection,Severe,Probable,Recovering,Y,,9
+AE0009,PT0026,2024-06-13,Serious infection,Severe,Probable,Not recorded,Y,Outcome not recorded,10
+AE0010,PT0140,2024-06-16,Injection site reaction,Mild,Possible,Recovered,N,,11
+AE0011,PT0068,2024-06-20,Serious infection,Severe,Probable,Recovering,Y,,12
+AE0012,PT0188,2024-07-04,Elevated liver enzymes,Moderate,Possible,Recovered,N,,13
+AE0013,PT0011,2024-07-11,Fatigue,Severe,Probable,Recovered,Y,,14
+AE0014,PT0030,2024-07-12,Injection site reaction,Mild,Probable,Recovering,N,,15
+AE0015,PT0170,2024-07-22,Neutropenia,Moderate,Possible,Recovering,N,,16
+AE0016,PT0008,2024-08-19,Herpes infection,Moderate,Possible,Recovered,Y,,17
+AE0017,PT0150,2024-08-27,Neutropenia,Mild,Possible,Recovered,Y,,18
+AE0018,PT0221,2024-08-29,Eye pain,Moderate,Probable,Not recovered,Y,,19
+AE0019,PT0197,2024-08-30,Headache,Severe,Possible,Recovered,Y,,20
+AE0020,PT0252,2024-09-01,Fatigue,Mild,Certain,Recovered,Y,,21
+AE0021,PT0101,2024-09-03,Elevated liver enzymes,Mild,Possible,Not recovered,Y,,22
+AE0022,PT0057,2024-09-08,Neutropenia,Mild,Possible,Recovered,N,,23
+AE0023,PT0139,2024-09-08,Elevated liver enzymes,Mild,Unlikely,Recovered,Y,,24
+AE0024,PT0022,2024-09-12,Conjunctival haemorrhage,Mild,Probable,Recovered,Y,,25
+AE0025,PT0103,2024-09-24,Conjunctival haemorrhage,Mild,Possible,Recovering,Y,,26
+AE0026,PT0052,2024-09-30,Headache,Moderate,Possible,Recovered,Y,,27
+AE0027,PT0033,2024-10-09,Serious infection,Severe,Unlikely,Recovered,Y,,28
+AE0028,PT0119,2024-10-09,Upper respiratory infection,Mild,Not recorded,Recovered,Y,Causality not recorded,29
+AE0029,PT0033,2024-10-11,Elevated liver enzymes,Mild,Unlikely,Recovering,Y,,30
+AE0030,PT0295,2024-10-24,Infusion-related reaction,Moderate,Probable,Recovered,Y,,31
+AE0031,PT0305,2024-10-30,Headache,Mild,Certain,Recovered with sequelae,Y,,32
+AE0032,PT0102,2024-11-02,Serious infection,Severe,Probable,Not recovered,N,"Severe, not reported to PV",33
+AE0033,PT0149,2024-11-04,Herpes infection,Mild,Probable,Recovering,Y,,34
+AE0034,PT0197,2024-11-23,Injection site reaction,Severe,Probable,Recovered,Y,,35
+AE0035,PT0298,2024-11-24,Injection site reaction,Mild,Probable,Recovering,Y,,36
+AE0036,PT0212,2024-12-14,Serious infection,Severe,Possible,Recovering,Y,,37
+AE0037,PT0167,2024-12-15,Rash,Moderate,Probable,Recovering,Y,,38
+AE0038,PT0412,2024-12-16,Headache,Mild,Possible,Recovered,Y,,39
+AE0039,PT0286,2024-12-19,Serious infection,Severe,Unlikely,Recovered,N,"Severe, not reported to PV",40
+AE0040,PT0163,2024-12-19,Infusion-related reaction,Moderate,Probable,Recovered with sequelae,Y,,41
+AE0041,PT0129,2024-12-20,Fatigue,Mild,Possible,Recovering,Y,,42
+AE0042,PT0310,2024-12-20,Neutropenia,Not recorded,Unlikely,Not recovered,Y,Severity not recorded,43
+AE0043,PT0377,2024-12-22,Elevated liver enzymes,Mild,Possible,Recovered,Y,,44
+AE0044,PT0394,2024-12-25,Injection site reaction,Moderate,Possible,Not recorded,Y,Outcome not recorded,45
+AE0045,PT0307,2024-12-27,Headache,Mild,Not recorded,Recovered with sequelae,Y,Causality not recorded,46
+AE0046,PT0286,2025-01-07,Neutropenia,Severe,Unassessable,Recovered,N,"Severe, not reported to PV",47
+AE0047,PT0356,2025-02-05,Diarrhoea,Severe,Possible,Recovering,Y,,48
+AE0048,PT0450,2025-02-07,Elevated liver enzymes,Moderate,Not recorded,Recovered,Y,Causality not recorded,49
+AE0049,PT0318,2025-02-08,Elevated liver enzymes,Moderate,Probable,Recovered,Y,,50
+AE0050,PT0322,2025-02-19,Neutropenia,Mild,Unlikely,Recovered,Y,,51
+AE0051,PT0350,2025-02-21,Elevated liver enzymes,Mild,Unlikely,Recovering,Y,,52
+AE0052,PT0483,2025-03-04,Neutropenia,Moderate,Probable,Recovered,Y,,53
+AE0053,PT0541,2025-03-19,Cardiac dysfunction (reduced LVEF),Severe,Unlikely,Recovered,Y,,54
+AE0054,PT0274,2025-03-22,Upper respiratory infection,Mild,Possible,Not recovered,Y,,55
+AE0055,PT0226,2025-04-01,Elevated liver enzymes,Mild,Probable,Recovered,Y,,56
+AE0056,PT0290,2025-04-02,Neutropenia,Moderate,Probable,Recovered,Y,,57
+AE0057,PT0395,2025-04-03,Injection site reaction,Moderate,Probable,Recovered with sequelae,Y,,58
+AE0058,PT0555,2025-04-11,Conjunctival haemorrhage,Moderate,Possible,Recovered,Y,,59
+AE0059,PT0240,2025-04-11,Infusion-related reaction,Mild,Possible,Recovered,Y,,60
+AE0060,PT0412,2025-04-15,Elevated liver enzymes,Mild,Possible,Recovered with sequelae,Y,,61
+AE0061,PT0503,2025-04-18,Headache,Moderate,Possible,Not recovered,Y,,62
+AE0062,PT0533,2025-04-19,Neutropenia,Severe,Probable,Recovering,Y,,63
+AE0063,PT0569,2025-04-22,Elevated liver enzymes,Severe,Possible,Recovered with sequelae,Y,,64
+AE0064,PT0319,2025-04-22,Headache,Moderate,Probable,Recovered,Y,,65
+AE0065,PT0507,2025-04-29,Upper respiratory infection,Mild,Possible,Recovering,Y,,66
+AE0066,PT0418,2025-05-04,Infusion-related reaction,Moderate,Unlikely,Recovered,N,,67
+AE0067,PT0391,2025-05-17,Neutropenia,Mild,Not recorded,Recovering,Y,Causality not recorded,68
+AE0068,PT0424,2025-05-24,Elevated liver enzymes,Mild,Unassessable,Recovered,N,,69
+AE0069,PT0377,2025-05-25,Headache,Mild,Probable,Recovered,Y,,70
+AE0070,PT0584,2025-05-25,Injection site reaction,Moderate,Certain,Recovered,Y,,71
+AE0071,PT0633,2025-05-26,Serious infection,Severe,Possible,Recovered,Y,,72
+AE0072,PT0533,2025-06-05,Neutropenia,Mild,Possible,Recovered,Y,,73
+AE0073,PT0429,2025-06-16,Serious infection,Severe,Possible,Recovered,Y,,74
+AE0074,PT0660,2025-06-19,Neutropenia,Severe,Possible,Recovering,Y,,75
+AE0075,PT0569,2025-06-21,Serious infection,Severe,Probable,Recovered,Y,,76
+AE0076,PT0498,2025-06-22,Elevated liver enzymes,Moderate,Unlikely,Recovered,Y,,77
+AE0077,PT0567,2025-06-27,Infusion-related reaction,Moderate,Possible,Recovered,Y,,78
+AE0078,PT0376,2025-07-07,Serious infection,Severe,Unlikely,Recovered,Y,,79
+AE0079,PT0488,2025-07-08,Serious infection,Severe,Possible,Recovered,Y,,80
+AE0080,PT0598,2025-07-08,Injection site reaction,Moderate,Probable,Recovering,Y,,81
+AE0081,PT0343,2025-07-10,Upper respiratory infection,Mild,Possible,Not recovered,Y,,82
+AE0082,PT0642,2025-07-12,Conjunctival haemorrhage,Mild,Possible,Recovered,Y,,83
+AE0083,PT0547,2025-07-13,Headache,Moderate,Probable,Recovered,Y,,84
+AE0084,PT0656,2025-07-16,Serious infection,Severe,Probable,Recovered,Y,,85
+AE0085,PT0656,2025-07-24,Upper respiratory infection,Moderate,Probable,Not recovered,Y,,86
+AE0086,PT0708,2025-07-28,Neutropenia,Mild,Unlikely,Recovered,N,,87
+AE0087,PT0406,2025-08-01,Elevated liver enzymes,Not recorded,Possible,Not recovered,Y,Severity not recorded,88
+AE0088,PT0527,2025-08-10,Eye pain,Mild,Unlikely,Recovered,Y,,89
+AE0089,PT0530,2025-08-12,Upper respiratory infection,Mild,Probable,Recovered,Y,,90
+AE0090,PT0604,2025-08-12,Upper respiratory infection,Moderate,Unlikely,Recovering,Y,,91
+AE0091,PT0660,2025-08-21,Neutropenia,Moderate,Possible,Recovered,Y,,92
+AE0092,PT0520,2025-08-21,Eye pain,Mild,Certain,Not recorded,N,Outcome not recorded,93
+AE0093,PT0613,2025-08-27,Conjunctival haemorrhage,Moderate,Unlikely,Recovered,Y,,94
+AE0094,PT0436,2025-09-03,Diarrhoea,Mild,Certain,Recovered,Y,,95
+AE0095,PT0579,2025-09-04,Neutropenia,Mild,Unlikely,Recovering,Y,,96
+AE0096,PT0432,2025-09-04,Headache,Mild,Probable,Recovered,Y,,97
+AE0097,PT0599,2025-09-05,Elevated liver enzymes,Severe,Unlikely,Recovered,Y,,98
+AE0098,PT0577,2025-09-07,Rash,Moderate,Probable,Recovering,Y,,99
+AE0099,PT0717,2025-09-08,Eye pain,Mild,Probable,Recovered,Y,,100
+AE0100,PT0691,2025-09-12,Rash,Mild,Probable,Recovered,Y,,101
+AE0101,PT0709,2025-09-17,Cardiac dysfunction (reduced LVEF),Severe,Probable,Recovered with sequelae,Y,,102
+AE0102,PT0455,2025-09-18,Diarrhoea,Moderate,Certain,Recovering,Y,,103
+AE0103,PT0499,2025-09-23,Herpes infection,Mild,Possible,Recovered,Y,,104
+AE0104,PT0619,2025-09-24,Headache,Moderate,Possible,Recovered,Y,,105
+AE0105,PT0516,2025-10-07,Infusion-related reaction,Severe,Possible,Recovering,Y,,106
+AE0106,PT0600,2025-10-25,Fatigue,Moderate,Probable,Recovered with sequelae,Y,,107
+AE0107,PT0563,2025-11-04,Elevated liver enzymes,Mild,Possible,Recovering,Y,,108
+AE0108,PT0506,2025-11-07,Nausea,Mild,Probable,Not recovered,Y,,109
+AE0109,PT0741,2025-11-08,Elevated liver enzymes,Mild,Probable,Recovering,Y,,110
+AE0110,PT0786,2025-11-11,Elevated liver enzymes,Severe,Possible,Not recovered,Y,,111
+AE0111,PT0844,2025-11-26,Headache,Moderate,Possible,Recovered,Y,,112
+AE0112,PT0570,2025-11-26,Fatigue,Moderate,Probable,Recovered,Y,,113
+AE0113,PT0627,2025-11-29,Neutropenia,Moderate,Possible,Not recovered,Y,,114
+AE0114,PT0740,2025-11-30,Fatigue,Moderate,Unlikely,Recovering,Y,,115
+AE0115,PT0775,2025-12-12,Fatigue,Mild,Possible,Recovering,Y,,116
+AE0116,PT0944,2025-12-13,Upper respiratory infection,Moderate,Probable,Not recorded,N,Outcome not recorded,117
+AE0117,PT0636,2025-12-16,Eye pain,Mild,Probable,Recovered,Y,,118
+AE0118,PT0698,2025-12-17,Upper respiratory infection,Moderate,Possible,Recovered,Y,,119
+AE0119,PT0742,2025-12-27,Upper respiratory infection,Mild,Probable,Recovered with sequelae,Y,,120
+AE0120,PT0966,2025-12-28,Eye pain,Severe,Unlikely,Not recovered,Y,,121
+AE0121,PT0696,2026-01-03,Diarrhoea,Moderate,Probable,Recovered,Y,,122
+AE0122,PT0664,2026-01-12,Infusion-related reaction,Mild,Probable,Recovered,Y,,123
+AE0123,PT0696,2026-01-19,Infusion-related reaction,Mild,Probable,Recovered,Y,,124
+AE0124,PT0917,2026-01-20,Diarrhoea,Moderate,Possible,Not recorded,Y,Outcome not recorded,125
+AE0125,PT0974,2026-01-20,Injection site reaction,Mild,Unassessable,Recovered with sequelae,Y,,126
+AE0126,PT0863,2026-01-20,Infusion-related reaction,Mild,Possible,Recovered,Y,,127
+AE0127,PT0699,2026-01-24,Headache,Severe,Unassessable,Recovered,N,"Severe, not reported to PV",128
+AE0128,PT0900,2026-01-29,Injection site reaction,Mild,Probable,Not recorded,Y,Outcome not recorded,129
+AE0129,PT0735,2026-01-29,Upper respiratory infection,Mild,Probable,Recovered,Y,,130
+AE0130,PT0897,2026-02-04,Fatigue,Moderate,Probable,Recovered,Y,,131
+AE0131,PT0726,2026-02-18,Rash,Moderate,Possible,Recovered,Y,,132
+AE0132,PT0881,2026-02-24,Neutropenia,Moderate,Probable,Recovering,N,,133
+AE0133,PT0775,2026-03-05,Cardiac dysfunction (reduced LVEF),Severe,Unassessable,Recovered,Y,,134
+AE0134,PT0690,2026-03-14,Infusion-related reaction,Moderate,Probable,Recovered,Y,,135
+AE0135,PT0881,2026-03-14,Injection site reaction,Severe,Probable,Recovering,Y,,136
+AE0136,PT0706,2026-03-20,Headache,Moderate,Probable,Recovered,Y,,137
+AE0137,PT0845,2026-03-30,Upper respiratory infection,Mild,Probable,Recovering,Y,,138
+AE0138,PT0762,2026-04-05,Neutropenia,Severe,Possible,Recovered,Y,,139
+AE0139,PT0796,2026-04-16,Upper respiratory infection,Mild,Probable,Recovered,Y,,140
+AE0140,PT0770,2026-04-18,Elevated liver enzymes,Moderate,Unlikely,Recovered,Y,,141
+AE0141,PT0868,2026-04-22,Increased intraocular pressure,Moderate,Certain,Recovered,Y,,142
+AE0142,PT0922,2026-04-25,Infusion-related reaction,Mild,Probable,Recovered,Y,,143
+AE0143,PT0898,2026-05-11,Neutropenia,Severe,Not recorded,Recovered,Y,Causality not recorded,144
+AE0144,PT0862,2026-05-12,Headache,Mild,Probable,Recovering,Y,,145
+AE0145,PT0971,2026-05-18,Injection site reaction,Mild,Unlikely,Recovered,Y,,146
+AE0146,PT0794,2026-05-20,Serious infection,Severe,Certain,Recovered,Y,,147
+AE0147,PT0846,2026-05-25,Injection site reaction,Mild,Probable,Recovering,Y,,148
+AE0148,PT0804,2026-06-09,Serious infection,Severe,Unlikely,Recovering,Y,,149
+AE0149,PT0902,2026-07-27,Headache,Moderate,Probable,Recovered,Y,,150
+AE0150,PT0971,2026-08-05,Neutropenia,Mild,Possible,Recovered,Y,,151

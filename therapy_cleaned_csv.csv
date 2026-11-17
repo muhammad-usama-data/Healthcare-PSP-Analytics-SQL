@@ -1,0 +1,1001 @@
+﻿patient_id,drug_name,dose,start_date,status,discontinuation_reason,doctor_id,review_flag,source_row
+PT0001,Ranibizumab,0.5 mg,2024-01-11,Completed,Not applicable,D25,,2
+PT0002,Ocrelizumab,600 mg,2024-01-03,Active,Not applicable,D09,,3
+PT0003,Pertuzumab,420 mg,2024-01-08,Discontinued,Cost,D06,,4
+PT0004,Ranibizumab,0.5 mg,2024-01-16,Discontinued,Lost to follow-up,D05,,5
+PT0005,Ocrelizumab,600 mg,2024-01-10,Completed,Not applicable,D29,,6
+PT0006,Tocilizumab,162 mg,2024-01-08,Completed,Not applicable,D03,,7
+PT0007,Tocilizumab,162 mg,2024-01-10,Completed,Not applicable,D03,,8
+PT0008,Ocrelizumab,600 mg,2024-01-09,Active,Not applicable,D24,,9
+PT0009,Ranibizumab,0.5 mg,2024-01-13,Active,Not applicable,D15,,10
+PT0010,Ocrelizumab,600 mg,2024-01-23,Completed,Not applicable,D39,,11
+PT0011,Trastuzumab,6 mg/kg,2024-01-14,Completed,Not applicable,D06,,12
+PT0012,Tocilizumab,162 mg,2024-01-18,Discontinued,Patient choice,D08,,13
+PT0013,Ranibizumab,0.5 mg,2024-01-23,Active,Not applicable,D10,,14
+PT0014,Ranibizumab,Not recorded,2024-01-25,Active,Not applicable,D05,Dose not recorded,15
+PT0015,Pertuzumab,420 mg,2024-01-20,Completed,Not applicable,D01,,16
+PT0016,Trastuzumab,6 mg/kg,2024-01-20,Completed,Not applicable,D02,,17
+PT0017,Ranibizumab,0.5 mg,2024-01-19,Discontinued,Patient choice,D35,,18
+PT0018,Tocilizumab,162 mg,2024-01-31,Active,Not applicable,D08,,19
+PT0019,Trastuzumab,6 mg/kg,2024-02-01,Active,Not applicable,D21,,20
+PT0020,Tocilizumab,162 mg,2024-01-30,Active,Not applicable,D23,,21
+PT0021,Pertuzumab,420 mg,2024-01-26,Active,Not applicable,D26,,22
+PT0022,Ranibizumab,0.5 mg,2024-01-27,Active,Not applicable,D10,,23
+PT0023,Ranibizumab,0.5 mg,2024-01-29,Active,Not applicable,D05,,24
+PT0024,Ocrelizumab,600 mg,2024-02-01,Completed,Not applicable,D19,,25
+PT0025,Ranibizumab,0.5 mg,2024-02-06,Active,Not applicable,D05,,26
+PT0026,Tocilizumab,162 mg,2024-01-30,Active,Not applicable,D23,,27
+PT0027,Tocilizumab,162 mg,2024-01-24,Active,Not applicable,D13,,28
+PT0028,Tocilizumab,162 mg,2024-02-03,Active,Not applicable,D03,,29
+PT0029,Ranibizumab,0.5 mg,2024-01-31,Active,Not applicable,D35,,30
+PT0030,Tocilizumab,162 mg,2024-01-31,Discontinued,Disease progression,D03,,31
+PT0031,Trastuzumab,6 mg/kg,2024-02-12,Active,Not applicable,D01,,32
+PT0032,Tocilizumab,162 mg,2024-02-04,Active,Not applicable,D33,,33
+PT0033,Tocilizumab,162 mg,2024-02-06,Discontinued,Patient choice,D08,,34
+PT0034,Trastuzumab,6 mg/kg,2024-02-08,Discontinued,Cost,D01,,35
+PT0035,Pertuzumab,420 mg,2024-02-09,Completed,Not applicable,D32,,36
+PT0036,Ranibizumab,0.5 mg,2024-02-09,Discontinued,Patient choice,D05,,37
+PT0037,Trastuzumab,6 mg/kg,2024-02-13,Completed,Not applicable,D27,,38
+PT0038,Ranibizumab,0.5 mg,2024-02-11,Completed,Not applicable,D40,,39
+PT0039,Tocilizumab,162 mg,2024-02-16,Discontinued,Side effects,D08,,40
+PT0040,Trastuzumab,6 mg/kg,2024-02-14,Active,Not applicable,D06,,41
+PT0041,Tocilizumab,162 mg,2024-02-23,Completed,Not applicable,D33,,42
+PT0042,Trastuzumab,6 mg/kg,2024-02-10,Active,Not applicable,D11,,43
+PT0043,Tocilizumab,162 mg,2024-02-10,Active,Not applicable,D08,,44
+PT0044,Trastuzumab,6 mg/kg,2024-02-12,Discontinued,Side effects,D01,,45
+PT0045,Ocrelizumab,600 mg,2024-02-22,Discontinued,Switched therapy,Not recorded,Doctor not recorded,46
+PT0046,Ocrelizumab,600 mg,2024-02-26,Active,Not applicable,D09,,47
+PT0047,Tocilizumab,162 mg,2024-02-14,Active,Not applicable,D23,,48
+PT0048,Trastuzumab,6 mg/kg,2024-02-16,Active,Not applicable,D12,,49
+PT0049,Trastuzumab,6 mg/kg,2024-02-29,Active,Not applicable,D32,,50
+PT0050,Tocilizumab,162 mg,2024-02-23,Discontinued,Disease progression,D28,,51
+PT0051,Tocilizumab,162 mg,2024-02-16,Active,Not applicable,D33,,52
+PT0052,Tocilizumab,162 mg,2024-02-18,Completed,Not applicable,D03,,53
+PT0053,Tocilizumab,162 mg,2024-02-17,Discontinued,Side effects,D18,,54
+PT0054,Tocilizumab,162 mg,2024-02-23,Completed,Not applicable,D28,,55
+PT0055,Trastuzumab,6 mg/kg,2024-02-28,Active,Not applicable,D01,,56
+PT0056,Tocilizumab,162 mg,2024-02-20,Discontinued,Disease progression,D23,,57
+PT0057,Tocilizumab,162 mg,2024-02-29,Completed,Not applicable,D13,,58
+PT0058,Pertuzumab,420 mg,2024-02-21,Active,Not applicable,D01,,59
+PT0059,Tocilizumab,162 mg,2024-02-28,Active,Not applicable,D03,,60
+PT0060,Ranibizumab,0.5 mg,2024-02-28,Active,Not applicable,D10,,61
+PT0061,Tocilizumab,162 mg,2024-03-03,Completed,Not applicable,D03,,62
+PT0062,Pertuzumab,420 mg,2024-03-05,Completed,Not applicable,D31,,63
+PT0063,Pertuzumab,420 mg,2024-02-27,Active,Not applicable,D02,,64
+PT0064,Ranibizumab,0.5 mg,2024-03-05,Completed,Not applicable,Not recorded,Doctor not recorded,65
+PT0065,Ranibizumab,0.5 mg,2024-02-29,Active,Not applicable,D10,,66
+PT0066,Trastuzumab,6 mg/kg,2024-03-09,Discontinued,Switched therapy,D26,,67
+PT0067,Ranibizumab,0.5 mg,2024-03-14,Discontinued,Lost to follow-up,D30,,68
+PT0068,Tocilizumab,162 mg,2024-03-13,Active,Not applicable,D23,,69
+PT0069,Tocilizumab,162 mg,2024-03-17,Completed,Not applicable,D08,,70
+PT0070,Trastuzumab,6 mg/kg,2024-03-19,Discontinued,Patient choice,D31,,71
+PT0071,Trastuzumab,Not recorded,2024-03-20,Active,Not applicable,D37,Dose not recorded,72
+PT0072,Tocilizumab,162 mg,2024-03-14,Active,Not applicable,D03,,73
+PT0073,Trastuzumab,6 mg/kg,2024-03-20,Active,Not applicable,D16,,74
+PT0074,Tocilizumab,162 mg,2024-03-24,Active,Not applicable,D28,,75
+PT0075,Ranibizumab,0.5 mg,2024-03-24,Active,Not applicable,D05,,76
+PT0076,Tocilizumab,162 mg,2024-03-20,Active,Not applicable,D28,,77
+PT0077,Trastuzumab,Not recorded,2024-03-22,Active,Not applicable,D21,Dose not recorded,78
+PT0078,Pertuzumab,420 mg,2024-03-25,Active,Not applicable,D32,,79
+PT0079,Pertuzumab,420 mg,2024-03-29,Completed,Not applicable,D11,,80
+PT0080,Ranibizumab,0.5 mg,2024-04-03,Active,Not applicable,D10,,81
+PT0081,Tocilizumab,162 mg,2024-03-28,Active,Not applicable,D03,,82
+PT0082,Tocilizumab,162 mg,2024-03-31,Active,Not applicable,D03,,83
+PT0083,Tocilizumab,162 mg,2024-03-28,Discontinued,Lost to follow-up,D18,,84
+PT0084,Tocilizumab,162 mg,2024-04-06,Completed,Not applicable,D23,,85
+PT0085,Tocilizumab,162 mg,2024-03-29,Active,Not applicable,D13,,86
+PT0086,Tocilizumab,162 mg,2024-04-03,Discontinued,Lost to follow-up,D03,,87
+PT0087,Tocilizumab,162 mg,2024-04-09,Completed,Not applicable,D08,,88
+PT0088,Ranibizumab,0.5 mg,2024-04-01,Completed,Not applicable,D10,,89
+PT0089,Ranibizumab,0.5 mg,2024-03-31,Active,Not applicable,D05,,90
+PT0090,Tocilizumab,Not recorded,2024-03-30,Active,Not applicable,D08,Dose not recorded,91
+PT0091,Tocilizumab,162 mg,2024-04-11,Active,Not applicable,D13,,92
+PT0092,Ocrelizumab,600 mg,2024-04-06,Discontinued,Switched therapy,D29,,93
+PT0093,Tocilizumab,162 mg,2024-04-04,Discontinued,Lost to follow-up,D08,,94
+PT0094,Ocrelizumab,600 mg,2024-04-14,Discontinued,Patient choice,D04,,95
+PT0095,Pertuzumab,420 mg,2024-04-11,Discontinued,Disease progression,D26,,96
+PT0096,Tocilizumab,162 mg,2024-04-09,Discontinued,Cost,D38,,97
+PT0097,Ranibizumab,0.5 mg,2024-04-05,Completed,Not applicable,D15,,98
+PT0098,Pertuzumab,420 mg,2024-04-17,Active,Not applicable,D07,,99
+PT0099,Tocilizumab,162 mg,2024-04-04,Discontinued,Disease progression,D03,,100
+PT0100,Ranibizumab,0.5 mg,2024-04-11,Active,Not applicable,D35,,101
+PT0101,Tocilizumab,162 mg,2024-04-10,Discontinued,Cost,D33,,102
+PT0102,Tocilizumab,162 mg,2024-04-10,Active,Not applicable,D03,,103
+PT0103,Ranibizumab,0.5 mg,2024-04-06,Active,Not applicable,D25,,104
+PT0104,Pertuzumab,420 mg,2024-04-08,Discontinued,Cost,D31,,105
+PT0105,Ocrelizumab,600 mg,2024-04-09,Completed,Not applicable,D09,,106
+PT0106,Trastuzumab,6 mg/kg,2024-04-15,Discontinued,Switched therapy,D06,,107
+PT0107,Ocrelizumab,600 mg,2024-04-15,Active,Not applicable,D04,,108
+PT0108,Tocilizumab,162 mg,2024-04-16,Active,Not applicable,D03,,109
+PT0109,Ranibizumab,0.5 mg,2024-04-12,Active,Not applicable,D25,,110
+PT0110,Pertuzumab,420 mg,2024-04-21,Completed,Not applicable,D12,,111
+PT0111,Tocilizumab,162 mg,2024-04-21,Active,Not applicable,D08,,112
+PT0112,Ranibizumab,0.5 mg,2024-04-10,Completed,Not applicable,D25,,113
+PT0113,Tocilizumab,162 mg,2024-04-20,Active,Not applicable,D13,,114
+PT0114,Ocrelizumab,600 mg,2024-04-18,Active,Not applicable,D09,,115
+PT0115,Trastuzumab,6 mg/kg,2024-04-14,Active,Not applicable,D06,,116
+PT0116,Ranibizumab,0.5 mg,2024-04-23,Active,Not applicable,D05,,117
+PT0117,Ocrelizumab,600 mg,2024-04-18,Active,Not applicable,Not recorded,Doctor not recorded,118
+PT0118,Pertuzumab,420 mg,2024-04-20,Active,Not applicable,D07,,119
+PT0119,Ocrelizumab,600 mg,2024-04-18,Active,Not applicable,D34,,120
+PT0120,Tocilizumab,162 mg,2024-04-16,Active,Not applicable,D23,,121
+PT0121,Ocrelizumab,600 mg,2024-04-25,Discontinued,Disease progression,D04,,122
+PT0122,Tocilizumab,162 mg,2024-04-16,Completed,Not applicable,D28,,123
+PT0123,Trastuzumab,6 mg/kg,2024-04-27,Active,Not applicable,D12,,124
+PT0124,Ocrelizumab,600 mg,2024-04-28,Active,Not applicable,D34,,125
+PT0125,Tocilizumab,162 mg,2024-04-29,Discontinued,Cost,D38,,126
+PT0126,Tocilizumab,162 mg,2024-04-27,Completed,Not applicable,D28,,127
+PT0127,Ranibizumab,0.5 mg,2024-04-28,Completed,Not applicable,D30,,128
+PT0128,Tocilizumab,162 mg,2024-04-29,Completed,Not applicable,D03,,129
+PT0129,Ocrelizumab,600 mg,2024-04-29,Active,Not applicable,D04,,130
+PT0130,Ranibizumab,0.5 mg,2024-04-26,Active,Not applicable,D40,,131
+PT0131,Ocrelizumab,600 mg,2024-04-22,Active,Not applicable,D24,,132
+PT0132,Pertuzumab,420 mg,2024-04-23,Completed,Not applicable,D06,,133
+PT0133,Trastuzumab,6 mg/kg,2024-05-04,Completed,Not applicable,D16,,134
+PT0134,Tocilizumab,162 mg,2024-04-30,Discontinued,Cost,D18,,135
+PT0135,Ranibizumab,0.5 mg,2024-05-05,Active,Not applicable,D20,,136
+PT0136,Ranibizumab,0.5 mg,2024-05-07,Discontinued,Cost,D10,,137
+PT0137,Pertuzumab,420 mg,2024-05-02,Discontinued,Lost to follow-up,D01,,138
+PT0138,Pertuzumab,420 mg,2024-04-28,Discontinued,Lost to follow-up,D16,,139
+PT0139,Tocilizumab,162 mg,2024-04-29,Active,Not applicable,D13,,140
+PT0140,Tocilizumab,162 mg,2024-04-27,Completed,Not applicable,D03,,141
+PT0141,Trastuzumab,6 mg/kg,2024-04-28,Discontinued,Side effects,D32,,142
+PT0142,Ocrelizumab,600 mg,2024-05-06,Active,Not applicable,D29,,143
+PT0143,Trastuzumab,6 mg/kg,2024-05-11,Completed,Not applicable,D06,,144
+PT0144,Pertuzumab,420 mg,2024-04-28,Active,Not applicable,D17,,145
+PT0145,Trastuzumab,6 mg/kg,2024-05-12,Active,Not applicable,D21,,146
+PT0146,Tocilizumab,162 mg,2024-05-14,Active,Not applicable,D03,,147
+PT0147,Ocrelizumab,600 mg,2024-05-02,Completed,Not applicable,D14,,148
+PT0148,Tocilizumab,162 mg,2024-05-09,Active,Not applicable,D13,,149
+PT0149,Ocrelizumab,600 mg,2024-05-15,Completed,Not applicable,D14,,150
+PT0150,Tocilizumab,Not recorded,2024-05-10,Active,Not applicable,D08,Dose not recorded,151
+PT0151,Trastuzumab,6 mg/kg,2024-05-14,Active,Not applicable,D07,,152
+PT0152,Ocrelizumab,600 mg,2024-05-10,Active,Not applicable,D04,,153
+PT0153,Trastuzumab,6 mg/kg,2024-05-13,Active,Not applicable,D16,,154
+PT0154,Ocrelizumab,600 mg,2024-05-07,Active,Not applicable,D14,,155
+PT0155,Ranibizumab,0.5 mg,2024-05-12,Active,Not applicable,D10,,156
+PT0156,Trastuzumab,6 mg/kg,2024-05-17,Discontinued,Side effects,D37,,157
+PT0157,Tocilizumab,162 mg,2024-05-13,Discontinued,Switched therapy,D03,,158
+PT0158,Ranibizumab,0.5 mg,2024-05-20,Completed,Not applicable,D40,,159
+PT0159,Ranibizumab,0.5 mg,2024-05-18,Active,Not applicable,D10,,160
+PT0160,Tocilizumab,162 mg,2024-05-18,Active,Not applicable,D08,,161
+PT0161,Trastuzumab,6 mg/kg,2024-05-13,Discontinued,Cost,D02,,162
+PT0162,Tocilizumab,162 mg,2024-05-15,Discontinued,Cost,D13,,163
+PT0163,Pertuzumab,420 mg,2024-05-11,Completed,Not applicable,D06,,164
+PT0164,Trastuzumab,6 mg/kg,2024-05-15,Completed,Not applicable,D31,,165
+PT0165,Tocilizumab,162 mg,2024-05-11,Completed,Not applicable,D03,,166
+PT0166,Ranibizumab,Not recorded,2024-05-15,Discontinued,Lost to follow-up,D35,Dose not recorded,167
+PT0167,Pertuzumab,420 mg,2024-05-16,Active,Not applicable,D22,,168
+PT0168,Ranibizumab,0.5 mg,2024-05-18,Discontinued,Lost to follow-up,D15,,169
+PT0169,Trastuzumab,Not recorded,2024-05-27,Active,Not applicable,D21,Dose not recorded,170
+PT0170,Tocilizumab,162 mg,2024-05-19,Active,Not applicable,D28,,171
+PT0171,Ocrelizumab,600 mg,2024-05-17,Discontinued,Lost to follow-up,D19,,172
+PT0172,Pertuzumab,420 mg,2024-05-21,Discontinued,Lost to follow-up,D07,,173
+PT0173,Ranibizumab,0.5 mg,2024-05-19,Completed,Not applicable,D35,,174
+PT0174,Ranibizumab,0.5 mg,2024-05-28,Completed,Not applicable,D30,,175
+PT0175,Ranibizumab,0.5 mg,2024-05-30,Completed,Not applicable,D05,,176
+PT0176,Tocilizumab,162 mg,2024-05-25,Discontinued,Switched therapy,D18,,177
+PT0177,Ocrelizumab,600 mg,2024-05-20,Active,Not applicable,D34,,178
+PT0178,Tocilizumab,162 mg,2024-05-29,Active,Not applicable,D23,,179
+PT0179,Trastuzumab,6 mg/kg,2024-06-03,Active,Not applicable,D37,,180
+PT0180,Pertuzumab,420 mg,2024-05-25,Active,Not applicable,D31,,181
+PT0181,Tocilizumab,162 mg,2024-05-28,Discontinued,Side effects,D23,,182
+PT0182,Pertuzumab,420 mg,2024-06-03,Completed,Not applicable,D07,,183
+PT0183,Tocilizumab,162 mg,2024-06-04,Active,Not applicable,D08,,184
+PT0184,Tocilizumab,162 mg,2024-05-26,Active,Not applicable,D38,,185
+PT0185,Trastuzumab,6 mg/kg,2024-05-23,Active,Not applicable,D01,,186
+PT0186,Ocrelizumab,600 mg,2024-05-26,Discontinued,Patient choice,D04,,187
+PT0187,Tocilizumab,162 mg,2024-05-31,Active,Not applicable,D03,,188
+PT0188,Tocilizumab,162 mg,2024-05-27,Discontinued,Cost,D03,,189
+PT0189,Tocilizumab,162 mg,2024-05-28,Active,Not applicable,D08,,190
+PT0190,Tocilizumab,162 mg,2024-06-12,Active,Not applicable,D08,,191
+PT0191,Trastuzumab,6 mg/kg,2024-06-11,Active,Not applicable,D01,,192
+PT0192,Ocrelizumab,600 mg,2024-05-29,Completed,Not applicable,D19,,193
+PT0193,Ranibizumab,0.5 mg,2024-06-04,Active,Not applicable,D15,,194
+PT0194,Trastuzumab,6 mg/kg,2024-06-11,Completed,Not applicable,D06,,195
+PT0195,Trastuzumab,6 mg/kg,2024-06-09,Discontinued,Lost to follow-up,D12,,196
+PT0196,Trastuzumab,6 mg/kg,2024-06-05,Active,Not applicable,D12,,197
+PT0197,Tocilizumab,162 mg,2024-06-06,Active,Not applicable,D38,,198
+PT0198,Tocilizumab,162 mg,2024-06-10,Active,Not applicable,D08,,199
+PT0199,Tocilizumab,162 mg,2024-06-17,Active,Not applicable,D03,,200
+PT0200,Trastuzumab,6 mg/kg,2024-06-12,Completed,Not applicable,D21,,201
+PT0201,Ocrelizumab,600 mg,2024-06-11,Completed,Not applicable,D09,,202
+PT0202,Tocilizumab,162 mg,2024-06-16,Discontinued,Lost to follow-up,D18,,203
+PT0203,Ranibizumab,0.5 mg,2024-06-22,Active,Not applicable,D15,,204
+PT0204,Pertuzumab,420 mg,2024-06-23,Discontinued,Cost,D31,,205
+PT0205,Ocrelizumab,600 mg,2024-06-28,Active,Not applicable,D09,,206
+PT0206,Tocilizumab,162 mg,2024-06-19,Active,Not applicable,D18,,207
+PT0207,Ranibizumab,0.5 mg,2024-06-19,Discontinued,Cost,D05,,208
+PT0208,Trastuzumab,6 mg/kg,2024-06-24,Active,Not applicable,D06,,209
+PT0209,Trastuzumab,Not recorded,2024-06-22,Discontinued,Patient choice,D02,Dose not recorded,210
+PT0210,Ocrelizumab,600 mg,2024-07-02,Completed,Not applicable,D14,,211
+PT0211,Pertuzumab,420 mg,2024-06-28,Completed,Not applicable,Not recorded,Doctor not recorded,212
+PT0212,Tocilizumab,162 mg,2024-07-09,Discontinued,Switched therapy,D08,,213
+PT0213,Trastuzumab,6 mg/kg,2024-07-05,Active,Not applicable,D02,,214
+PT0214,Trastuzumab,6 mg/kg,2024-07-05,Active,Not applicable,D16,,215
+PT0215,Trastuzumab,6 mg/kg,2024-07-11,Active,Not applicable,D02,,216
+PT0216,Trastuzumab,6 mg/kg,2024-07-12,Active,Not applicable,D31,,217
+PT0217,Ranibizumab,0.5 mg,2024-07-05,Active,Not applicable,D15,,218
+PT0218,Trastuzumab,6 mg/kg,2024-07-10,Discontinued,Lost to follow-up,D07,,219
+PT0219,Tocilizumab,162 mg,2024-07-10,Discontinued,Disease progression,D38,,220
+PT0220,Ranibizumab,0.5 mg,2024-07-11,Active,Not applicable,D15,,221
+PT0221,Ranibizumab,0.5 mg,2024-07-12,Active,Not applicable,D35,,222
+PT0222,Tocilizumab,162 mg,2024-07-07,Active,Not applicable,D18,,223
+PT0223,Pertuzumab,420 mg,2024-07-08,Completed,Not applicable,D22,,224
+PT0224,Ranibizumab,0.5 mg,2024-07-13,Active,Not applicable,D10,,225
+PT0225,Ocrelizumab,600 mg,2024-07-13,Active,Not applicable,D04,,226
+PT0226,Tocilizumab,162 mg,2024-07-12,Active,Not applicable,D33,,227
+PT0227,Trastuzumab,6 mg/kg,2024-07-24,Discontinued,Side effects,D07,,228
+PT0228,Tocilizumab,162 mg,2024-07-13,Discontinued,Side effects,D33,,229
+PT0229,Ocrelizumab,600 mg,2024-07-22,Completed,Not applicable,D19,,230
+PT0230,Ocrelizumab,600 mg,2024-07-20,Discontinued,Patient choice,D24,,231
+PT0231,Pertuzumab,420 mg,2024-07-31,Discontinued,Side effects,D12,,232
+PT0232,Trastuzumab,6 mg/kg,2024-07-30,Active,Not applicable,D07,,233
+PT0233,Pertuzumab,420 mg,2024-08-07,Completed,Not applicable,D07,,234
+PT0234,Ocrelizumab,600 mg,2024-08-12,Discontinued,Side effects,D39,,235
+PT0235,Ranibizumab,0.5 mg,2024-08-05,Active,Not applicable,D10,,236
+PT0236,Ranibizumab,0.5 mg,2024-08-03,Active,Not applicable,D20,,237
+PT0237,Ocrelizumab,600 mg,2024-08-10,Active,Not applicable,D34,,238
+PT0238,Tocilizumab,162 mg,2024-08-17,Completed,Not applicable,D33,,239
+PT0239,Tocilizumab,162 mg,2024-08-14,Completed,Not applicable,D18,,240
+PT0240,Pertuzumab,420 mg,2024-08-11,Active,Not applicable,D01,,241
+PT0241,Ranibizumab,0.5 mg,2024-08-21,Completed,Not applicable,D10,,242
+PT0242,Ocrelizumab,600 mg,2024-08-07,Discontinued,Cost,D09,,243
+PT0243,Ocrelizumab,600 mg,2024-08-16,Discontinued,Side effects,D24,,244
+PT0244,Ocrelizumab,600 mg,2024-08-21,Discontinued,Cost,D09,,245
+PT0245,Tocilizumab,162 mg,2024-08-17,Active,Not applicable,D33,,246
+PT0246,Trastuzumab,6 mg/kg,2024-08-18,Active,Not applicable,D07,,247
+PT0247,Trastuzumab,6 mg/kg,2024-08-16,Completed,Not applicable,D32,,248
+PT0248,Trastuzumab,6 mg/kg,2024-08-26,Active,Not applicable,D06,,249
+PT0249,Trastuzumab,6 mg/kg,2024-08-27,Active,Not applicable,D11,,250
+PT0250,Tocilizumab,162 mg,2024-08-14,Active,Not applicable,D08,,251
+PT0251,Ranibizumab,0.5 mg,2024-08-24,Completed,Not applicable,D05,,252
+PT0252,Trastuzumab,6 mg/kg,2024-08-20,Active,Not applicable,D22,,253
+PT0253,Ranibizumab,0.5 mg,2024-08-24,Discontinued,Cost,D05,,254
+PT0254,Ranibizumab,0.5 mg,2024-08-18,Discontinued,Cost,D10,,255
+PT0255,Tocilizumab,162 mg,2024-08-29,Active,Not applicable,D03,,256
+PT0256,Trastuzumab,6 mg/kg,2024-08-24,Active,Not applicable,D22,,257
+PT0257,Trastuzumab,6 mg/kg,2024-08-30,Active,Not applicable,D12,,258
+PT0258,Pertuzumab,420 mg,2024-08-23,Active,Not applicable,D07,,259
+PT0259,Ranibizumab,0.5 mg,2024-08-27,Active,Not applicable,D25,,260
+PT0260,Pertuzumab,420 mg,2024-09-04,Completed,Not applicable,D02,,261
+PT0261,Ranibizumab,0.5 mg,2024-08-28,Active,Not applicable,D05,,262
+PT0262,Ocrelizumab,600 mg,2024-08-25,Active,Not applicable,D19,,263
+PT0263,Trastuzumab,6 mg/kg,2024-08-26,Active,Not applicable,D12,,264
+PT0264,Ocrelizumab,600 mg,2024-08-25,Active,Not applicable,D29,,265
+PT0265,Tocilizumab,162 mg,2024-09-03,Active,Not applicable,D33,,266
+PT0266,Ranibizumab,Not recorded,2024-08-28,Active,Not applicable,D15,Dose not recorded,267
+PT0267,Pertuzumab,420 mg,2024-09-08,Completed,Not applicable,D31,,268
+PT0268,Trastuzumab,6 mg/kg,2024-09-08,Active,Not applicable,D31,,269
+PT0269,Trastuzumab,6 mg/kg,2024-09-04,Active,Not applicable,D22,,270
+PT0270,Ocrelizumab,Not recorded,2024-09-14,Active,Not applicable,D24,Dose not recorded,271
+PT0271,Tocilizumab,162 mg,2024-09-12,Active,Not applicable,D23,,272
+PT0272,Trastuzumab,6 mg/kg,2024-09-12,Active,Not applicable,D12,,273
+PT0273,Trastuzumab,6 mg/kg,2024-09-12,Active,Not applicable,D17,,274
+PT0274,Ocrelizumab,600 mg,2024-09-08,Active,Not applicable,D19,,275
+PT0275,Tocilizumab,162 mg,2024-09-11,Completed,Not applicable,D13,,276
+PT0276,Ocrelizumab,600 mg,2024-09-20,Completed,Not applicable,D04,,277
+PT0277,Ranibizumab,Not recorded,2024-09-16,Active,Not applicable,D10,Dose not recorded,278
+PT0278,Ranibizumab,0.5 mg,2024-09-19,Completed,Not applicable,D10,,279
+PT0279,Pertuzumab,420 mg,2024-09-13,Discontinued,Disease progression,D37,,280
+PT0280,Trastuzumab,6 mg/kg,2024-09-21,Active,Not applicable,D27,,281
+PT0281,Ocrelizumab,600 mg,2024-09-12,Active,Not applicable,D19,,282
+PT0282,Tocilizumab,162 mg,2024-09-26,Active,Not applicable,D33,,283
+PT0283,Tocilizumab,162 mg,2024-09-14,Discontinued,Cost,D13,,284
+PT0284,Ocrelizumab,600 mg,2024-09-21,Discontinued,Cost,D09,,285
+PT0285,Ranibizumab,0.5 mg,2024-09-25,Active,Not applicable,D20,,286
+PT0286,Tocilizumab,162 mg,2024-09-27,Active,Not applicable,D03,,287
+PT0287,Trastuzumab,Not recorded,2024-09-27,Active,Not applicable,D02,Dose not recorded,288
+PT0288,Tocilizumab,162 mg,2024-09-16,Active,Not applicable,D33,,289
+PT0289,Ranibizumab,0.5 mg,2024-09-29,Active,Not applicable,D20,,290
+PT0290,Tocilizumab,162 mg,2024-09-28,Discontinued,Cost,D38,,291
+PT0291,Ocrelizumab,600 mg,2024-09-24,Discontinued,Switched therapy,D14,,292
+PT0292,Tocilizumab,162 mg,2024-09-25,Completed,Not applicable,D13,,293
+PT0293,Ranibizumab,0.5 mg,2024-09-19,Active,Not applicable,D10,,294
+PT0294,Tocilizumab,162 mg,2024-09-26,Discontinued,Patient choice,D08,,295
+PT0295,Pertuzumab,420 mg,2024-10-04,Active,Not applicable,D02,,296
+PT0296,Ocrelizumab,600 mg,2024-09-29,Active,Not applicable,D19,,297
+PT0297,Trastuzumab,6 mg/kg,2024-10-02,Completed,Not applicable,D36,,298
+PT0298,Tocilizumab,162 mg,2024-10-02,Completed,Not applicable,D13,,299
+PT0299,Ocrelizumab,600 mg,2024-09-30,Discontinued,Lost to follow-up,D34,,300
+PT0300,Ranibizumab,Not recorded,2024-09-26,Active,Not applicable,D05,Dose not recorded,301
+PT0301,Pertuzumab,420 mg,2024-09-25,Completed,Not applicable,D06,,302
+PT0302,Ranibizumab,0.5 mg,2024-10-04,Active,Not applicable,D10,,303
+PT0303,Pertuzumab,420 mg,2024-10-01,Discontinued,Lost to follow-up,D36,,304
+PT0304,Ocrelizumab,600 mg,2024-10-03,Completed,Not applicable,D04,,305
+PT0305,Tocilizumab,162 mg,2024-10-04,Completed,Not applicable,D08,,306
+PT0306,Ranibizumab,0.5 mg,2024-10-03,Active,Not applicable,D10,,307
+PT0307,Trastuzumab,6 mg/kg,2024-10-06,Completed,Not applicable,D32,,308
+PT0308,Ranibizumab,0.5 mg,2024-10-11,Completed,Not applicable,D20,,309
+PT0309,Tocilizumab,162 mg,2024-09-28,Active,Not applicable,D08,,310
+PT0310,Tocilizumab,162 mg,2024-10-11,Active,Not applicable,D13,,311
+PT0311,Tocilizumab,162 mg,2024-10-10,Active,Not applicable,D03,,312
+PT0312,Ocrelizumab,600 mg,2024-10-11,Active,Not applicable,D09,,313
+PT0313,Ocrelizumab,600 mg,2024-10-04,Active,Not applicable,D34,,314
+PT0314,Tocilizumab,162 mg,2024-10-14,Completed,Not applicable,D08,,315
+PT0315,Tocilizumab,162 mg,2024-10-06,Active,Not applicable,D03,,316
+PT0316,Tocilizumab,162 mg,2024-10-06,Completed,Not applicable,D13,,317
+PT0317,Ranibizumab,0.5 mg,2024-10-16,Active,Not applicable,D15,,318
+PT0318,Tocilizumab,162 mg,2024-10-07,Completed,Not applicable,D18,,319
+PT0319,Tocilizumab,162 mg,2024-10-16,Active,Not applicable,D08,,320
+PT0320,Ranibizumab,0.5 mg,2024-10-16,Active,Not applicable,D10,,321
+PT0321,Trastuzumab,6 mg/kg,2024-10-06,Active,Not applicable,D12,,322
+PT0322,Tocilizumab,162 mg,2024-10-10,Completed,Not applicable,D33,,323
+PT0323,Ranibizumab,0.5 mg,2024-10-19,Active,Not applicable,D35,,324
+PT0324,Tocilizumab,162 mg,2024-10-12,Discontinued,Cost,D23,,325
+PT0325,Ranibizumab,0.5 mg,2024-10-11,Active,Not applicable,D20,,326
+PT0326,Trastuzumab,6 mg/kg,2024-10-09,Active,Not applicable,D01,,327
+PT0327,Ranibizumab,0.5 mg,2024-10-18,Active,Not applicable,D15,,328
+PT0328,Tocilizumab,162 mg,2024-10-18,Active,Not applicable,D23,,329
+PT0329,Trastuzumab,6 mg/kg,2024-10-11,Active,Not applicable,D02,,330
+PT0330,Tocilizumab,162 mg,2024-10-17,Active,Not applicable,D13,,331
+PT0331,Tocilizumab,162 mg,2024-10-08,Active,Not applicable,D03,,332
+PT0332,Trastuzumab,6 mg/kg,2024-10-15,Active,Not applicable,D27,,333
+PT0333,Trastuzumab,6 mg/kg,2024-10-19,Discontinued,Side effects,D01,,334
+PT0334,Ranibizumab,0.5 mg,2024-10-16,Completed,Not applicable,D30,,335
+PT0335,Ocrelizumab,600 mg,2024-10-17,Completed,Not applicable,D19,,336
+PT0336,Trastuzumab,Not recorded,2024-10-15,Completed,Not applicable,D36,Dose not recorded,337
+PT0337,Ocrelizumab,600 mg,2024-10-22,Active,Not applicable,D04,,338
+PT0338,Ranibizumab,0.5 mg,2024-10-15,Active,Not applicable,D10,,339
+PT0339,Tocilizumab,162 mg,2024-10-18,Active,Not applicable,Not recorded,Doctor not recorded,340
+PT0340,Tocilizumab,162 mg,2024-10-15,Active,Not applicable,D23,,341
+PT0341,Tocilizumab,162 mg,2024-10-26,Active,Not applicable,D28,,342
+PT0342,Ocrelizumab,600 mg,2024-10-20,Completed,Not applicable,D19,,343
+PT0343,Tocilizumab,162 mg,2024-10-28,Discontinued,Lost to follow-up,D38,,344
+PT0344,Trastuzumab,6 mg/kg,2024-10-22,Active,Not applicable,D07,,345
+PT0345,Ocrelizumab,600 mg,2024-10-28,Completed,Not applicable,D04,,346
+PT0346,Ocrelizumab,600 mg,2024-10-24,Discontinued,Side effects,D14,,347
+PT0347,Tocilizumab,162 mg,2024-10-20,Active,Not applicable,D08,,348
+PT0348,Trastuzumab,6 mg/kg,2024-10-22,Discontinued,Switched therapy,D22,,349
+PT0349,Pertuzumab,420 mg,2024-10-24,Active,Not applicable,D02,,350
+PT0350,Tocilizumab,162 mg,2024-10-25,Completed,Not applicable,D18,,351
+PT0351,Trastuzumab,6 mg/kg,2024-11-03,Completed,Not applicable,D27,,352
+PT0352,Tocilizumab,162 mg,2024-10-24,Active,Not applicable,D18,,353
+PT0353,Trastuzumab,6 mg/kg,2024-10-29,Active,Not applicable,D07,,354
+PT0354,Ranibizumab,0.5 mg,2024-10-26,Discontinued,Switched therapy,Not recorded,Doctor not recorded,355
+PT0355,Tocilizumab,162 mg,2024-10-25,Active,Not applicable,D13,,356
+PT0356,Trastuzumab,6 mg/kg,2024-11-04,Active,Not applicable,D07,,357
+PT0357,Ranibizumab,0.5 mg,2024-10-22,Active,Not applicable,D10,,358
+PT0358,Trastuzumab,6 mg/kg,2024-10-24,Active,Not applicable,D07,,359
+PT0359,Tocilizumab,162 mg,2024-11-07,Active,Not applicable,D03,,360
+PT0360,Pertuzumab,420 mg,2024-11-06,Active,Not applicable,D02,,361
+PT0361,Trastuzumab,6 mg/kg,2024-10-26,Discontinued,Side effects,D36,,362
+PT0362,Tocilizumab,162 mg,2024-10-27,Discontinued,Lost to follow-up,D38,,363
+PT0363,Tocilizumab,162 mg,2024-11-11,Discontinued,Cost,D33,,364
+PT0364,Ranibizumab,0.5 mg,2024-11-14,Active,Not applicable,D40,,365
+PT0365,Ranibizumab,0.5 mg,2024-11-04,Completed,Not applicable,D05,,366
+PT0366,Ocrelizumab,600 mg,2024-11-12,Active,Not applicable,D09,,367
+PT0367,Trastuzumab,6 mg/kg,2024-11-11,Active,Not applicable,D01,,368
+PT0368,Ocrelizumab,600 mg,2024-11-13,Completed,Not applicable,D24,,369
+PT0369,Tocilizumab,162 mg,2024-11-10,Active,Not applicable,D03,,370
+PT0370,Ranibizumab,0.5 mg,2024-11-15,Active,Not applicable,D10,,371
+PT0371,Trastuzumab,6 mg/kg,2024-11-16,Active,Not applicable,D02,,372
+PT0372,Trastuzumab,6 mg/kg,2024-11-17,Active,Not applicable,D06,,373
+PT0373,Ranibizumab,0.5 mg,2024-11-16,Active,Not applicable,D30,,374
+PT0374,Ranibizumab,0.5 mg,2024-11-07,Completed,Not applicable,D05,,375
+PT0375,Pertuzumab,420 mg,2024-11-20,Discontinued,Lost to follow-up,D36,,376
+PT0376,Tocilizumab,162 mg,2024-11-08,Discontinued,Side effects,D08,,377
+PT0377,Tocilizumab,162 mg,2024-11-13,Active,Not applicable,D18,,378
+PT0378,Ranibizumab,0.5 mg,2024-11-12,Completed,Not applicable,D20,,379
+PT0379,Ocrelizumab,600 mg,2024-11-21,Discontinued,Patient choice,D09,,380
+PT0380,Tocilizumab,162 mg,2024-11-20,Active,Not applicable,D03,,381
+PT0381,Trastuzumab,6 mg/kg,2024-11-22,Completed,Not applicable,D26,,382
+PT0382,Tocilizumab,162 mg,2024-11-21,Discontinued,Switched therapy,D18,,383
+PT0383,Ranibizumab,0.5 mg,2024-11-14,Completed,Not applicable,D20,,384
+PT0384,Ocrelizumab,600 mg,2024-11-25,Completed,Not applicable,D19,,385
+PT0385,Trastuzumab,6 mg/kg,2024-11-17,Completed,Not applicable,D31,,386
+PT0386,Ocrelizumab,600 mg,2024-11-22,Active,Not applicable,D39,,387
+PT0387,Trastuzumab,6 mg/kg,2024-11-24,Active,Not applicable,D12,,388
+PT0388,Trastuzumab,6 mg/kg,2024-11-16,Active,Not applicable,D32,,389
+PT0389,Tocilizumab,162 mg,2024-11-30,Completed,Not applicable,D08,,390
+PT0390,Ranibizumab,0.5 mg,2024-12-01,Discontinued,Cost,D05,,391
+PT0391,Tocilizumab,162 mg,2024-11-22,Active,Not applicable,D28,,392
+PT0392,Ocrelizumab,600 mg,2024-11-25,Active,Not applicable,D19,,393
+PT0393,Trastuzumab,6 mg/kg,2024-12-03,Active,Not applicable,D17,,394
+PT0394,Tocilizumab,162 mg,2024-11-30,Discontinued,Cost,D03,,395
+PT0395,Tocilizumab,162 mg,2024-11-27,Active,Not applicable,D33,,396
+PT0396,Tocilizumab,162 mg,2024-11-26,Active,Not applicable,D23,,397
+PT0397,Trastuzumab,6 mg/kg,2024-11-25,Completed,Not applicable,D21,,398
+PT0398,Ranibizumab,0.5 mg,2024-11-22,Active,Not applicable,D20,,399
+PT0399,Trastuzumab,6 mg/kg,2024-12-05,Active,Not applicable,D27,,400
+PT0400,Trastuzumab,6 mg/kg,2024-12-02,Completed,Not applicable,D12,,401
+PT0401,Ranibizumab,0.5 mg,2024-12-06,Completed,Not applicable,D40,,402
+PT0402,Trastuzumab,6 mg/kg,2024-12-01,Active,Not applicable,D07,,403
+PT0403,Ranibizumab,0.5 mg,2024-12-02,Discontinued,Cost,D30,,404
+PT0404,Ocrelizumab,600 mg,2024-12-03,Active,Not applicable,D04,,405
+PT0405,Trastuzumab,6 mg/kg,2024-12-07,Completed,Not applicable,D16,,406
+PT0406,Tocilizumab,162 mg,2024-11-30,Active,Not applicable,D08,,407
+PT0407,Trastuzumab,Not recorded,2024-12-07,Active,Not applicable,D07,Dose not recorded,408
+PT0408,Trastuzumab,6 mg/kg,2024-11-27,Active,Not applicable,D21,,409
+PT0409,Tocilizumab,162 mg,2024-12-04,Completed,Not applicable,D03,,410
+PT0410,Ocrelizumab,600 mg,2024-12-11,Active,Not applicable,D29,,411
+PT0411,Pertuzumab,420 mg,2024-12-06,Discontinued,Switched therapy,D01,,412
+PT0412,Tocilizumab,162 mg,2024-11-30,Active,Not applicable,D33,,413
+PT0413,Trastuzumab,6 mg/kg,2024-12-04,Completed,Not applicable,D02,,414
+PT0414,Trastuzumab,Not recorded,2024-12-11,Completed,Not applicable,D31,Dose not recorded,415
+PT0415,Ranibizumab,0.5 mg,2024-12-07,Completed,Not applicable,D25,,416
+PT0416,Ocrelizumab,600 mg,2024-12-01,Discontinued,Disease progression,D04,,417
+PT0417,Ranibizumab,0.5 mg,2024-12-04,Active,Not applicable,D40,,418
+PT0418,Trastuzumab,6 mg/kg,2024-12-06,Active,Not applicable,D02,,419
+PT0419,Ranibizumab,0.5 mg,2024-12-17,Active,Not applicable,D05,,420
+PT0420,Trastuzumab,6 mg/kg,2024-12-06,Discontinued,Switched therapy,D02,,421
+PT0421,Trastuzumab,6 mg/kg,2024-12-11,Active,Not applicable,D22,,422
+PT0422,Tocilizumab,162 mg,2024-12-08,Discontinued,Patient choice,D03,,423
+PT0423,Ocrelizumab,600 mg,2024-12-14,Completed,Not applicable,D19,,424
+PT0424,Tocilizumab,162 mg,2024-12-14,Active,Not applicable,D03,,425
+PT0425,Tocilizumab,162 mg,2024-12-08,Discontinued,Cost,D18,,426
+PT0426,Ocrelizumab,600 mg,2024-12-06,Active,Not applicable,D09,,427
+PT0427,Trastuzumab,6 mg/kg,2024-12-15,Discontinued,Lost to follow-up,D21,,428
+PT0428,Ranibizumab,0.5 mg,2024-12-20,Active,Not applicable,D20,,429
+PT0429,Tocilizumab,162 mg,2024-12-23,Completed,Not applicable,D03,,430
+PT0430,Trastuzumab,6 mg/kg,2024-12-17,Discontinued,Cost,D06,,431
+PT0431,Ranibizumab,Not recorded,2024-12-18,Active,Not applicable,D10,Dose not recorded,432
+PT0432,Tocilizumab,162 mg,2024-12-24,Completed,Not applicable,D33,,433
+PT0433,Ranibizumab,0.5 mg,2024-12-26,Discontinued,Lost to follow-up,D15,,434
+PT0434,Ranibizumab,0.5 mg,2024-12-23,Active,Not applicable,D20,,435
+PT0435,Trastuzumab,6 mg/kg,2024-12-18,Active,Not applicable,D12,,436
+PT0436,Trastuzumab,6 mg/kg,2024-12-29,Discontinued,Patient choice,D37,,437
+PT0437,Ranibizumab,0.5 mg,2024-12-26,Discontinued,Lost to follow-up,D25,,438
+PT0438,Ranibizumab,0.5 mg,2024-12-27,Completed,Not applicable,D10,,439
+PT0439,Ocrelizumab,600 mg,2024-12-26,Completed,Not applicable,D04,,440
+PT0440,Tocilizumab,162 mg,2024-12-31,Completed,Not applicable,D03,,441
+PT0441,Tocilizumab,162 mg,2025-01-01,Completed,Not applicable,D13,,442
+PT0442,Ranibizumab,0.5 mg,2024-12-30,Active,Not applicable,D15,,443
+PT0443,Ranibizumab,0.5 mg,2024-12-31,Discontinued,Lost to follow-up,D40,,444
+PT0444,Trastuzumab,6 mg/kg,2024-12-24,Active,Not applicable,D16,,445
+PT0445,Ranibizumab,0.5 mg,2024-12-29,Active,Not applicable,D20,,446
+PT0446,Pertuzumab,420 mg,2024-12-28,Completed,Not applicable,D02,,447
+PT0447,Trastuzumab,6 mg/kg,2024-12-31,Discontinued,Switched therapy,D26,,448
+PT0448,Ranibizumab,0.5 mg,2024-12-30,Completed,Not applicable,D15,,449
+PT0449,Ranibizumab,0.5 mg,2025-01-08,Active,Not applicable,D10,,450
+PT0450,Tocilizumab,162 mg,2025-01-07,Active,Not applicable,D08,,451
+PT0451,Trastuzumab,6 mg/kg,2024-12-26,Completed,Not applicable,D01,,452
+PT0452,Ocrelizumab,600 mg,2025-01-04,Active,Not applicable,Not recorded,Doctor not recorded,453
+PT0453,Pertuzumab,420 mg,2025-01-11,Active,Not applicable,D06,,454
+PT0454,Tocilizumab,162 mg,2024-12-28,Active,Not applicable,D23,,455
+PT0455,Trastuzumab,6 mg/kg,2025-01-07,Active,Not applicable,D17,,456
+PT0456,Pertuzumab,420 mg,2025-01-05,Completed,Not applicable,D02,,457
+PT0457,Ranibizumab,0.5 mg,2025-01-08,Discontinued,Lost to follow-up,D05,,458
+PT0458,Tocilizumab,162 mg,2025-01-05,Discontinued,Side effects,D08,,459
+PT0459,Pertuzumab,420 mg,2025-01-10,Completed,Not applicable,D11,,460
+PT0460,Ocrelizumab,600 mg,2025-01-11,Discontinued,Cost,D09,,461
+PT0461,Trastuzumab,6 mg/kg,2025-01-05,Active,Not applicable,D01,,462
+PT0462,Ranibizumab,0.5 mg,2025-01-07,Completed,Not applicable,D25,,463
+PT0463,Trastuzumab,6 mg/kg,2025-01-17,Active,Not applicable,D31,,464
+PT0464,Ranibizumab,0.5 mg,2025-01-06,Active,Not applicable,D15,,465
+PT0465,Ocrelizumab,600 mg,2025-01-19,Completed,Not applicable,D04,,466
+PT0466,Trastuzumab,6 mg/kg,2025-01-05,Active,Not applicable,D02,,467
+PT0467,Ranibizumab,0.5 mg,2025-01-16,Discontinued,Lost to follow-up,D10,,468
+PT0468,Tocilizumab,162 mg,2025-01-20,Active,Not applicable,D33,,469
+PT0469,Tocilizumab,162 mg,2025-01-20,Active,Not applicable,D08,,470
+PT0470,Tocilizumab,162 mg,2025-01-21,Completed,Not applicable,D03,,471
+PT0471,Trastuzumab,6 mg/kg,2025-01-09,Completed,Not applicable,D07,,472
+PT0472,Trastuzumab,6 mg/kg,2025-01-10,Active,Not applicable,D06,,473
+PT0473,Ocrelizumab,600 mg,2025-01-22,Completed,Not applicable,D04,,474
+PT0474,Ocrelizumab,600 mg,2025-01-14,Discontinued,Switched therapy,D04,,475
+PT0475,Tocilizumab,162 mg,2025-01-20,Discontinued,Cost,D08,,476
+PT0476,Ocrelizumab,600 mg,2025-01-24,Active,Not applicable,Not recorded,Doctor not recorded,477
+PT0477,Tocilizumab,162 mg,2025-01-18,Discontinued,Patient choice,D08,,478
+PT0478,Tocilizumab,162 mg,2025-01-25,Completed,Not applicable,D33,,479
+PT0479,Tocilizumab,162 mg,2025-01-24,Active,Not applicable,D18,,480
+PT0480,Ocrelizumab,600 mg,2025-01-29,Active,Not applicable,D04,,481
+PT0481,Tocilizumab,162 mg,2025-01-30,Active,Not applicable,D18,,482
+PT0482,Ranibizumab,0.5 mg,2025-01-29,Completed,Not applicable,D10,,483
+PT0483,Tocilizumab,162 mg,2025-01-25,Active,Not applicable,D18,,484
+PT0484,Tocilizumab,162 mg,2025-01-28,Active,Not applicable,D23,,485
+PT0485,Ranibizumab,0.5 mg,2025-01-19,Active,Not applicable,D40,,486
+PT0486,Ocrelizumab,600 mg,2025-01-26,Active,Not applicable,D14,,487
+PT0487,Tocilizumab,162 mg,2025-01-21,Active,Not applicable,D08,,488
+PT0488,Tocilizumab,162 mg,2025-01-22,Active,Not applicable,Not recorded,Doctor not recorded,489
+PT0489,Trastuzumab,6 mg/kg,2025-01-30,Active,Not applicable,D01,,490
+PT0490,Ocrelizumab,600 mg,2025-01-30,Active,Not applicable,D04,,491
+PT0491,Ranibizumab,0.5 mg,2025-01-29,Active,Not applicable,D05,,492
+PT0492,Tocilizumab,162 mg,2025-01-29,Discontinued,Side effects,D03,,493
+PT0493,Ranibizumab,0.5 mg,2025-02-08,Discontinued,Switched therapy,D15,,494
+PT0494,Ocrelizumab,600 mg,2025-02-03,Discontinued,Disease progression,D19,,495
+PT0495,Ocrelizumab,600 mg,2025-02-02,Active,Not applicable,D04,,496
+PT0496,Ranibizumab,0.5 mg,2025-02-03,Completed,Not applicable,D30,,497
+PT0497,Ocrelizumab,600 mg,2025-02-07,Active,Not applicable,D09,,498
+PT0498,Tocilizumab,162 mg,2025-01-28,Active,Not applicable,D23,,499
+PT0499,Ocrelizumab,600 mg,2025-01-29,Active,Not applicable,D24,,500
+PT0500,Ranibizumab,0.5 mg,2025-01-29,Active,Not applicable,D30,,501
+PT0501,Ranibizumab,0.5 mg,2025-02-01,Discontinued,Cost,D05,,502
+PT0502,Ranibizumab,Not recorded,2025-02-15,Active,Not applicable,D10,Dose not recorded,503
+PT0503,Tocilizumab,162 mg,2025-02-07,Discontinued,Cost,D03,,504
+PT0504,Trastuzumab,6 mg/kg,2025-02-06,Active,Not applicable,D17,,505
+PT0505,Tocilizumab,162 mg,2025-02-16,Discontinued,Lost to follow-up,D23,,506
+PT0506,Pertuzumab,420 mg,2025-02-19,Completed,Not applicable,D17,,507
+PT0507,Tocilizumab,162 mg,2025-02-15,Active,Not applicable,D18,,508
+PT0508,Ocrelizumab,600 mg,2025-02-13,Active,Not applicable,D04,,509
+PT0509,Tocilizumab,162 mg,2025-02-12,Completed,Not applicable,D03,,510
+PT0510,Pertuzumab,420 mg,2025-02-14,Active,Not applicable,D07,,511
+PT0511,Ranibizumab,0.5 mg,2025-02-12,Active,Not applicable,D25,,512
+PT0512,Tocilizumab,162 mg,2025-02-12,Active,Not applicable,D08,,513
+PT0513,Trastuzumab,6 mg/kg,2025-02-15,Completed,Not applicable,D02,,514
+PT0514,Tocilizumab,162 mg,2025-02-22,Active,Not applicable,D03,,515
+PT0515,Ranibizumab,0.5 mg,2025-02-24,Active,Not applicable,D10,,516
+PT0516,Trastuzumab,6 mg/kg,2025-02-19,Completed,Not applicable,D06,,517
+PT0517,Trastuzumab,6 mg/kg,2025-02-22,Active,Not applicable,D31,,518
+PT0518,Tocilizumab,162 mg,2025-02-17,Completed,Not applicable,D23,,519
+PT0519,Tocilizumab,162 mg,2025-02-15,Active,Not applicable,D03,,520
+PT0520,Ranibizumab,0.5 mg,2025-02-28,Active,Not applicable,D05,,521
+PT0521,Trastuzumab,6 mg/kg,2025-02-24,Active,Not applicable,D07,,522
+PT0522,Trastuzumab,6 mg/kg,2025-02-21,Completed,Not applicable,D31,,523
+PT0523,Tocilizumab,162 mg,2025-02-28,Completed,Not applicable,D03,,524
+PT0524,Ocrelizumab,600 mg,2025-02-18,Active,Not applicable,D34,,525
+PT0525,Ranibizumab,0.5 mg,2025-02-26,Completed,Not applicable,D30,,526
+PT0526,Ranibizumab,0.5 mg,2025-02-26,Discontinued,Lost to follow-up,D20,,527
+PT0527,Ranibizumab,0.5 mg,2025-03-02,Completed,Not applicable,D30,,528
+PT0528,Trastuzumab,6 mg/kg,2025-03-05,Active,Not applicable,D32,,529
+PT0529,Tocilizumab,162 mg,2025-03-02,Discontinued,Cost,D38,,530
+PT0530,Ocrelizumab,600 mg,2025-02-27,Active,Not applicable,D04,,531
+PT0531,Ranibizumab,0.5 mg,2025-03-05,Completed,Not applicable,D25,,532
+PT0532,Ranibizumab,0.5 mg,2025-03-08,Active,Not applicable,D05,,533
+PT0533,Tocilizumab,162 mg,2025-03-09,Active,Not applicable,D08,,534
+PT0534,Pertuzumab,420 mg,2025-03-08,Discontinued,Lost to follow-up,D36,,535
+PT0535,Trastuzumab,6 mg/kg,2025-03-11,Completed,Not applicable,D27,,536
+PT0536,Pertuzumab,420 mg,2025-03-11,Active,Not applicable,D32,,537
+PT0537,Ocrelizumab,600 mg,2025-03-07,Discontinued,Lost to follow-up,D14,,538
+PT0538,Trastuzumab,6 mg/kg,2025-03-05,Completed,Not applicable,D02,,539
+PT0539,Ranibizumab,0.5 mg,2025-03-12,Completed,Not applicable,D35,,540
+PT0540,Pertuzumab,420 mg,2025-03-03,Active,Not applicable,D01,,541
+PT0541,Trastuzumab,6 mg/kg,2025-03-05,Discontinued,Side effects,D16,,542
+PT0542,Ocrelizumab,600 mg,2025-03-07,Completed,Not applicable,D04,,543
+PT0543,Pertuzumab,420 mg,2025-03-14,Active,Not applicable,D02,,544
+PT0544,Tocilizumab,162 mg,2025-03-09,Discontinued,Cost,D18,,545
+PT0545,Tocilizumab,162 mg,2025-03-13,Active,Not applicable,D08,,546
+PT0546,Trastuzumab,6 mg/kg,2025-03-19,Completed,Not applicable,D27,,547
+PT0547,Tocilizumab,162 mg,2025-03-13,Completed,Not applicable,D13,,548
+PT0548,Trastuzumab,6 mg/kg,2025-03-23,Completed,Not applicable,D12,,549
+PT0549,Tocilizumab,162 mg,2025-03-23,Active,Not applicable,D08,,550
+PT0550,Trastuzumab,6 mg/kg,2025-03-16,Active,Not applicable,D22,,551
+PT0551,Ocrelizumab,600 mg,2025-03-24,Discontinued,Lost to follow-up,D24,,552
+PT0552,Pertuzumab,420 mg,2025-03-19,Completed,Not applicable,D07,,553
+PT0553,Tocilizumab,162 mg,2025-03-26,Active,Not applicable,D08,,554
+PT0554,Trastuzumab,6 mg/kg,2025-03-27,Active,Not applicable,D21,,555
+PT0555,Ranibizumab,0.5 mg,2025-03-23,Active,Not applicable,D10,,556
+PT0556,Tocilizumab,162 mg,2025-03-26,Active,Not applicable,D03,,557
+PT0557,Ranibizumab,0.5 mg,2025-03-22,Discontinued,Switched therapy,D40,,558
+PT0558,Tocilizumab,Not recorded,2025-03-19,Active,Not applicable,D23,Dose not recorded,559
+PT0559,Ranibizumab,0.5 mg,2025-03-26,Completed,Not applicable,D35,,560
+PT0560,Pertuzumab,420 mg,2025-03-26,Discontinued,Patient choice,D11,,561
+PT0561,Ranibizumab,0.5 mg,2025-03-25,Completed,Not applicable,D10,,562
+PT0562,Pertuzumab,420 mg,2025-03-27,Active,Not applicable,D22,,563
+PT0563,Tocilizumab,Not recorded,2025-04-03,Completed,Not applicable,D33,Dose not recorded,564
+PT0564,Ranibizumab,0.5 mg,2025-03-30,Discontinued,Side effects,D35,,565
+PT0565,Tocilizumab,162 mg,2025-03-26,Completed,Not applicable,D13,,566
+PT0566,Tocilizumab,162 mg,2025-04-02,Active,Not applicable,D08,,567
+PT0567,Pertuzumab,420 mg,2025-04-04,Completed,Not applicable,D26,,568
+PT0568,Ranibizumab,0.5 mg,2025-04-07,Discontinued,Cost,D15,,569
+PT0569,Tocilizumab,162 mg,2025-04-08,Active,Not applicable,D18,,570
+PT0570,Trastuzumab,6 mg/kg,2025-04-07,Active,Not applicable,D02,,571
+PT0571,Trastuzumab,6 mg/kg,2025-04-01,Discontinued,Patient choice,D01,,572
+PT0572,Trastuzumab,6 mg/kg,2025-03-29,Discontinued,Cost,D37,,573
+PT0573,Trastuzumab,6 mg/kg,2025-04-14,Active,Not applicable,D36,,574
+PT0574,Tocilizumab,162 mg,2025-04-02,Active,Not applicable,D23,,575
+PT0575,Trastuzumab,6 mg/kg,2025-04-03,Active,Not applicable,D01,,576
+PT0576,Trastuzumab,6 mg/kg,2025-04-08,Completed,Not applicable,D12,,577
+PT0577,Pertuzumab,420 mg,2025-04-12,Active,Not applicable,D01,,578
+PT0578,Ocrelizumab,600 mg,2025-04-11,Discontinued,Cost,D19,,579
+PT0579,Tocilizumab,162 mg,2025-04-16,Completed,Not applicable,D13,,580
+PT0580,Ranibizumab,0.5 mg,2025-04-14,Active,Not applicable,D05,,581
+PT0581,Trastuzumab,6 mg/kg,2025-04-15,Active,Not applicable,D07,,582
+PT0582,Pertuzumab,420 mg,2025-04-09,Active,Not applicable,D31,,583
+PT0583,Tocilizumab,162 mg,2025-04-07,Active,Not applicable,D03,,584
+PT0584,Tocilizumab,162 mg,2025-04-15,Discontinued,Side effects,D33,,585
+PT0585,Tocilizumab,162 mg,2025-04-14,Active,Not applicable,D08,,586
+PT0586,Ocrelizumab,600 mg,2025-04-19,Discontinued,Switched therapy,D09,,587
+PT0587,Ocrelizumab,600 mg,2025-04-13,Active,Not applicable,D24,,588
+PT0588,Ranibizumab,0.5 mg,2025-04-15,Active,Not applicable,D20,,589
+PT0589,Pertuzumab,420 mg,2025-04-11,Active,Not applicable,D31,,590
+PT0590,Ranibizumab,0.5 mg,2025-04-12,Completed,Not applicable,D05,,591
+PT0591,Tocilizumab,162 mg,2025-04-10,Completed,Not applicable,D08,,592
+PT0592,Ocrelizumab,600 mg,2025-04-22,Active,Not applicable,D14,,593
+PT0593,Ranibizumab,0.5 mg,2025-04-13,Discontinued,Side effects,D40,,594
+PT0594,Ranibizumab,0.5 mg,2025-04-15,Completed,Not applicable,D05,,595
+PT0595,Trastuzumab,6 mg/kg,2025-04-22,Active,Not applicable,D21,,596
+PT0596,Trastuzumab,6 mg/kg,2025-04-25,Completed,Not applicable,D07,,597
+PT0597,Pertuzumab,420 mg,2025-04-22,Active,Not applicable,D17,,598
+PT0598,Tocilizumab,162 mg,2025-04-13,Active,Not applicable,D23,,599
+PT0599,Tocilizumab,162 mg,2025-04-15,Completed,Not applicable,D18,,600
+PT0600,Trastuzumab,6 mg/kg,2025-04-29,Discontinued,Side effects,D26,,601
+PT0601,Pertuzumab,420 mg,2025-04-22,Active,Not applicable,D16,,602
+PT0602,Ranibizumab,0.5 mg,2025-04-17,Completed,Not applicable,D15,,603
+PT0603,Ranibizumab,0.5 mg,2025-04-21,Completed,Not applicable,D25,,604
+PT0604,Tocilizumab,162 mg,2025-04-16,Completed,Not applicable,D28,,605
+PT0605,Ocrelizumab,600 mg,2025-04-20,Active,Not applicable,D34,,606
+PT0606,Tocilizumab,162 mg,2025-04-29,Active,Not applicable,D33,,607
+PT0607,Ranibizumab,0.5 mg,2025-04-23,Active,Not applicable,D15,,608
+PT0608,Ranibizumab,0.5 mg,2025-04-26,Active,Not applicable,D10,,609
+PT0609,Tocilizumab,162 mg,2025-04-29,Active,Not applicable,D33,,610
+PT0610,Ocrelizumab,600 mg,2025-05-02,Active,Not applicable,D04,,611
+PT0611,Tocilizumab,162 mg,2025-04-29,Active,Not applicable,D23,,612
+PT0612,Tocilizumab,162 mg,2025-05-05,Discontinued,Cost,D18,,613
+PT0613,Ranibizumab,0.5 mg,2025-05-05,Completed,Not applicable,D05,,614
+PT0614,Trastuzumab,6 mg/kg,2025-04-26,Active,Not applicable,D16,,615
+PT0615,Pertuzumab,420 mg,2025-04-27,Discontinued,Disease progression,D07,,616
+PT0616,Ocrelizumab,600 mg,2025-05-05,Active,Not applicable,D29,,617
+PT0617,Tocilizumab,162 mg,2025-05-02,Active,Not applicable,D33,,618
+PT0618,Pertuzumab,420 mg,2025-04-28,Completed,Not applicable,D32,,619
+PT0619,Trastuzumab,6 mg/kg,2025-05-04,Active,Not applicable,D12,,620
+PT0620,Ocrelizumab,Not recorded,2025-05-08,Completed,Not applicable,D09,Dose not recorded,621
+PT0621,Trastuzumab,6 mg/kg,2025-05-13,Completed,Not applicable,D01,,622
+PT0622,Ranibizumab,0.5 mg,2025-05-11,Active,Not applicable,D25,,623
+PT0623,Pertuzumab,Not recorded,2025-05-12,Active,Not applicable,D01,Dose not recorded,624
+PT0624,Tocilizumab,162 mg,2025-05-09,Active,Not applicable,D18,,625
+PT0625,Ocrelizumab,600 mg,2025-05-07,Active,Not applicable,D24,,626
+PT0626,Trastuzumab,6 mg/kg,2025-05-15,Completed,Not applicable,D01,,627
+PT0627,Tocilizumab,162 mg,2025-05-04,Active,Not applicable,D08,,628
+PT0628,Trastuzumab,6 mg/kg,2025-05-17,Discontinued,Switched therapy,D01,,629
+PT0629,Tocilizumab,162 mg,2025-05-14,Active,Not applicable,D28,,630
+PT0630,Tocilizumab,162 mg,2025-05-19,Active,Not applicable,D08,,631
+PT0631,Pertuzumab,420 mg,2025-05-17,Active,Not applicable,D06,,632
+PT0632,Trastuzumab,6 mg/kg,2025-05-20,Active,Not applicable,D02,,633
+PT0633,Tocilizumab,162 mg,2025-05-18,Discontinued,Side effects,D38,,634
+PT0634,Pertuzumab,420 mg,2025-05-13,Discontinued,Lost to follow-up,D12,,635
+PT0635,Ranibizumab,0.5 mg,2025-05-20,Active,Not applicable,D40,,636
+PT0636,Ranibizumab,0.5 mg,2025-05-10,Completed,Not applicable,D05,,637
+PT0637,Ranibizumab,0.5 mg,2025-05-14,Active,Not applicable,D05,,638
+PT0638,Tocilizumab,162 mg,2025-05-15,Discontinued,Switched therapy,D03,,639
+PT0639,Pertuzumab,420 mg,2025-05-18,Completed,Not applicable,D01,,640
+PT0640,Trastuzumab,6 mg/kg,2025-05-22,Active,Not applicable,D06,,641
+PT0641,Tocilizumab,162 mg,2025-05-12,Active,Not applicable,D13,,642
+PT0642,Ranibizumab,0.5 mg,2025-05-14,Completed,Not applicable,D05,,643
+PT0643,Trastuzumab,6 mg/kg,2025-05-25,Discontinued,Switched therapy,D11,,644
+PT0644,Trastuzumab,6 mg/kg,2025-05-20,Active,Not applicable,D32,,645
+PT0645,Ranibizumab,0.5 mg,2025-05-25,Active,Not applicable,D15,,646
+PT0646,Pertuzumab,420 mg,2025-05-18,Discontinued,Side effects,D01,,647
+PT0647,Ranibizumab,0.5 mg,2025-06-01,Active,Not applicable,D35,,648
+PT0648,Tocilizumab,162 mg,2025-05-30,Completed,Not applicable,D03,,649
+PT0649,Tocilizumab,162 mg,2025-06-01,Completed,Not applicable,D03,,650
+PT0650,Pertuzumab,420 mg,2025-05-22,Active,Not applicable,D27,,651
+PT0651,Tocilizumab,162 mg,2025-05-28,Active,Not applicable,D03,,652
+PT0652,Trastuzumab,6 mg/kg,2025-05-30,Discontinued,Cost,D37,,653
+PT0653,Tocilizumab,162 mg,2025-06-04,Active,Not applicable,D13,,654
+PT0654,Ranibizumab,0.5 mg,2025-05-25,Active,Not applicable,D20,,655
+PT0655,Tocilizumab,162 mg,2025-05-31,Active,Not applicable,D13,,656
+PT0656,Tocilizumab,162 mg,2025-05-24,Active,Not applicable,D03,,657
+PT0657,Trastuzumab,6 mg/kg,2025-05-23,Active,Not applicable,D02,,658
+PT0658,Ranibizumab,0.5 mg,2025-05-22,Completed,Not applicable,D05,,659
+PT0659,Tocilizumab,162 mg,2025-05-28,Active,Not applicable,D13,,660
+PT0660,Tocilizumab,162 mg,2025-05-28,Completed,Not applicable,D23,,661
+PT0661,Ocrelizumab,600 mg,2025-06-07,Completed,Not applicable,D04,,662
+PT0662,Tocilizumab,162 mg,2025-05-28,Active,Not applicable,D08,,663
+PT0663,Trastuzumab,6 mg/kg,2025-06-08,Active,Not applicable,D22,,664
+PT0664,Pertuzumab,420 mg,2025-05-30,Active,Not applicable,D02,,665
+PT0665,Trastuzumab,6 mg/kg,2025-06-04,Completed,Not applicable,D02,,666
+PT0666,Tocilizumab,Not recorded,2025-06-10,Active,Not applicable,D03,Dose not recorded,667
+PT0667,Pertuzumab,420 mg,2025-06-11,Active,Not applicable,D06,,668
+PT0668,Tocilizumab,162 mg,2025-06-01,Active,Not applicable,Not recorded,Doctor not recorded,669
+PT0669,Trastuzumab,6 mg/kg,2025-05-30,Active,Not applicable,D31,,670
+PT0670,Tocilizumab,162 mg,2025-06-02,Active,Not applicable,D13,,671
+PT0671,Ranibizumab,0.5 mg,2025-06-09,Active,Not applicable,D25,,672
+PT0672,Trastuzumab,6 mg/kg,2025-06-01,Active,Not applicable,D01,,673
+PT0673,Tocilizumab,162 mg,2025-06-17,Discontinued,Lost to follow-up,D38,,674
+PT0674,Pertuzumab,420 mg,2025-06-14,Completed,Not applicable,D36,,675
+PT0675,Ranibizumab,0.5 mg,2025-06-14,Active,Not applicable,D05,,676
+PT0676,Ocrelizumab,600 mg,2025-06-18,Completed,Not applicable,D29,,677
+PT0677,Tocilizumab,Not recorded,2025-06-14,Completed,Not applicable,D08,Dose not recorded,678
+PT0678,Pertuzumab,420 mg,2025-06-20,Active,Not applicable,D06,,679
+PT0679,Tocilizumab,162 mg,2025-06-11,Active,Not applicable,D03,,680
+PT0680,Tocilizumab,162 mg,2025-06-20,Active,Not applicable,D33,,681
+PT0681,Trastuzumab,6 mg/kg,2025-06-13,Active,Not applicable,D11,,682
+PT0682,Tocilizumab,162 mg,2025-06-25,Discontinued,Disease progression,D23,,683
+PT0683,Tocilizumab,162 mg,2025-06-11,Active,Not applicable,D03,,684
+PT0684,Pertuzumab,420 mg,2025-06-18,Active,Not applicable,D27,,685
+PT0685,Pertuzumab,420 mg,2025-06-19,Active,Not applicable,D31,,686
+PT0686,Tocilizumab,162 mg,2025-06-18,Active,Not applicable,D03,,687
+PT0687,Ocrelizumab,600 mg,2025-06-19,Completed,Not applicable,D14,,688
+PT0688,Pertuzumab,420 mg,2025-06-27,Completed,Not applicable,D01,,689
+PT0689,Pertuzumab,420 mg,2025-06-25,Active,Not applicable,D11,,690
+PT0690,Trastuzumab,6 mg/kg,2025-07-03,Active,Not applicable,D21,,691
+PT0691,Pertuzumab,420 mg,2025-06-22,Discontinued,Cost,D21,,692
+PT0692,Ocrelizumab,600 mg,2025-06-26,Discontinued,Side effects,D04,,693
+PT0693,Ranibizumab,0.5 mg,2025-07-01,Active,Not applicable,D30,,694
+PT0694,Ocrelizumab,600 mg,2025-06-28,Active,Not applicable,D14,,695
+PT0695,Trastuzumab,6 mg/kg,2025-07-07,Active,Not applicable,D07,,696
+PT0696,Trastuzumab,6 mg/kg,2025-07-11,Active,Not applicable,D12,,697
+PT0697,Ocrelizumab,600 mg,2025-07-12,Active,Not applicable,D39,,698
+PT0698,Ocrelizumab,600 mg,2025-07-16,Active,Not applicable,D19,,699
+PT0699,Trastuzumab,6 mg/kg,2025-07-07,Active,Not applicable,D01,,700
+PT0700,Ranibizumab,0.5 mg,2025-07-05,Active,Not applicable,D10,,701
+PT0701,Tocilizumab,162 mg,2025-07-15,Active,Not applicable,D18,,702
+PT0702,Trastuzumab,6 mg/kg,2025-07-11,Active,Not applicable,D01,,703
+PT0703,Ranibizumab,0.5 mg,2025-07-12,Completed,Not applicable,D15,,704
+PT0704,Trastuzumab,6 mg/kg,2025-07-13,Active,Not applicable,D06,,705
+PT0705,Trastuzumab,6 mg/kg,2025-07-21,Active,Not applicable,D32,,706
+PT0706,Tocilizumab,162 mg,2025-07-22,Active,Not applicable,D03,,707
+PT0707,Trastuzumab,6 mg/kg,2025-07-11,Discontinued,Lost to follow-up,D06,,708
+PT0708,Pertuzumab,420 mg,2025-07-17,Discontinued,Patient choice,D01,,709
+PT0709,Trastuzumab,6 mg/kg,2025-07-19,Active,Not applicable,D01,,710
+PT0710,Ranibizumab,0.5 mg,2025-07-25,Active,Not applicable,D10,,711
+PT0711,Ranibizumab,0.5 mg,2025-07-21,Discontinued,Side effects,D05,,712
+PT0712,Ranibizumab,0.5 mg,2025-08-01,Active,Not applicable,D20,,713
+PT0713,Ocrelizumab,600 mg,2025-07-22,Active,Not applicable,D04,,714
+PT0714,Tocilizumab,162 mg,2025-07-30,Discontinued,Side effects,D33,,715
+PT0715,Trastuzumab,6 mg/kg,2025-08-03,Completed,Not applicable,D07,,716
+PT0716,Trastuzumab,6 mg/kg,2025-07-28,Active,Not applicable,D01,,717
+PT0717,Ranibizumab,0.5 mg,2025-07-25,Completed,Not applicable,D25,,718
+PT0718,Trastuzumab,6 mg/kg,2025-07-24,Active,Not applicable,D31,,719
+PT0719,Tocilizumab,162 mg,2025-07-26,Discontinued,Disease progression,D33,,720
+PT0720,Ocrelizumab,600 mg,2025-08-01,Active,Not applicable,D14,,721
+PT0721,Ranibizumab,0.5 mg,2025-07-31,Active,Not applicable,D10,,722
+PT0722,Trastuzumab,6 mg/kg,2025-07-30,Discontinued,Cost,D02,,723
+PT0723,Ocrelizumab,600 mg,2025-07-27,Active,Not applicable,D34,,724
+PT0724,Pertuzumab,420 mg,2025-08-08,Active,Not applicable,D11,,725
+PT0725,Tocilizumab,162 mg,2025-08-01,Completed,Not applicable,D18,,726
+PT0726,Pertuzumab,420 mg,2025-08-02,Active,Not applicable,D16,,727
+PT0727,Trastuzumab,6 mg/kg,2025-08-06,Active,Not applicable,D01,,728
+PT0728,Ocrelizumab,600 mg,2025-08-14,Active,Not applicable,D04,,729
+PT0729,Trastuzumab,Not recorded,2025-08-07,Completed,Not applicable,D06,Dose not recorded,730
+PT0730,Trastuzumab,6 mg/kg,2025-08-06,Active,Not applicable,D31,,731
+PT0731,Pertuzumab,420 mg,2025-08-10,Active,Not applicable,D12,,732
+PT0732,Tocilizumab,162 mg,2025-08-10,Completed,Not applicable,D03,,733
+PT0733,Tocilizumab,162 mg,2025-08-17,Active,Not applicable,D13,,734
+PT0734,Pertuzumab,420 mg,2025-08-10,Active,Not applicable,D01,,735
+PT0735,Tocilizumab,162 mg,2025-08-15,Active,Not applicable,D08,,736
+PT0736,Trastuzumab,6 mg/kg,2025-08-17,Discontinued,Patient choice,D06,,737
+PT0737,Pertuzumab,420 mg,2025-08-20,Active,Not applicable,D17,,738
+PT0738,Ranibizumab,0.5 mg,2025-08-23,Discontinued,Disease progression,D05,,739
+PT0739,Tocilizumab,162 mg,2025-08-17,Active,Not applicable,D38,,740
+PT0740,Trastuzumab,6 mg/kg,2025-08-20,Active,Not applicable,Not recorded,Doctor not recorded,741
+PT0741,Tocilizumab,162 mg,2025-08-24,Active,Not applicable,D13,,742
+PT0742,Ocrelizumab,600 mg,2025-08-21,Completed,Not applicable,D09,,743
+PT0743,Tocilizumab,162 mg,2025-08-16,Active,Not applicable,D38,,744
+PT0744,Trastuzumab,6 mg/kg,2025-08-13,Active,Not applicable,D12,,745
+PT0745,Ocrelizumab,600 mg,2025-08-14,Active,Not applicable,D24,,746
+PT0746,Tocilizumab,162 mg,2025-08-17,Active,Not applicable,D28,,747
+PT0747,Tocilizumab,162 mg,2025-08-21,Discontinued,Lost to follow-up,D23,,748
+PT0748,Ranibizumab,0.5 mg,2025-08-30,Discontinued,Disease progression,D05,,749
+PT0749,Ranibizumab,0.5 mg,2025-08-17,Active,Not applicable,D10,,750
+PT0750,Pertuzumab,420 mg,2025-08-24,Active,Not applicable,D01,,751
+PT0751,Trastuzumab,6 mg/kg,2025-08-30,Active,Not applicable,D02,,752
+PT0752,Ranibizumab,0.5 mg,2025-08-26,Completed,Not applicable,D05,,753
+PT0753,Tocilizumab,162 mg,2025-08-29,Active,Not applicable,D28,,754
+PT0754,Trastuzumab,6 mg/kg,2025-09-03,Completed,Not applicable,D06,,755
+PT0755,Tocilizumab,162 mg,2025-09-07,Completed,Not applicable,D18,,756
+PT0756,Tocilizumab,162 mg,2025-08-27,Discontinued,Switched therapy,D08,,757
+PT0757,Trastuzumab,6 mg/kg,2025-09-05,Active,Not applicable,D07,,758
+PT0758,Ranibizumab,Not recorded,2025-09-03,Active,Not applicable,D10,Dose not recorded,759
+PT0759,Trastuzumab,6 mg/kg,2025-09-03,Active,Not applicable,D07,,760
+PT0760,Tocilizumab,162 mg,2025-09-07,Active,Not applicable,D33,,761
+PT0761,Tocilizumab,Not recorded,2025-09-07,Active,Not applicable,D33,Dose not recorded,762
+PT0762,Tocilizumab,162 mg,2025-09-11,Completed,Not applicable,D23,,763
+PT0763,Pertuzumab,420 mg,2025-09-08,Discontinued,Patient choice,D36,,764
+PT0764,Ranibizumab,0.5 mg,2025-09-03,Active,Not applicable,D10,,765
+PT0765,Trastuzumab,6 mg/kg,2025-09-07,Active,Not applicable,D11,,766
+PT0766,Trastuzumab,6 mg/kg,2025-09-06,Completed,Not applicable,D07,,767
+PT0767,Tocilizumab,162 mg,2025-09-14,Active,Not applicable,D18,,768
+PT0768,Tocilizumab,162 mg,2025-09-03,Active,Not applicable,D03,,769
+PT0769,Trastuzumab,6 mg/kg,2025-09-06,Completed,Not applicable,D12,,770
+PT0770,Tocilizumab,162 mg,2025-09-18,Discontinued,Cost,D23,,771
+PT0771,Ocrelizumab,600 mg,2025-09-16,Active,Not applicable,D04,,772
+PT0772,Ranibizumab,0.5 mg,2025-09-10,Completed,Not applicable,D25,,773
+PT0773,Pertuzumab,420 mg,2025-09-12,Active,Not applicable,D01,,774
+PT0774,Tocilizumab,162 mg,2025-09-18,Active,Not applicable,D18,,775
+PT0775,Trastuzumab,6 mg/kg,2025-09-14,Completed,Not applicable,D16,,776
+PT0776,Tocilizumab,162 mg,2025-09-20,Discontinued,Patient choice,D33,,777
+PT0777,Trastuzumab,6 mg/kg,2025-09-21,Completed,Not applicable,D07,,778
+PT0778,Tocilizumab,162 mg,2025-09-07,Active,Not applicable,D03,,779
+PT0779,Ranibizumab,0.5 mg,2025-09-19,Completed,Not applicable,D20,,780
+PT0780,Trastuzumab,6 mg/kg,2025-09-08,Discontinued,Patient choice,D16,,781
+PT0781,Ocrelizumab,600 mg,2025-09-21,Completed,Not applicable,D04,,782
+PT0782,Ocrelizumab,600 mg,2025-09-11,Discontinued,Cost,D09,,783
+PT0783,Tocilizumab,162 mg,2025-09-10,Discontinued,Cost,D03,,784
+PT0784,Tocilizumab,162 mg,2025-09-23,Active,Not applicable,D08,,785
+PT0785,Ranibizumab,0.5 mg,2025-09-23,Active,Not applicable,D20,,786
+PT0786,Tocilizumab,162 mg,2025-09-22,Active,Not applicable,D03,,787
+PT0787,Ranibizumab,0.5 mg,2025-09-21,Active,Not applicable,D20,,788
+PT0788,Ranibizumab,0.5 mg,2025-09-19,Completed,Not applicable,D30,,789
+PT0789,Trastuzumab,6 mg/kg,2025-09-24,Active,Not applicable,D07,,790
+PT0790,Trastuzumab,6 mg/kg,2025-09-20,Completed,Not applicable,D37,,791
+PT0791,Tocilizumab,162 mg,2025-09-18,Active,Not applicable,D28,,792
+PT0792,Tocilizumab,162 mg,2025-09-25,Active,Not applicable,D03,,793
+PT0793,Pertuzumab,Not recorded,2025-09-20,Active,Not applicable,D32,Dose not recorded,794
+PT0794,Tocilizumab,162 mg,2025-09-25,Active,Not applicable,D13,,795
+PT0795,Trastuzumab,6 mg/kg,2025-09-16,Discontinued,Cost,D37,,796
+PT0796,Tocilizumab,162 mg,2025-09-26,Active,Not applicable,D23,,797
+PT0797,Tocilizumab,162 mg,2025-09-22,Discontinued,Disease progression,D33,,798
+PT0798,Ocrelizumab,600 mg,2025-09-26,Discontinued,Lost to follow-up,D09,,799
+PT0799,Ocrelizumab,600 mg,2025-09-26,Active,Not applicable,D39,,800
+PT0800,Ocrelizumab,600 mg,2025-09-26,Discontinued,Lost to follow-up,D34,,801
+PT0801,Trastuzumab,6 mg/kg,2025-09-23,Active,Not applicable,D27,,802
+PT0802,Trastuzumab,6 mg/kg,2025-09-19,Completed,Not applicable,D27,,803
+PT0803,Tocilizumab,162 mg,2025-09-25,Active,Not applicable,D03,,804
+PT0804,Tocilizumab,162 mg,2025-09-26,Completed,Not applicable,D13,,805
+PT0805,Pertuzumab,420 mg,2025-09-29,Discontinued,Cost,D12,,806
+PT0806,Tocilizumab,162 mg,2025-09-22,Completed,Not applicable,D38,,807
+PT0807,Trastuzumab,6 mg/kg,2025-10-05,Active,Not applicable,D32,,808
+PT0808,Trastuzumab,6 mg/kg,2025-10-04,Active,Not applicable,D32,,809
+PT0809,Tocilizumab,162 mg,2025-10-01,Active,Not applicable,D08,,810
+PT0810,Ranibizumab,0.5 mg,2025-10-03,Discontinued,Side effects,D10,,811
+PT0811,Pertuzumab,420 mg,2025-09-30,Active,Not applicable,D01,,812
+PT0812,Trastuzumab,6 mg/kg,2025-09-26,Completed,Not applicable,D06,,813
+PT0813,Ranibizumab,0.5 mg,2025-09-28,Active,Not applicable,D20,,814
+PT0814,Tocilizumab,162 mg,2025-10-04,Completed,Not applicable,D08,,815
+PT0815,Tocilizumab,162 mg,2025-09-29,Completed,Not applicable,D03,,816
+PT0816,Trastuzumab,6 mg/kg,2025-10-02,Active,Not applicable,D11,,817
+PT0817,Tocilizumab,162 mg,2025-10-06,Active,Not applicable,D03,,818
+PT0818,Trastuzumab,6 mg/kg,2025-10-12,Active,Not applicable,D16,,819
+PT0819,Ocrelizumab,600 mg,2025-10-12,Active,Not applicable,D34,,820
+PT0820,Tocilizumab,162 mg,2025-10-17,Discontinued,Cost,D13,,821
+PT0821,Trastuzumab,6 mg/kg,2025-10-13,Active,Not applicable,D01,,822
+PT0822,Trastuzumab,6 mg/kg,2025-10-09,Active,Not applicable,D01,,823
+PT0823,Pertuzumab,420 mg,2025-10-10,Discontinued,Patient choice,D06,,824
+PT0824,Tocilizumab,162 mg,2025-10-12,Active,Not applicable,D03,,825
+PT0825,Tocilizumab,162 mg,2025-10-13,Active,Not applicable,D13,,826
+PT0826,Pertuzumab,420 mg,2025-10-09,Active,Not applicable,D01,,827
+PT0827,Ranibizumab,0.5 mg,2025-10-17,Discontinued,Side effects,D25,,828
+PT0828,Pertuzumab,420 mg,2025-10-20,Active,Not applicable,D16,,829
+PT0829,Pertuzumab,420 mg,2025-10-19,Discontinued,Disease progression,D12,,830
+PT0830,Tocilizumab,162 mg,2025-10-18,Active,Not applicable,D28,,831
+PT0831,Trastuzumab,6 mg/kg,2025-10-11,Active,Not applicable,D22,,832
+PT0832,Tocilizumab,162 mg,2025-10-22,Discontinued,Disease progression,D03,,833
+PT0833,Tocilizumab,162 mg,2025-10-22,Active,Not applicable,D08,,834
+PT0834,Trastuzumab,6 mg/kg,2025-10-22,Active,Not applicable,D12,,835
+PT0835,Ranibizumab,0.5 mg,2025-10-12,Active,Not applicable,D10,,836
+PT0836,Tocilizumab,162 mg,2025-10-15,Active,Not applicable,D23,,837
+PT0837,Trastuzumab,6 mg/kg,2025-10-16,Discontinued,Side effects,D01,,838
+PT0838,Ocrelizumab,600 mg,2025-10-20,Active,Not applicable,D19,,839
+PT0839,Tocilizumab,162 mg,2025-10-16,Active,Not applicable,D28,,840
+PT0840,Ranibizumab,0.5 mg,2025-10-16,Discontinued,Cost,D05,,841
+PT0841,Tocilizumab,162 mg,2025-10-24,Active,Not applicable,D03,,842
+PT0842,Ranibizumab,0.5 mg,2025-10-15,Active,Not applicable,D10,,843
+PT0843,Trastuzumab,6 mg/kg,2025-10-26,Active,Not applicable,D06,,844
+PT0844,Trastuzumab,6 mg/kg,2025-10-15,Discontinued,Side effects,D07,,845
+PT0845,Tocilizumab,162 mg,2025-10-16,Discontinued,Side effects,D03,,846
+PT0846,Tocilizumab,Not recorded,2025-10-28,Active,Not applicable,D08,Dose not recorded,847
+PT0847,Ocrelizumab,600 mg,2025-10-20,Active,Not applicable,D09,,848
+PT0848,Ocrelizumab,600 mg,2025-10-27,Active,Not applicable,D09,,849
+PT0849,Pertuzumab,420 mg,2025-10-21,Discontinued,Cost,D07,,850
+PT0850,Ocrelizumab,600 mg,2025-10-22,Active,Not applicable,D04,,851
+PT0851,Ocrelizumab,600 mg,2025-10-25,Active,Not applicable,D34,,852
+PT0852,Tocilizumab,162 mg,2025-10-22,Active,Not applicable,D28,,853
+PT0853,Trastuzumab,6 mg/kg,2025-10-25,Active,Not applicable,D32,,854
+PT0854,Tocilizumab,162 mg,2025-10-18,Active,Not applicable,D08,,855
+PT0855,Ranibizumab,0.5 mg,2025-10-29,Discontinued,Side effects,D20,,856
+PT0856,Pertuzumab,420 mg,2025-10-30,Active,Not applicable,D27,,857
+PT0857,Ocrelizumab,600 mg,2025-10-27,Active,Not applicable,D04,,858
+PT0858,Pertuzumab,420 mg,2025-10-30,Active,Not applicable,D31,,859
+PT0859,Tocilizumab,162 mg,2025-10-27,Active,Not applicable,D08,,860
+PT0860,Pertuzumab,420 mg,2025-10-23,Discontinued,Side effects,D02,,861
+PT0861,Trastuzumab,6 mg/kg,2025-10-22,Active,Not applicable,D11,,862
+PT0862,Tocilizumab,162 mg,2025-10-24,Active,Not applicable,D28,,863
+PT0863,Ocrelizumab,600 mg,2025-10-25,Discontinued,Patient choice,D24,,864
+PT0864,Trastuzumab,6 mg/kg,2025-11-03,Active,Not applicable,D06,,865
+PT0865,Tocilizumab,162 mg,2025-10-29,Active,Not applicable,D33,,866
+PT0866,Ranibizumab,0.5 mg,2025-10-25,Discontinued,Cost,D20,,867
+PT0867,Tocilizumab,162 mg,2025-10-28,Active,Not applicable,D23,,868
+PT0868,Ranibizumab,0.5 mg,2025-11-10,Active,Not applicable,D05,,869
+PT0869,Ranibizumab,0.5 mg,2025-10-28,Discontinued,Side effects,D40,,870
+PT0870,Ranibizumab,0.5 mg,2025-10-29,Active,Not applicable,D10,,871
+PT0871,Tocilizumab,162 mg,2025-11-07,Active,Not applicable,D33,,872
+PT0872,Trastuzumab,6 mg/kg,2025-10-29,Active,Not applicable,D01,,873
+PT0873,Trastuzumab,6 mg/kg,2025-11-06,Active,Not applicable,D01,,874
+PT0874,Ocrelizumab,600 mg,2025-10-31,Active,Not applicable,D04,,875
+PT0875,Trastuzumab,6 mg/kg,2025-11-10,Active,Not applicable,D22,,876
+PT0876,Pertuzumab,420 mg,2025-10-31,Active,Not applicable,D37,,877
+PT0877,Trastuzumab,6 mg/kg,2025-11-04,Active,Not applicable,D31,,878
+PT0878,Ranibizumab,0.5 mg,2025-11-07,Active,Not applicable,D25,,879
+PT0879,Ocrelizumab,600 mg,2025-11-05,Active,Not applicable,D34,,880
+PT0880,Ranibizumab,0.5 mg,2025-11-04,Discontinued,Cost,D10,,881
+PT0881,Tocilizumab,162 mg,2025-11-06,Active,Not applicable,D33,,882
+PT0882,Pertuzumab,420 mg,2025-11-11,Discontinued,Switched therapy,D16,,883
+PT0883,Tocilizumab,162 mg,2025-11-14,Active,Not applicable,D03,,884
+PT0884,Pertuzumab,420 mg,2025-11-18,Active,Not applicable,D16,,885
+PT0885,Pertuzumab,Not recorded,2025-11-18,Active,Not applicable,D07,Dose not recorded,886
+PT0886,Pertuzumab,420 mg,2025-11-15,Active,Not applicable,D32,,887
+PT0887,Pertuzumab,420 mg,2025-11-10,Active,Not applicable,D06,,888
+PT0888,Tocilizumab,162 mg,2025-11-16,Active,Not applicable,D13,,889
+PT0889,Tocilizumab,162 mg,2025-11-14,Active,Not applicable,D38,,890
+PT0890,Ocrelizumab,600 mg,2025-11-14,Active,Not applicable,D04,,891
+PT0891,Pertuzumab,420 mg,2025-11-14,Active,Not applicable,D07,,892
+PT0892,Ocrelizumab,600 mg,2025-11-09,Discontinued,Cost,D09,,893
+PT0893,Trastuzumab,6 mg/kg,2025-11-19,Discontinued,Lost to follow-up,D22,,894
+PT0894,Pertuzumab,420 mg,2025-11-09,Active,Not applicable,D02,,895
+PT0895,Ranibizumab,0.5 mg,2025-11-07,Discontinued,Side effects,D40,,896
+PT0896,Ranibizumab,0.5 mg,2025-11-21,Active,Not applicable,D10,,897
+PT0897,Ocrelizumab,600 mg,2025-11-17,Active,Not applicable,D19,,898
+PT0898,Tocilizumab,162 mg,2025-11-20,Active,Not applicable,D28,,899
+PT0899,Pertuzumab,420 mg,2025-11-12,Active,Not applicable,D32,,900
+PT0900,Tocilizumab,162 mg,2025-11-24,Active,Not applicable,D03,,901
+PT0901,Ranibizumab,0.5 mg,2025-11-13,Active,Not applicable,D05,,902
+PT0902,Tocilizumab,162 mg,2025-11-13,Active,Not applicable,D23,,903
+PT0903,Ocrelizumab,600 mg,2025-11-21,Active,Not applicable,D09,,904
+PT0904,Tocilizumab,162 mg,2025-11-14,Active,Not applicable,D08,,905
+PT0905,Tocilizumab,162 mg,2025-11-27,Active,Not applicable,D23,,906
+PT0906,Trastuzumab,6 mg/kg,2025-11-24,Active,Not applicable,D01,,907
+PT0907,Trastuzumab,6 mg/kg,2025-11-13,Active,Not applicable,D06,,908
+PT0908,Trastuzumab,6 mg/kg,2025-11-26,Active,Not applicable,D26,,909
+PT0909,Tocilizumab,162 mg,2025-11-20,Active,Not applicable,D08,,910
+PT0910,Ranibizumab,0.5 mg,2025-11-26,Active,Not applicable,D10,,911
+PT0911,Trastuzumab,6 mg/kg,2025-11-15,Discontinued,Side effects,D02,,912
+PT0912,Tocilizumab,162 mg,2025-11-30,Active,Not applicable,D03,,913
+PT0913,Ocrelizumab,600 mg,2025-11-29,Active,Not applicable,D19,,914
+PT0914,Tocilizumab,162 mg,2025-11-22,Active,Not applicable,D13,,915
+PT0915,Ranibizumab,0.5 mg,2025-11-24,Active,Not applicable,D25,,916
+PT0916,Ranibizumab,0.5 mg,2025-11-29,Discontinued,Lost to follow-up,D20,,917
+PT0917,Trastuzumab,6 mg/kg,2025-11-18,Active,Not applicable,D27,,918
+PT0918,Tocilizumab,162 mg,2025-11-30,Discontinued,Disease progression,D33,,919
+PT0919,Pertuzumab,420 mg,2025-11-29,Active,Not applicable,D32,,920
+PT0920,Ranibizumab,0.5 mg,2025-11-21,Discontinued,Side effects,D25,,921
+PT0921,Tocilizumab,162 mg,2025-11-27,Active,Not applicable,D03,,922
+PT0922,Ocrelizumab,600 mg,2025-11-23,Discontinued,Disease progression,D24,,923
+PT0923,Pertuzumab,420 mg,2025-11-29,Active,Not applicable,D01,,924
+PT0924,Ocrelizumab,600 mg,2025-11-25,Active,Not applicable,D34,,925
+PT0925,Ranibizumab,0.5 mg,2025-12-04,Active,Not applicable,D35,,926
+PT0926,Trastuzumab,6 mg/kg,2025-12-01,Active,Not applicable,D31,,927
+PT0927,Ranibizumab,0.5 mg,2025-11-24,Active,Not applicable,D35,,928
+PT0928,Ocrelizumab,600 mg,2025-11-25,Active,Not applicable,D34,,929
+PT0929,Trastuzumab,6 mg/kg,2025-12-06,Active,Not applicable,Not recorded,Doctor not recorded,930
+PT0930,Trastuzumab,Not recorded,2025-11-24,Active,Not applicable,D21,Dose not recorded,931
+PT0931,Tocilizumab,162 mg,2025-12-05,Active,Not applicable,D03,,932
+PT0932,Pertuzumab,420 mg,2025-11-23,Active,Not applicable,D31,,933
+PT0933,Tocilizumab,162 mg,2025-12-04,Active,Not applicable,D08,,934
+PT0934,Ranibizumab,0.5 mg,2025-12-01,Active,Not applicable,D15,,935
+PT0935,Pertuzumab,420 mg,2025-12-01,Active,Not applicable,D22,,936
+PT0936,Ranibizumab,Not recorded,2025-12-09,Active,Not applicable,D35,Dose not recorded,937
+PT0937,Ocrelizumab,600 mg,2025-12-05,Discontinued,Disease progression,D29,,938
+PT0938,Ranibizumab,0.5 mg,2025-12-10,Active,Not applicable,D05,,939
+PT0939,Tocilizumab,162 mg,2025-12-10,Discontinued,Lost to follow-up,D18,,940
+PT0940,Tocilizumab,162 mg,2025-11-30,Discontinued,Cost,D18,,941
+PT0941,Ocrelizumab,600 mg,2025-11-30,Active,Not applicable,D04,,942
+PT0942,Tocilizumab,162 mg,2025-11-28,Active,Not applicable,D23,,943
+PT0943,Ocrelizumab,600 mg,2025-12-05,Discontinued,Disease progression,D09,,944
+PT0944,Ocrelizumab,600 mg,2025-12-03,Discontinued,Side effects,D04,,945
+PT0945,Trastuzumab,6 mg/kg,2025-12-03,Active,Not applicable,D11,,946
+PT0946,Ocrelizumab,600 mg,2025-12-11,Active,Not applicable,D19,,947
+PT0947,Trastuzumab,6 mg/kg,2025-12-12,Discontinued,Lost to follow-up,Not recorded,Doctor not recorded,948
+PT0948,Tocilizumab,162 mg,2025-12-08,Active,Not applicable,D18,,949
+PT0949,Ranibizumab,0.5 mg,2025-12-06,Active,Not applicable,D05,,950
+PT0950,Ranibizumab,0.5 mg,2025-12-10,Active,Not applicable,D10,,951
+PT0951,Ranibizumab,0.5 mg,2025-12-12,Discontinued,Cost,D15,,952
+PT0952,Tocilizumab,162 mg,2025-12-11,Active,Not applicable,D23,,953
+PT0953,Trastuzumab,6 mg/kg,2025-12-17,Active,Not applicable,D01,,954
+PT0954,Tocilizumab,162 mg,2025-12-19,Discontinued,Cost,D03,,955
+PT0955,Tocilizumab,162 mg,2025-12-16,Discontinued,Switched therapy,D23,,956
+PT0956,Pertuzumab,420 mg,2025-12-14,Active,Not applicable,D36,,957
+PT0957,Trastuzumab,6 mg/kg,2025-12-15,Active,Not applicable,D31,,958
+PT0958,Ranibizumab,0.5 mg,2025-12-13,Active,Not applicable,D35,,959
+PT0959,Ocrelizumab,600 mg,2025-12-14,Active,Not applicable,D14,,960
+PT0960,Ranibizumab,0.5 mg,2025-12-21,Discontinued,Lost to follow-up,D30,,961
+PT0961,Ranibizumab,0.5 mg,2025-12-10,Discontinued,Cost,D10,,962
+PT0962,Ranibizumab,0.5 mg,2025-12-19,Active,Not applicable,D10,,963
+PT0963,Tocilizumab,Not recorded,2025-12-13,Active,Not applicable,D33,Dose not recorded,964
+PT0964,Tocilizumab,162 mg,2025-12-10,Active,Not applicable,D08,,965
+PT0965,Pertuzumab,420 mg,2025-12-20,Active,Not applicable,D32,,966
+PT0966,Ranibizumab,0.5 mg,2025-12-19,Discontinued,Cost,D10,,967
+PT0967,Tocilizumab,162 mg,2025-12-17,Discontinued,Cost,D18,,968
+PT0968,Ocrelizumab,600 mg,2025-12-21,Active,Not applicable,D29,,969
+PT0969,Trastuzumab,6 mg/kg,2025-12-12,Active,Not applicable,D07,,970
+PT0970,Trastuzumab,6 mg/kg,2025-12-27,Active,Not applicable,D01,,971
+PT0971,Tocilizumab,162 mg,2025-12-17,Active,Not applicable,D23,,972
+PT0972,Trastuzumab,6 mg/kg,2025-12-17,Active,Not applicable,D07,,973
+PT0973,Pertuzumab,420 mg,2025-12-25,Active,Not applicable,D16,,974
+PT0974,Tocilizumab,162 mg,2025-12-23,Active,Not applicable,D38,,975
+PT0975,Trastuzumab,6 mg/kg,2025-12-30,Active,Not applicable,D02,,976
+PT0976,Tocilizumab,162 mg,2025-12-23,Active,Not applicable,D08,,977
+PT0977,Tocilizumab,162 mg,2025-12-31,Discontinued,Lost to follow-up,D38,,978
+PT0978,Pertuzumab,420 mg,2025-12-26,Active,Not applicable,D31,,979
+PT0979,Tocilizumab,162 mg,2025-12-26,Active,Not applicable,D33,,980
+PT0980,Tocilizumab,162 mg,2025-12-23,Active,Not applicable,D13,,981
+PT0981,Ranibizumab,0.5 mg,2025-12-26,Active,Not applicable,D30,,982
+PT0982,Trastuzumab,6 mg/kg,2025-12-23,Discontinued,Cost,D01,,983
+PT0983,Ranibizumab,0.5 mg,2025-12-25,Active,Not applicable,D40,,984
+PT0984,Trastuzumab,6 mg/kg,2025-12-23,Active,Not applicable,D31,,985
+PT0985,Trastuzumab,6 mg/kg,2026-01-06,Active,Not applicable,D06,,986
+PT0986,Trastuzumab,6 mg/kg,2026-01-01,Active,Not applicable,D31,,987
+PT0987,Pertuzumab,420 mg,2026-01-06,Active,Not applicable,D06,,988
+PT0988,Ocrelizumab,600 mg,2026-01-01,Active,Not applicable,D04,,989
+PT0989,Tocilizumab,162 mg,2026-01-04,Discontinued,Disease progression,D33,,990
+PT0990,Pertuzumab,420 mg,2026-01-03,Active,Not applicable,D17,,991
+PT0991,Ranibizumab,0.5 mg,2026-01-03,Active,Not applicable,D05,,992
+PT0992,Trastuzumab,6 mg/kg,2026-01-01,Active,Not applicable,D01,,993
+PT0993,Trastuzumab,6 mg/kg,2026-01-02,Discontinued,Lost to follow-up,D01,,994
+PT0994,Ranibizumab,0.5 mg,2026-01-01,Active,Not applicable,D10,,995
+PT0995,Ranibizumab,0.5 mg,2025-12-31,Discontinued,Disease progression,D20,,996
+PT0996,Trastuzumab,6 mg/kg,2025-12-29,Active,Not applicable,D07,,997
+PT0997,Ocrelizumab,600 mg,2026-01-10,Active,Not applicable,D19,,998
+PT0998,Ranibizumab,0.5 mg,2026-01-06,Discontinued,Cost,D20,,999
+PT0999,Tocilizumab,162 mg,2026-01-03,Discontinued,Disease progression,D28,,1000
+PT1000,Ranibizumab,0.5 mg,2026-01-03,Active,Not applicable,D10,,1001
